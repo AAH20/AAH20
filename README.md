@@ -20,7 +20,7 @@ Production deployments of autonomous agents face systemic challenges across exec
 |                                           | Agent-DAG-Lock                                       |
 | 3. DURABLE STATE, REPLAY & MEMORY         | Agent-WAL, Agent-Sleep-Consolidator,                 |
 |                                           | Agent-Context-Compactor                              |
-| 4. KNOWLEDGE BASE & RETRIEVAL DEFENSE     | Graph-RAG-Guard                                      |
+| 4. KNOWLEDGE BASE & RETRIEVAL DEFENSE     | Graph-RAG-Guard, Vector-Index-Sanitizer              |
 | 5. AGENT IDENTITY & ACCESS CONTROL (IAM)  | Agent-JIT-IAM                                        |
 | 6. PROTOCOL & TOOL INTERFACE SECURITY     | Agent-Schema-Firewall, MCP-Shield                    |
 | 7. RUNTIME ASSURANCE & DATA DEFENSE (DLP) | Zero-Leak-DLP, Aegis-Runtime, Agent-Eval-Guard       |
@@ -49,6 +49,7 @@ Production deployments of autonomous agents face systemic challenges across exec
 
 ### Pillar 4: Knowledge Base & Multi-Hop RAG Defense
 - **[graph-rag-guard](https://github.com/AAH20/graph-rag-guard)**: In-situ defense firewall against Oracle Poisoning and multi-hop reasoning corruption in GraphRAG pipelines, backed by SHA-256 Merkle provenance trees.
+- **[vector-index-sanitizer](https://github.com/AAH20/vector-index-sanitizer)**: Sub-0.05ms vector database index poisoning & synthetic contamination firewall intercepting hidden IPI payloads and cross-tenant leakage.
 
 ### Pillar 5: Agent Identity, Access Control & Privileges
 - **[agent-jit-iam](https://github.com/AAH20/agent-jit-iam)**: Zero-Standing-Privilege (ZSP) delegator issuing ephemeral, single-use, HMAC-signed micro-tokens (10-60s TTL) to prevent privilege escalation across cloud infrastructure.
