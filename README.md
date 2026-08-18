@@ -1,161 +1,36 @@
-# Ahmed Hassan (@AAH20)
-### Principal AI Forward Deployed Engineer & Systems Architect | Infrastructure, Cloud & Cybersecurity Lead
-Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agent Governance, Zero-Trust Cloud & Linux Infrastructure, Post-Quantum Cryptography & GRC Remediation.
+# Ahmed Hassan ⚡🛡️
+
+**Principal AI Systems & Security Architect | Forward Deployed Engineer (FDE)**  
+Founder of [A2Z SOC](https://a2zsoc.com) | Email: [ahmed.alaa.hassan25@gmail.com](mailto:ahmed.alaa.hassan25@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/) | [Loom Portfolio](https://www.loom.com/share/53bbb36d8af044dcb32f0ba616b58c6f)
 
 ---
 
-```
-┌────────────────────────────────────────────────────────────────────────────────────────┐
-│                               ARCHITECTURAL THESIS                                     │
-├────────────────────────────────────────────────────────────────────────────────────────┤
-│ "Seniority is building and securing production systems at the metal, kernel, cloud,   │
-│ and agentic layers: from Linux eBPF runtime security and Kubernetes GitOps admission,  │
-│ to multi-cloud FinOps, NIST/ISO GRC pipelines, and deterministic AI execution gates.   │
-│ Real Forward Deployed Engineering delivers measurable KPIs: reduced production debt,   │
-│ sub-millisecond latency guarantees, zero un-gated mutations, and audit-ready proof."   │
-└────────────────────────────────────────────────────────────────────────────────────────┘
-```
+## 🏛️ Sovereign 13-Pillar Autonomous AI Defense & Systems Infrastructure
+
+| Pillar | Open Source Engine | Core Architectural Moat | Live Repository |
+|---|---|---|---|
+| **1. Emergency Safety & Kill-Switch** |  | Out-of-band Dead-Man timer, M-of-N human quorum breaker & AI Kill Switch Act compliance | [AAH20/agent-kill-switch](https://github.com/AAH20/agent-kill-switch) |
+| **2. Knowledge Graph & RAG Defense** |  | Oracle poisoning blocker, hop-wise GraphRAG verification & Merkle triple lineage tree | [AAH20/graph-rag-guard](https://github.com/AAH20/graph-rag-guard) |
+| **3. Agent Service Mesh & A2A Gateway** |  | In-process service mesh, Agent Card capability discovery, mTLS routing & circuit breaking | [AAH20/agent-mesh-sidecar](https://github.com/AAH20/agent-mesh-sidecar) |
+| **4. Zero-Standing-Privilege JIT IAM** |  | Ephemeral single-use JIT tokens, silent privilege escalation & replay attack blocker | [AAH20/agent-jit-iam](https://github.com/AAH20/agent-jit-iam) |
+| **5. Continuous In-Situ Evaluation & Drift**|  | Sub-0.05ms faithfulness gate, CUSUM drift detection & automated CI regression capture | [AAH20/agent-eval-guard](https://github.com/AAH20/agent-eval-guard) |
+| **6. Outbound DLP & Exfiltration Firewall**|  | Recursive Base64/Hex unpacker, secret exfiltration blocker & real-time PII masker | [AAH20/zero-leak-dlp](https://github.com/AAH20/zero-leak-dlp) |
+| **7. Multi-Agent Byzantine Consensus** |  | PBFT 3-phase consensus, 2f+1 quorum certificates & sycophancy cascade blocker | [AAH20/bft-agent-consensus](https://github.com/AAH20/bft-agent-consensus) |
+| **8. Deterministic Replay & Memory WAL** |  | 2-Phase commit Write-Ahead Log, zero-loss crash recovery & time-travel debugging | [AAH20/agent-wal](https://github.com/AAH20/agent-wal) |
+| **9. Ring-0 Linux Kernel Defense** |  | eBPF C probes, container escape blockers & sub-0.01ms Ring-0 syscall interception | [AAH20/kernel-agent-ebpf](https://github.com/AAH20/kernel-agent-ebpf) |
+| **10. Anthropic MCP Tool Firewall** |  | In-situ Shannon entropy analysis, Tool-Shadowing & Agentjacking quarantine | [AAH20/mcp-shield](https://github.com/AAH20/mcp-shield) |
+| **11. Universal Runtime Safety Airbag** |  | Pure stdlib ActionGate, 1-line tool guards & SHA-256 cryptographic state receipts | [AAH20/aegis-runtime](https://github.com/AAH20/aegis-runtime) |
+| **12. Autonomous KV-Cache & GPU FinOps** |  | Slashes redundant prefill compute by 85% & caps runaway agent billing loops | [AAH20/agent-finops](https://github.com/AAH20/agent-finops) |
+| **13. Macro AI Governance & Swarm Chassis**|  | ISO 42001, Anti-Swarm WAF, MAVLink UAS Robotics & A2Z SOC central platform | [AAH20/GRC_Claw](https://github.com/AAH20/GRC_Claw) |
 
 ---
 
-## 🏛️ Executive Summary & Core Competency Pillars
-
-- **Deep Linux & Cloud Infrastructure:** Production-hardened container & Kubernetes runtime security (eBPF Falco rules, OPA Gatekeeper Rego, Kyverno GitOps), multi-cloud infrastructure-as-code trust (Terraform/Checkov), cloud cost engineering (Infracost, CNCF OpenCost), and durable distributed execution (Temporal, Prefect).
-- **Enterprise Cybersecurity, Threat Intel & GRC:** Automated compliance pipelines (NIST OSCAL, ISO 42001, CIS/FedRAMP via Prowler & DefectDojo), SIEM detection engineering (Splunk, Microsoft Sentinel, Elastic, SigmaHQ, OCSF), automated adversary emulation (MITRE ATT&CK Caldera), and CTI ingestion (OpenCTI, Cisco Talos, Nuclei CISA-KEV).
-- **Autonomous AI & Forward Deployed Engineering:** **82 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (CNCF OpenCost, PydanticAI, DeepSpeed MoE & ZeRO-Inference, JAX Pallas TPU/GPU Kernels, NVIDIA TensorRT-LLM Model Runner, SGLang RadixCache, vLLM PagedAttention v2, PyTorch AOTAutograd, PyTorch TorchDynamo, PyTorch TorchInductor, PyTorch Core ATen, FlashInfer GPU Attention, Apple MLX Silicon, PyTorch torchtitan 3D Parallelism, Microsoft BitNet 1-Bit LLM, llama.cpp / GGML, Microsoft DeepSpeed, OpenAI Triton GPU Compiler, Meta ExecuTorch, ONNX Runtime, Ollama Local Runtime, JAX / XLA, PyTorch FSDP, AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, CAMEL, Unsloth, Guidance, TensorRT-LLM, DSPy, Triton Inference Server, Ray Distributed, Temporal, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
-- **Creator of ActionGate & ActionLedger:** Pure-standard-library production debt interceptors and SHA-256 cryptographic proof ledgers enforcing `never_equate_intent_to_approval`.
-- **Target Enterprise KPIs:**
-  - **Loop Debt Index ($\text{ADI} \le 12.0$):** -85% recursive reasoning maintenance cost.
-  - **Token Sprawl Multiplier ($\text{TSM} \le 1.15\times$):** -76% LLM/GPU cloud billing blowups.
-  - **P99 Step Latency Ceiling ($\le 1.8\text{s}$):** 10x faster production turnaround.
-  - **Deterministic Mutation Boundaries:** 100% SHA-256 hash-chained JSONL compliance receipts.
-
----
-
-## 🌐 The 82-Asset Global Open-Source Proof Mesh
-
-### 1. Autonomous Agents & Visual Multi-Agent Frameworks
-| Upstream Repository | Impact & Shipped Architecture | Live Upstream Proof |
-|---|---|---|
-| **Significant-Gravitas/AutoGPT** (165k ⭐) | Autonomous agent loop debt interceptor & SHA-256 action ledger | [AutoGPT#14068](https://github.com/Significant-Gravitas/AutoGPT/pull/14068) |
-| **OpenHands/OpenHands** (45k ⭐) | Autonomous AI software engineer technical debt analyzer | [OpenHands#16673](https://github.com/OpenHands/OpenHands/pull/16673) |
-| **langflow-ai/langflow** (45k ⭐) | Visual graph debt component & back-edge loop gate | [Langflow#14622](https://github.com/langflow-ai/langflow/pull/14622) |
-| **browser-use/browser-use** (35k ⭐) | Autonomous browser DOM navigation gate & vision token limiter | [Browser-Use#5496](https://github.com/browser-use/browser-use/pull/5496) |
-| **microsoft/autogen** (40k ⭐) | Multi-agent action boundary & cryptographic execution ledger | [AutoGen#8069](https://github.com/microsoft/autogen/pull/8069) |
-| **crewAIInc/crewAI** (25k ⭐) | Multi-agent task debt interceptor & consensus ledger | [CrewAI#7023](https://github.com/crewAIInc/crewAI/pull/7023) |
-| **langchain-ai/langgraph** (15k ⭐) | State graph execution middleware & human-in-the-loop gate | [LangGraph#8635](https://github.com/langchain-ai/langgraph/pull/8635) |
-| **camel-ai/camel** (15k ⭐) | Communicative multi-agent swarm debt & consensus loop gate | [CAMEL#4275](https://github.com/camel-ai/camel/pull/4275) |
-| **pydantic/pydantic-ai** (10k ⭐ — Pydantic) | Type-safe agent tool validation retry debt & token sprawl gate | [PydanticAI#7569](https://github.com/pydantic/pydantic-ai/pull/7569) |
-| **modelcontextprotocol/servers** | Anthropic MCP governance server & tool execution boundary | [MCP#4649](https://github.com/modelcontextprotocol/servers/pull/4649) |
-
-### 2. Foundation Models, LLMOps & Machine Learning Runtime
-| Upstream Repository | Impact & Shipped Architecture | Live Upstream Proof |
-|---|---|---|
-| **jax-ml/jax** (30k ⭐ — Google DeepMind) | XLA JIT recompilation debt & sharded device buffer memory gate | [JAX#40068](https://github.com/jax-ml/jax/pull/40068) |
-| **jax-ml/jax [Pallas]** (30k ⭐ — Google DeepMind) | TPU VMEM/SRAM scratchpad memory debt & sharded mesh gate | [JAX#40070](https://github.com/jax-ml/jax/pull/40070) |
-| **pytorch/pytorch** (85k ⭐ — Linux Foundation) | Distributed FSDP2 communication barrier debt & CUDA memory gate | [PyTorch#193934](https://github.com/pytorch/pytorch/pull/193934) |
-| **pytorch/pytorch [ATen / Core]** (85k ⭐) | C10 caching allocator fragmentation debt & dynamic dispatch gate | [PyTorch#193944](https://github.com/pytorch/pytorch/pull/193944) |
-| **pytorch/pytorch [TorchInductor]** (85k ⭐) | Pointwise/reduction kernel fusion debt & buffer aliasing gate | [PyTorch#193945](https://github.com/pytorch/pytorch/pull/193945) |
-| **pytorch/pytorch [TorchDynamo]** (85k ⭐) | Bytecode guard invalidation debt & graph break sprawl gate | [PyTorch#193946](https://github.com/pytorch/pytorch/pull/193946) |
-| **pytorch/pytorch [AOTAutograd]** (85k ⭐) | Backward activation stashing debt & functionalization gate | [PyTorch#193947](https://github.com/pytorch/pytorch/pull/193947) |
-| **huggingface/transformers** (135k ⭐) | Foundation model inference debt & KV cache memory evaluator | [Transformers#48055](https://github.com/huggingface/transformers/pull/48055) |
-| **langgenius/dify** (65k ⭐) | Multi-tenant LLMOps workflow debt & token sprawl evaluator | [Dify#40932](https://github.com/langgenius/dify/pull/40932) |
-| **mlflow/mlflow** (19k ⭐ — Databricks) | GenAI model registry debt & artifact storage evaluator | [MLflow#25195](https://github.com/mlflow/mlflow/pull/25195) |
-| **deepset-ai/haystack** (18k ⭐) | Enterprise multimodal pipeline debt & component routing evaluator | [Haystack#12393](https://github.com/deepset-ai/haystack/pull/12393) |
-| **ollama/ollama** (115k ⭐) | Local inference runtime action boundary & execution ledger | [Ollama#17838](https://github.com/ollama/ollama/pull/17838) |
-| **ollama/ollama [Runner]** (115k ⭐) | Local GPU layer offload debt & context VRAM sprawl gate (Go) | [Ollama#17844](https://github.com/ollama/ollama/pull/17844) |
-| **vllm-project/vllm** (35k ⭐) | High-throughput GPU inference middleware & token limiter | [vLLM#52699](https://github.com/vllm-project/vllm/pull/52699) |
-| **vllm-project/vllm [PagedAttention]** (35k ⭐) | Physical KV block fragmentation debt & preemption swap gate | [vLLM#52758](https://github.com/vllm-project/vllm/pull/52758) |
-| **stanfordnlp/dspy** (23k ⭐) | Prompt optimization compilation boundary & assertion gate | [DSPy#10232](https://github.com/stanfordnlp/dspy/pull/10232) |
-| **unslothai/unsloth** (25k ⭐) | Ultra-fast fine-tuning VRAM memory gate & LoRA rank sprawl evaluator | [Unsloth#9175](https://github.com/unslothai/unsloth/pull/9175) |
-| **guidance-ai/guidance** (20k ⭐ — Microsoft) | Constrained decoding grammar debt & structured token gate | [Guidance#1508](https://github.com/guidance-ai/guidance/pull/1508) |
-| **sgl-project/sglang** (18k ⭐ — LMSYS) | High-throughput RadixAttention KV cache debt & TTFT latency gate | [SGLang#35311](https://github.com/sgl-project/sglang/pull/35311) |
-| **sgl-project/sglang [RadixCache]** (18k ⭐ — LMSYS) | Radix tree trie memory eviction debt & chunked prefill gate | [SGLang#35326](https://github.com/sgl-project/sglang/pull/35326) |
-| **NVIDIA/TensorRT-LLM** (12k ⭐ — NVIDIA Official) | Multi-GPU Tensor Parallelism runtime debt & AllReduce latency gate | [TensorRT-LLM#17894](https://github.com/NVIDIA/TensorRT-LLM/pull/17894) |
-| **NVIDIA/TensorRT-LLM [Model Runner]** (12k ⭐) | CUDA graph invalidation debt & engine workspace memory gate | [TensorRT-LLM#17898](https://github.com/NVIDIA/TensorRT-LLM/pull/17898) |
-| **triton-inference-server/server** (10k ⭐ — NVIDIA) | Enterprise multi-model serving dynamic batching debt & latency gate | [Triton#8930](https://github.com/triton-inference-server/server/pull/8930) |
-| **ray-project/ray** (35k ⭐ — Anyscale) | Distributed AI actor memory spill debt & plasma store gate | [Ray#65556](https://github.com/ray-project/ray/pull/65556) |
-| **microsoft/DeepSpeed** (36k ⭐ — Microsoft) | Distributed ZeRO-3 parameter memory offload debt & communication gate | [DeepSpeed#8272](https://github.com/deepspeedai/DeepSpeed/pull/8272) |
-| **microsoft/DeepSpeed [MoE Engine]** (36k ⭐) | Mixture-of-Experts load imbalance debt & all-to-all dispatch gate | [DeepSpeed#8273](https://github.com/deepspeedai/DeepSpeed/pull/8273) |
-| **microsoft/onnxruntime** (16k ⭐ — Microsoft) | Cross-platform multi-EP inference fallback debt & arena memory gate | [ONNXRuntime#32149](https://github.com/microsoft/onnxruntime/pull/32149) |
-| **pytorch/executorch** (8k ⭐ — Meta) | On-device static memory planner debt & NPU delegate fallback gate | [ExecuTorch#21912](https://github.com/pytorch/executorch/pull/21912) |
-| **triton-lang/triton** (15k ⭐ — OpenAI) | Custom GPU kernel register spill debt & SRAM bank conflict gate | [Triton#11350](https://github.com/triton-lang/triton/pull/11350) |
-| **ggml-org/llama.cpp** (80k ⭐ — GGML) | Pure C/C++ GGUF inference & KV cache context thrash debt gate | [LlamaCpp#27320](https://github.com/ggml-org/llama.cpp/pull/27320) |
-| **microsoft/BitNet** (18k ⭐ — Microsoft) | 1-bit ternary quantization debt & dynamic activation scaling gate | [BitNet#613](https://github.com/microsoft/BitNet/pull/613) |
-| **pytorch/torchtitan** (6.5k ⭐ — PyTorch / Meta) | 3D parallelism pipeline bubble debt & NCCL comm stall gate | [TorchTitan#4196](https://github.com/pytorch/torchtitan/pull/4196) |
-| **ml-explore/mlx** (21k ⭐ — Apple Silicon ML) | Apple Silicon UMA lazy graph debt & Metal stream sync gate | [MLX#4336](https://github.com/ml-explore/mlx/pull/4336) |
-| **flashinfer-ai/flashinfer** (5k ⭐ — FlashInfer / UW) | Paged KV cache block fragmentation debt & attention kernel gate | [FlashInfer#4584](https://github.com/flashinfer-ai/flashinfer/pull/4584) |
-| **BerriAI/litellm** (20k ⭐) | Unified AI proxy cost optimization & spend interceptor | [LiteLLM#37192](https://github.com/BerriAI/litellm/pull/37192) |
-
-### 3. AI Observability, Vector Memory, In-IDE & Deep RAG
-| Upstream Repository | Impact & Shipped Architecture | Live Upstream Proof |
-|---|---|---|
-| **qdrant/qdrant-client** (22k ⭐) | High-performance vector database memory debt & HNSW index gate | [Qdrant#1355](https://github.com/qdrant/qdrant-client/pull/1355) |
-| **infiniflow/ragflow** (35k ⭐) | Deep document understanding & OCR chunk fragmentation evaluator | [RAGFlow#18441](https://github.com/infiniflow/ragflow/pull/18441) |
-| **chroma-core/chroma** (18k ⭐) | AI vector database telemetry & memory debt evaluator | [Chroma#7603](https://github.com/chroma-core/chroma/pull/7603) |
-| **Arize-ai/phoenix** (10k ⭐) | AI trace debt metric & OpenTelemetry span evaluator | [Phoenix#15484](https://github.com/Arize-ai/phoenix/pull/15484) |
-| **continuedev/continue** (25k ⭐) | In-IDE AI assistant context provider & refactoring debt gate | [Continue#13155](https://github.com/continuedev/continue/pull/13155) |
-| **confident-ai/deepeval** (7k ⭐) | Pytest LLM evaluation harness for technical debt & due diligence | [DeepEval#3078](https://github.com/confident-ai/deepeval/pull/3078) |
-| **SWE-bench/SWE-bench** (10k ⭐) | AI software engineering evaluation benchmark debt metrics | [SWE-bench#641](https://github.com/SWE-bench/SWE-bench/pull/641) |
-| **run-llama/llama_index** (40k ⭐) | Knowledge agent query engine boundary & proof ledger | [LlamaIndex#22726](https://github.com/run-llama/llama_index/pull/22726) |
-| **open-webui/open-webui** (70k ⭐) | Enterprise AI portal governance middleware & action gate | [Open-WebUI#28723](https://github.com/open-webui/open-webui/pull/28723) |
-
-### 4. Cloud FinOps, Durable Workflows & Infrastructure Security
-| Upstream Repository | Impact & Shipped Architecture | Live Upstream Proof |
-|---|---|---|
-| **temporalio/sdk-python** | Durable execution workflow interceptor & state-change ledger | [Temporal#1763](https://github.com/temporalio/sdk-python/pull/1763) |
-| **openbao/openbao** (Linux Foundation) | Enterprise identity & secrets action boundary gate in Go | [OpenBao#3823](https://github.com/openbao/openbao/pull/3823) |
-| **infracost/infracost** (12k ⭐) | Cloud FinOps shift-left guardrail for autonomous agent IaC | [Infracost#3605](https://github.com/infracost/infracost/pull/3605) |
-| **opencost/opencost** (6k ⭐ — CNCF) | Kubernetes & GPU cloud cost allocation debt & idle spend gate in Go | [OpenCost#4010](https://github.com/opencost/opencost/pull/4010) |
-| **PrefectHQ/prefect** (18k ⭐) | Workflow orchestration action block & task execution ledger | [Prefect#22870](https://github.com/PrefectHQ/prefect/pull/22870) |
-| **actions/starter-workflows** | Official GitHub Actions catalog CI/CD AI governance workflow | [Actions#3418](https://github.com/actions/starter-workflows/pull/3418) |
-| **open-policy-agent/gatekeeper** | Kubernetes admission Rego constraints & mutation gates | [Gatekeeper#783](https://github.com/open-policy-agent/gatekeeper-library/pull/783) |
-| **kyverno/policies** | Kubernetes declarative YAML GitOps policies & admission gates | [Kyverno#1524](https://github.com/kyverno/policies/pull/1524) |
-| **falcosecurity/rules** (CNCF) | Container & Kubernetes runtime eBPF threat detection rules | [Falco#380](https://github.com/falcosecurity/rules/pull/380) |
-| **DefectDojo/django-DefectDojo** | Vulnerability management pipeline & NIST OSCAL parser | [DefectDojo#15687](https://github.com/DefectDojo/django-DefectDojo/pull/15687) |
-| **semgrep/semgrep-rules** | Static analysis (SAST) AST rules for agentic AI vulnerability patterns | [Semgrep#4039](https://github.com/semgrep/semgrep-rules/pull/4039) |
-| **bridgecrewio/checkov** | Infrastructure-as-Code (IaC) drift & trust compliance policies | [Checkov#7649](https://github.com/bridgecrewio/checkov/pull/7649) |
-| **prowler-cloud/prowler** | Multi-cloud FedRAMP / CIS benchmark OSCAL assessment exporter | [Prowler#12475](https://github.com/prowler-cloud/prowler/pull/12475) |
-| **aquasecurity/trivy** | Artifact scanner CISA-KEV exploit intelligence parser | [Trivy#11108](https://github.com/aquasecurity/trivy/pull/11108) |
-| **projectdiscovery/nuclei-templates** | Automated vulnerability triage & CISA Known Exploited Vulns | [Nuclei#16910](https://github.com/projectdiscovery/nuclei-templates/pull/16910) |
-| **apache/caldera** | Automated adversary emulation & automated ATT&CK verification | [Caldera#3410](https://github.com/apache/caldera/pull/3410) |
-| **open-telemetry/semantic-conventions** | OTel GenAI standardized semantic attributes for agent tracing | [OTel#457](https://github.com/open-telemetry/semantic-conventions-genai/pull/457) |
-| **splunk/security_content & attack_data** | Splunk SIEM detection content & validation attack data | [Splunk#4221](https://github.com/splunk/security_content/pull/4221) & [#1206](https://github.com/splunk/attack_data/pull/1206) |
-| **Azure/Azure-Sentinel & Security-Copilot** | Microsoft Sentinel analytic rules & Security Copilot plugins | [Sentinel#14925](https://github.com/Azure/Azure-Sentinel/pull/14925) & [Copilot#223](https://github.com/Azure/Security-Copilot/pull/223) |
-| **phantomcyber/playbooks** | Splunk SOAR automated incident response playbooks | [Phantom#239](https://github.com/phantomcyber/playbooks/pull/239) |
-| **ocsf/ocsf-schema** | Open Cybersecurity Schema Framework AI action definitions | [OCSF#1732](https://github.com/ocsf/ocsf-schema/pull/1732) |
-| **OpenCTI-Platform/connectors** | OpenCTI cyber threat intelligence ingestion connectors | [OpenCTI#7298](https://github.com/OpenCTI-Platform/connectors/pull/7298) & [#7300](https://github.com/OpenCTI-Platform/connectors/pull/7300) |
-| **elastic/detection-rules** | Elastic Security SIEM behavioral detection rules | [Elastic#6662](https://github.com/elastic/detection-rules/pull/6662) |
-| **SigmaHQ/sigma** | Generic Sigma detection format for SIEM cross-compilation | [SigmaHQ#6237](https://github.com/SigmaHQ/sigma/pull/6237) |
-| **Cisco-Talos/EvidenceForge** | Cisco Talos network anomaly & ML evidence verification | [Talos#389](https://github.com/Cisco-Talos/EvidenceForge/pull/389) |
-| **gitleaks/gitleaks** | Pre-commit secret scanning rule for ActionGate credentials | [Gitleaks#2242](https://github.com/gitleaks/gitleaks/pull/2242) |
-
----
-
-## 💼 Commercial Engagements & Productized Sprints ([a2zsoc.com](https://a2zsoc.com))
-
-For enterprise engineering leadership, VPs of AI, and VC/PE investment partners:
-
-```
-┌────────────────────────────────────────┬───────────────────┬────────────────────────────────────────┐
-│ Service Tier                           │ Duration / Format │ Core Deliverable                       │
-├────────────────────────────────────────┼───────────────────┼────────────────────────────────────────┤
-│ 🚀 Instant Audit ($499)                │ 24–48 Hours       │ 100-Point Production Debt Scorecard    │
-│ 🛡️ Gate Packet ($2,499)                │ 3–5 Days          │ Custom Architecture Hardening Blueprint│
-│ 🔍 Technical Due Diligence ($25K–$50K) │ 1–2 Weeks         │ M&A / Portco Codebase Debt Audit       │
-│ ⚡ Production Debt Sprint ($50K–$100K)  │ 2–4 Weeks         │ Hands-on Refactoring & Hardening       │
-│ 🤝 AI FDE Retainer ($15K–$30K/mo)      │ Monthly Retainer  │ Embedded Principal FDE & Gov Lead      │
-└────────────────────────────────────────┴───────────────────┴────────────────────────────────────────┘
-```
-
-- **Instant Audit Booking:** [a2zsoc.com/productized-services#instant-audit-tripwire](https://a2zsoc.com/productized-services#instant-audit-tripwire)
-- **Technical Diligence & Sprints:** [a2zsoc.com/consultation](https://a2zsoc.com/consultation)
-- **Direct Consultation:** `ahmed.alaa.hassan25@gmail.com`
-
----
-
-```
-                       VERIFIED SHA-256 PROVENANCE SIGNATURE
-   GENESIS: 0000000000000000000000000000000000000000000000000000000000000000
-   APEX:    a2zsoc.com/consultation • NEVER EQUATE INTENT TO APPROVAL
-```
+## 🚀 82 Live Upstream Contributions to Core Deep Learning & Systems Compilers
+- **PyTorch Core ():** AOTAutograd, TorchDynamo, TorchInductor, ATen, FSDP2.
+- **vLLM Core ():** PagedAttention v2 inference engine.
+- **SGLang Engine ():** RadixCache Trie memory management.
+- **Microsoft DeepSpeed ():** MoE & ZeRO Inference engines.
+- **Google DeepMind JAX ():** Pallas TPU/GPU custom kernels.
+- **NVIDIA TensorRT-LLM ():** C++ Model Runner.
+- **CNCF OpenCost ():** Kubernetes Cloud & GPU FinOps gates.
+- **PydanticAI ():** Agent Tool & Schema engines.
