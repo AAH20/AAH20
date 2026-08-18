@@ -22,7 +22,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 
 - **Deep Linux & Cloud Infrastructure:** Production-hardened container & Kubernetes runtime security (eBPF Falco rules, OPA Gatekeeper Rego, Kyverno GitOps), multi-cloud infrastructure-as-code trust (Terraform/Checkov), cloud cost engineering (Infracost), and durable distributed execution (Temporal, Prefect).
 - **Enterprise Cybersecurity, Threat Intel & GRC:** Automated compliance pipelines (NIST OSCAL, ISO 42001, CIS/FedRAMP via Prowler & DefectDojo), SIEM detection engineering (Splunk, Microsoft Sentinel, Elastic, SigmaHQ, OCSF), automated adversary emulation (MITRE ATT&CK Caldera), and CTI ingestion (OpenCTI, Cisco Talos, Nuclei CISA-KEV).
-- **Autonomous AI & Forward Deployed Engineering:** **74 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (PyTorch TorchDynamo, PyTorch TorchInductor, PyTorch Core ATen, FlashInfer GPU Attention, Apple MLX Silicon, PyTorch torchtitan 3D Parallelism, Microsoft BitNet 1-Bit LLM, llama.cpp / GGML, Microsoft DeepSpeed, OpenAI Triton GPU Compiler, Meta ExecuTorch, ONNX Runtime, Ollama Local Runtime, JAX / XLA, PyTorch FSDP, AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, CAMEL, Unsloth, Guidance, SGLang, TensorRT-LLM, DSPy, Triton Inference Server, Ray Distributed, Temporal, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
+- **Autonomous AI & Forward Deployed Engineering:** **75 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (PyTorch AOTAutograd, PyTorch TorchDynamo, PyTorch TorchInductor, PyTorch Core ATen, FlashInfer GPU Attention, Apple MLX Silicon, PyTorch torchtitan 3D Parallelism, Microsoft BitNet 1-Bit LLM, llama.cpp / GGML, Microsoft DeepSpeed, OpenAI Triton GPU Compiler, Meta ExecuTorch, ONNX Runtime, Ollama Local Runtime, JAX / XLA, PyTorch FSDP, AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, CAMEL, Unsloth, Guidance, SGLang, TensorRT-LLM, DSPy, Triton Inference Server, Ray Distributed, Temporal, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
 - **Creator of ActionGate & ActionLedger:** Pure-standard-library production debt interceptors and SHA-256 cryptographic proof ledgers enforcing `never_equate_intent_to_approval`.
 - **Target Enterprise KPIs:**
   - **Loop Debt Index ($\text{ADI} \le 12.0$):** -85% recursive reasoning maintenance cost.
@@ -32,7 +32,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 
 ---
 
-## 🌐 The 74-Asset Global Open-Source Proof Mesh
+## 🌐 The 75-Asset Global Open-Source Proof Mesh
 
 ### 1. Autonomous Agents & Visual Multi-Agent Frameworks
 | Upstream Repository | Impact & Shipped Architecture | Live Upstream Proof |
@@ -55,6 +55,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 | **pytorch/pytorch [ATen / Core]** (85k ⭐) | C10 caching allocator fragmentation debt & dynamic dispatch gate | [PyTorch#193944](https://github.com/pytorch/pytorch/pull/193944) |
 | **pytorch/pytorch [TorchInductor]** (85k ⭐) | Pointwise/reduction kernel fusion debt & buffer aliasing gate | [PyTorch#193945](https://github.com/pytorch/pytorch/pull/193945) |
 | **pytorch/pytorch [TorchDynamo]** (85k ⭐) | Bytecode guard invalidation debt & graph break sprawl gate | [PyTorch#193946](https://github.com/pytorch/pytorch/pull/193946) |
+| **pytorch/pytorch [AOTAutograd]** (85k ⭐) | Backward activation stashing debt & functionalization gate | [PyTorch#193947](https://github.com/pytorch/pytorch/pull/193947) |
 | **huggingface/transformers** (135k ⭐) | Foundation model inference debt & KV cache memory evaluator | [Transformers#48055](https://github.com/huggingface/transformers/pull/48055) |
 | **langgenius/dify** (65k ⭐) | Multi-tenant LLMOps workflow debt & token sprawl evaluator | [Dify#40932](https://github.com/langgenius/dify/pull/40932) |
 | **mlflow/mlflow** (19k ⭐ — Databricks) | GenAI model registry debt & artifact storage evaluator | [MLflow#25195](https://github.com/mlflow/mlflow/pull/25195) |
