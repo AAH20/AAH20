@@ -22,7 +22,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 
 - **Deep Linux & Cloud Infrastructure:** Production-hardened container & Kubernetes runtime security (eBPF Falco rules, OPA Gatekeeper Rego, Kyverno GitOps), multi-cloud infrastructure-as-code trust (Terraform/Checkov), cloud cost engineering (Infracost), and durable distributed execution (Temporal, Prefect).
 - **Enterprise Cybersecurity, Threat Intel & GRC:** Automated compliance pipelines (NIST OSCAL, ISO 42001, CIS/FedRAMP via Prowler & DefectDojo), SIEM detection engineering (Splunk, Microsoft Sentinel, Elastic, SigmaHQ, OCSF), automated adversary emulation (MITRE ATT&CK Caldera), and CTI ingestion (OpenCTI, Cisco Talos, Nuclei CISA-KEV).
-- **Autonomous AI & Forward Deployed Engineering:** **69 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (PyTorch torchtitan 3D Parallelism, Microsoft BitNet 1-Bit LLM, llama.cpp / GGML, Microsoft DeepSpeed, OpenAI Triton GPU Compiler, Meta ExecuTorch, ONNX Runtime, Ollama Local Runtime, JAX / XLA, PyTorch Core, AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, CAMEL, Unsloth, Guidance, SGLang, TensorRT-LLM, DSPy, Triton Inference Server, Ray Distributed, Temporal, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
+- **Autonomous AI & Forward Deployed Engineering:** **70 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (Apple MLX Silicon, PyTorch torchtitan 3D Parallelism, Microsoft BitNet 1-Bit LLM, llama.cpp / GGML, Microsoft DeepSpeed, OpenAI Triton GPU Compiler, Meta ExecuTorch, ONNX Runtime, Ollama Local Runtime, JAX / XLA, PyTorch Core, AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, CAMEL, Unsloth, Guidance, SGLang, TensorRT-LLM, DSPy, Triton Inference Server, Ray Distributed, Temporal, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
 - **Creator of ActionGate & ActionLedger:** Pure-standard-library production debt interceptors and SHA-256 cryptographic proof ledgers enforcing `never_equate_intent_to_approval`.
 - **Target Enterprise KPIs:**
   - **Loop Debt Index ($\text{ADI} \le 12.0$):** -85% recursive reasoning maintenance cost.
@@ -32,7 +32,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 
 ---
 
-## 🌐 The 69-Asset Global Open-Source Proof Mesh
+## 🌐 The 70-Asset Global Open-Source Proof Mesh
 
 ### 1. Autonomous Agents & Visual Multi-Agent Frameworks
 | Upstream Repository | Impact & Shipped Architecture | Live Upstream Proof |
@@ -73,6 +73,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 | **ggml-org/llama.cpp** (80k ⭐ — GGML) | Pure C/C++ GGUF inference & KV cache context thrash debt gate | [LlamaCpp#27320](https://github.com/ggml-org/llama.cpp/pull/27320) |
 | **microsoft/BitNet** (18k ⭐ — Microsoft) | 1-bit ternary quantization debt & dynamic activation scaling gate | [BitNet#613](https://github.com/microsoft/BitNet/pull/613) |
 | **pytorch/torchtitan** (6.5k ⭐ — PyTorch / Meta) | 3D parallelism pipeline bubble debt & NCCL comm stall gate | [TorchTitan#4196](https://github.com/pytorch/torchtitan/pull/4196) |
+| **ml-explore/mlx** (21k ⭐ — Apple Silicon ML) | Apple Silicon UMA lazy graph debt & Metal stream sync gate | [MLX#4336](https://github.com/ml-explore/mlx/pull/4336) |
 | **BerriAI/litellm** (20k ⭐) | Unified AI proxy cost optimization & spend interceptor | [LiteLLM#37192](https://github.com/BerriAI/litellm/pull/37192) |
 
 ### 3. AI Observability, Vector Memory, In-IDE & Deep RAG
