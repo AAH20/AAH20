@@ -19,7 +19,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 
 ## 🏛️ Executive Summary & Impact Ledger
 
-- **50 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Temporal, Ollama, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
+- **51 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, Temporal, Ollama, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
 - **Creator of ActionGate & ActionLedger:** Pure-standard-library production debt interceptors and SHA-256 cryptographic proof ledgers enforcing `never_equate_intent_to_approval`.
 - **Target Enterprise KPIs:**
   - **Loop Debt Index ($\text{ADI} \le 12.0$):** -85% recursive reasoning maintenance cost.
@@ -29,7 +29,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 
 ---
 
-## 🌐 The 50-Asset Global Open-Source Proof Mesh
+## 🌐 The 51-Asset Global Open-Source Proof Mesh
 
 ### 1. Autonomous Agents & Visual Multi-Agent Frameworks
 | Upstream Repository | Impact & Shipped Architecture | Live Upstream Proof |
@@ -58,6 +58,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 ### 3. AI Observability, Vector Memory, In-IDE & Deep RAG
 | Upstream Repository | Impact & Shipped Architecture | Live Upstream Proof |
 |---|---|---|
+| **qdrant/qdrant-client** (22k ⭐) | High-performance vector database memory debt & HNSW index gate | [Qdrant#1355](https://github.com/qdrant/qdrant-client/pull/1355) |
 | **infiniflow/ragflow** (35k ⭐) | Deep document understanding & OCR chunk fragmentation evaluator | [RAGFlow#18441](https://github.com/infiniflow/ragflow/pull/18441) |
 | **chroma-core/chroma** (18k ⭐) | AI vector database telemetry & memory debt evaluator | [Chroma#7603](https://github.com/chroma-core/chroma/pull/7603) |
 | **Arize-ai/phoenix** (10k ⭐) | AI trace debt metric & OpenTelemetry span evaluator | [Phoenix#15484](https://github.com/Arize-ai/phoenix/pull/15484) |
