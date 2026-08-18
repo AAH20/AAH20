@@ -17,7 +17,8 @@ Production deployments of autonomous agents face systemic challenges across exec
 +--------------------------------------------------------------------------------------------------+
 | 1. MACRO GOVERNANCE & OFFENSIVE ASSURANCE | GRC_Claw, Agent-RedTeam-Harness                      |
 | 2. DISTRIBUTED SWARM & NETWORKING         | Agent-Mesh-Sidecar, BFT-Agent-Consensus              |
-| 3. DURABLE STATE, REPLAY & MEMORY         | Agent-WAL, Agent-Sleep-Consolidator                  |
+| 3. DURABLE STATE, REPLAY & MEMORY         | Agent-WAL, Agent-Sleep-Consolidator,                 |
+|                                           | Agent-Context-Compactor                              |
 | 4. KNOWLEDGE BASE & RETRIEVAL DEFENSE     | Graph-RAG-Guard                                      |
 | 5. AGENT IDENTITY & ACCESS CONTROL (IAM)  | Agent-JIT-IAM                                        |
 | 6. PROTOCOL & TOOL INTERFACE SECURITY     | Agent-Schema-Firewall, MCP-Shield                    |
@@ -42,6 +43,7 @@ Production deployments of autonomous agents face systemic challenges across exec
 ### Pillar 3: Durable State, Replay & Memory Lifecycle
 - **[agent-wal](https://github.com/AAH20/agent-wal)**: Two-phase commit Write-Ahead Logging (WAL) engine providing zero-loss crash recovery and deterministic time-travel replay for complex, multi-step agent trajectories.
 - **[agent-sleep-consolidator](https://github.com/AAH20/agent-sleep-consolidator)**: Background sleep-time compute engine that executes semantic reconciliation, memory decontamination, slashes memory noise by >90%, and enforces GDPR-compliant intentional unlearning.
+- **[agent-context-compactor](https://github.com/AAH20/agent-context-compactor)**: In-situ sub-0.05ms lossless context compactor and monotonic temporal anchor engine slashing prompt token bloat by 60-75%.
 
 ### Pillar 4: Knowledge Base & Multi-Hop RAG Defense
 - **[graph-rag-guard](https://github.com/AAH20/graph-rag-guard)**: In-situ defense firewall against Oracle Poisoning and multi-hop reasoning corruption in GraphRAG pipelines, backed by SHA-256 Merkle provenance trees.
