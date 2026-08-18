@@ -15,14 +15,15 @@ Production deployments of autonomous agents face systemic challenges across exec
 +--------------------------------------------------------------------------------------------------+
 |                            ENTERPRISE AI AGENT INFRASTRUCTURE PLANE                              |
 +--------------------------------------------------------------------------------------------------+
-| 1. MACRO GOVERNANCE & COMPLIANCE        | GRC_Claw                                               |
-| 2. DISTRIBUTED SWARM & NETWORKING       | Agent-Mesh-Sidecar, BFT-Agent-Consensus                |
-| 3. DURABLE STATE & MEMORY ENGINES       | Agent-WAL, Agent-Sleep-Consolidator                    |
-| 4. KNOWLEDGE BASE & RETRIEVAL DEFENSE   | Graph-RAG-Guard                                        |
-| 5. AGENT IDENTITY & ACCESS CONTROL (IAM)| Agent-JIT-IAM                                          |
-| 6. PROTOCOL & TOOL INTERFACE SECURITY   | Agent-Schema-Firewall, MCP-Shield                      |
-| 7. RUNTIME MONITORING & DATA DEFENSE    | Zero-Leak-DLP, Aegis-Runtime, Agent-Eval-Guard         |
-| 8. KERNEL CONTAINMENT & COMPUTE FINOPS  | Kernel-Agent-eBPF, Agent-Kill-Switch, Agent-FinOps     |
+| 1. MACRO GOVERNANCE & OFFENSIVE ASSURANCE | GRC_Claw, Agent-RedTeam-Harness                      |
+| 2. DISTRIBUTED SWARM & NETWORKING         | Agent-Mesh-Sidecar, BFT-Agent-Consensus              |
+| 3. DURABLE STATE, REPLAY & MEMORY         | Agent-WAL, Agent-Sleep-Consolidator                  |
+| 4. KNOWLEDGE BASE & RETRIEVAL DEFENSE     | Graph-RAG-Guard                                      |
+| 5. AGENT IDENTITY & ACCESS CONTROL (IAM)  | Agent-JIT-IAM                                        |
+| 6. PROTOCOL & TOOL INTERFACE SECURITY     | Agent-Schema-Firewall, MCP-Shield                    |
+| 7. RUNTIME ASSURANCE & DATA DEFENSE (DLP) | Zero-Leak-DLP, Aegis-Runtime, Agent-Eval-Guard       |
+| 8. KERNEL CONTAINMENT & COMPUTE FINOPS    | Kernel-Agent-eBPF, Agent-Kill-Switch,                |
+|                                           | Agent-FinOps, Agent-Cost-Cascade                     |
 +--------------------------------------------------------------------------------------------------+
 ```
 
@@ -30,40 +31,42 @@ Production deployments of autonomous agents face systemic challenges across exec
 
 ## Architectural Pillars & Flagship Implementations
 
-### Pillar 1: Macro Governance & Compliance Architecture
+### Pillar 1: Macro Governance & Offensive Assurance
 - **[GRC_Claw](https://github.com/AAH20/GRC_Claw)**: Enterprise-scale autonomous governance platform implementing ISO/IEC 42001, Anti-Swarm WAF capabilities, MAVLink UAS robotics telemetry, and end-to-end auditability for multi-agent workloads.
+- **[agent-redteam-harness](https://github.com/AAH20/agent-redteam-harness)**: Automated trajectory fuzzing, indirect prompt injection (IPI) testing, tool shadowing detection, and SHA-256 Adversarial Robustness Certificates (ARC).
 
 ### Pillar 2: Distributed Swarm Networking & Consensus
-- **[Agent-Mesh-Sidecar](https://github.com/AAH20/agent-mesh-sidecar)**: Sub-0.05ms in-process Agent-to-Agent (A2A) service mesh featuring dynamic capability discovery (Agent Cards), mTLS peer verification, and circuit breaking.
-- **[BFT-Agent-Consensus](https://github.com/AAH20/bft-agent-consensus)**: Practical Byzantine Fault Tolerance (PBFT) quorum engine ($2f+1$) that mathematically mitigates hallucination cascades and sycophancy in collaborative multi-agent networks.
+- **[agent-mesh-sidecar](https://github.com/AAH20/agent-mesh-sidecar)**: Sub-0.05ms in-process Agent-to-Agent (A2A) service mesh featuring dynamic capability discovery (Agent Cards), mTLS peer verification, and circuit breaking.
+- **[bft-agent-consensus](https://github.com/AAH20/bft-agent-consensus)**: Practical Byzantine Fault Tolerance (PBFT 2f+1) quorum engine that mathematically mitigates hallucination cascades and sycophancy in collaborative multi-agent networks.
 
 ### Pillar 3: Durable State, Replay & Memory Lifecycle
-- **[Agent-WAL](https://github.com/AAH20/agent-wal)**: Two-phase commit Write-Ahead Logging (WAL) engine providing zero-loss crash recovery and deterministic time-travel replay for complex, multi-step agent trajectories.
-- **[Agent-Sleep-Consolidator](https://github.com/AAH20/agent-sleep-consolidator)**: Background sleep-time compute engine that executes semantic reconciliation, memory decontamination, and GDPR-compliant intentional unlearning.
+- **[agent-wal](https://github.com/AAH20/agent-wal)**: Two-phase commit Write-Ahead Logging (WAL) engine providing zero-loss crash recovery and deterministic time-travel replay for complex, multi-step agent trajectories.
+- **[agent-sleep-consolidator](https://github.com/AAH20/agent-sleep-consolidator)**: Background sleep-time compute engine that executes semantic reconciliation, memory decontamination, slashes memory noise by >90%, and enforces GDPR-compliant intentional unlearning.
 
 ### Pillar 4: Knowledge Base & Multi-Hop RAG Defense
-- **[Graph-RAG-Guard](https://github.com/AAH20/graph-rag-guard)**: In-situ defense firewall against Oracle Poisoning and multi-hop reasoning corruption in GraphRAG pipelines, backed by SHA-256 Merkle provenance trees.
+- **[graph-rag-guard](https://github.com/AAH20/graph-rag-guard)**: In-situ defense firewall against Oracle Poisoning and multi-hop reasoning corruption in GraphRAG pipelines, backed by SHA-256 Merkle provenance trees.
 
 ### Pillar 5: Agent Identity, Access Control & Privileges
-- **[Agent-JIT-IAM](https://github.com/AAH20/agent-jit-iam)**: Zero-Standing-Privilege (ZSP) delegator issuing ephemeral, single-use, HMAC-signed micro-tokens (10–60s TTL) to prevent privilege escalation across cloud infrastructure.
+- **[agent-jit-iam](https://github.com/AAH20/agent-jit-iam)**: Zero-Standing-Privilege (ZSP) delegator issuing ephemeral, single-use, HMAC-signed micro-tokens (10-60s TTL) to prevent privilege escalation across cloud infrastructure.
 
 ### Pillar 6: Tool Interface & Dynamic Protocol Security
-- **[Agent-Schema-Firewall](https://github.com/AAH20/agent-schema-firewall)**: Dynamic schema parser mitigating AgenTRIM tool-shadowing attacks, prompt injection payloads, and hidden parameter backdoors in MCP and OpenAPI tools.
-- **[MCP-Shield](https://github.com/AAH20/mcp-shield)**: Zero-trust runtime firebox for Model Context Protocol (MCP) servers utilizing dynamic Shannon entropy baselines and AST execution sandboxing.
+- **[agent-schema-firewall](https://github.com/AAH20/agent-schema-firewall)**: Dynamic schema parser mitigating AgenTRIM tool-shadowing attacks, prompt injection payloads, and hidden backdoor parameters in MCP and OpenAPI tools.
+- **[mcp-shield](https://github.com/AAH20/mcp-shield)**: Zero-trust runtime firebox for Model Context Protocol (MCP) servers utilizing dynamic Shannon entropy baselines and AST execution sandboxing.
 
 ### Pillar 7: Runtime Assurance, DLP & Continuous Evaluation
-- **[Zero-Leak-DLP](https://github.com/AAH20/zero-leak-dlp)**: Recursive payload unpacker (Base64/Hex/URL) that intercepts credential exfiltration and automatically redacts PII with cryptographic audit receipts.
-- **[Aegis-Runtime](https://github.com/AAH20/aegis-runtime)**: Sub-millisecond deterministic ActionGate providing non-repudiable SHA-256 state receipts for agent tool calls.
-- **[Agent-Eval-Guard](https://github.com/AAH20/agent-eval-guard)**: Continuous in-situ faithfulness evaluator, CUSUM statistical drift detector, and automated CI regression gate.
+- **[zero-leak-dlp](https://github.com/AAH20/zero-leak-dlp)**: Recursive payload unpacker (Base64/Hex/URL) that intercepts credential exfiltration and automatically redacts PII with cryptographic audit receipts.
+- **[aegis-runtime](https://github.com/AAH20/aegis-runtime)**: Sub-millisecond deterministic ActionGate providing non-repudiable SHA-256 state receipts for agent tool calls.
+- **[agent-eval-guard](https://github.com/AAH20/agent-eval-guard)**: Continuous in-situ faithfulness evaluator, CUSUM statistical drift detector, and automated CI regression gate.
 
 ### Pillar 8: Kernel-Level Containment, Safety Breakers & Compute Optimization
-- **[Kernel-Agent-eBPF](https://github.com/AAH20/kernel-agent-ebpf)**: Ring-0 Linux kernel eBPF C probes providing low-overhead syscall interception to prevent container escapes and unauthorized filesystem traversal.
-- **[Agent-Kill-Switch](https://github.com/AAH20/agent-kill-switch)**: Out-of-band Dead-Man sentinel and M-of-N multi-party human quorum breaker compliant with statutory AI containment mandates.
-- **[Agent-FinOps](https://github.com/AAH20/agent-finops)**: Dynamic prefix hashing and KV-cache tracking engine reducing redundant prefill compute by up to 85% and halting runaway billing loops.
+- **[kernel-agent-ebpf](https://github.com/AAH20/kernel-agent-ebpf)**: Ring-0 Linux kernel eBPF C probes providing low-overhead syscall interception to prevent container escapes and unauthorized filesystem traversal.
+- **[agent-kill-switch](https://github.com/AAH20/agent-kill-switch)**: Out-of-band Dead-Man sentinel and M-of-N multi-party human quorum breaker compliant with statutory AI containment mandates.
+- **[agent-finops](https://github.com/AAH20/agent-finops)**: Dynamic prefix hashing and KV-cache tracking engine reducing redundant prefill compute by up to 85% and halting runaway billing loops.
+- **[agent-cost-cascade](https://github.com/AAH20/agent-cost-cascade)**: Speculative cascading & SLA-aware cost arbitrage router slashing token costs by 75-85%.
 
 ---
 
-## Core Compiler & Inference Engine Contributions (82 Upstream PRs)
+## Core Deep Learning & Systems Compilers Contributions (82 Shipped Upstream PRs)
 
 The agent execution plane is grounded in foundational contributions directly to industry-standard deep learning compilers and distributed runtimes:
 
