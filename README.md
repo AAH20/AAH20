@@ -22,7 +22,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 
 - **Deep Linux & Cloud Infrastructure:** Production-hardened container & Kubernetes runtime security (eBPF Falco rules, OPA Gatekeeper Rego, Kyverno GitOps), multi-cloud infrastructure-as-code trust (Terraform/Checkov), cloud cost engineering (Infracost), and durable distributed execution (Temporal, Prefect).
 - **Enterprise Cybersecurity, Threat Intel & GRC:** Automated compliance pipelines (NIST OSCAL, ISO 42001, CIS/FedRAMP via Prowler & DefectDojo), SIEM detection engineering (Splunk, Microsoft Sentinel, Elastic, SigmaHQ, OCSF), automated adversary emulation (MITRE ATT&CK Caldera), and CTI ingestion (OpenCTI, Cisco Talos, Nuclei CISA-KEV).
-- **Autonomous AI & Forward Deployed Engineering:** **78 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (NVIDIA TensorRT-LLM Model Runner, SGLang RadixCache, vLLM PagedAttention v2, PyTorch AOTAutograd, PyTorch TorchDynamo, PyTorch TorchInductor, PyTorch Core ATen, FlashInfer GPU Attention, Apple MLX Silicon, PyTorch torchtitan 3D Parallelism, Microsoft BitNet 1-Bit LLM, llama.cpp / GGML, Microsoft DeepSpeed, OpenAI Triton GPU Compiler, Meta ExecuTorch, ONNX Runtime, Ollama Local Runtime, JAX / XLA, PyTorch FSDP, AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, CAMEL, Unsloth, Guidance, TensorRT-LLM, DSPy, Triton Inference Server, Ray Distributed, Temporal, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
+- **Autonomous AI & Forward Deployed Engineering:** **79 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (JAX Pallas TPU/GPU Kernels, NVIDIA TensorRT-LLM Model Runner, SGLang RadixCache, vLLM PagedAttention v2, PyTorch AOTAutograd, PyTorch TorchDynamo, PyTorch TorchInductor, PyTorch Core ATen, FlashInfer GPU Attention, Apple MLX Silicon, PyTorch torchtitan 3D Parallelism, Microsoft BitNet 1-Bit LLM, llama.cpp / GGML, Microsoft DeepSpeed, OpenAI Triton GPU Compiler, Meta ExecuTorch, ONNX Runtime, Ollama Local Runtime, JAX / XLA, PyTorch FSDP, AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, CAMEL, Unsloth, Guidance, TensorRT-LLM, DSPy, Triton Inference Server, Ray Distributed, Temporal, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
 - **Creator of ActionGate & ActionLedger:** Pure-standard-library production debt interceptors and SHA-256 cryptographic proof ledgers enforcing `never_equate_intent_to_approval`.
 - **Target Enterprise KPIs:**
   - **Loop Debt Index ($\text{ADI} \le 12.0$):** -85% recursive reasoning maintenance cost.
@@ -32,7 +32,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 
 ---
 
-## 🌐 The 78-Asset Global Open-Source Proof Mesh
+## 🌐 The 79-Asset Global Open-Source Proof Mesh
 
 ### 1. Autonomous Agents & Visual Multi-Agent Frameworks
 | Upstream Repository | Impact & Shipped Architecture | Live Upstream Proof |
@@ -51,6 +51,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 | Upstream Repository | Impact & Shipped Architecture | Live Upstream Proof |
 |---|---|---|
 | **jax-ml/jax** (30k ⭐ — Google DeepMind) | XLA JIT recompilation debt & sharded device buffer memory gate | [JAX#40068](https://github.com/jax-ml/jax/pull/40068) |
+| **jax-ml/jax [Pallas]** (30k ⭐ — Google DeepMind) | TPU VMEM/SRAM scratchpad memory debt & sharded mesh gate | [JAX#40070](https://github.com/jax-ml/jax/pull/40070) |
 | **pytorch/pytorch** (85k ⭐ — Linux Foundation) | Distributed FSDP2 communication barrier debt & CUDA memory gate | [PyTorch#193934](https://github.com/pytorch/pytorch/pull/193934) |
 | **pytorch/pytorch [ATen / Core]** (85k ⭐) | C10 caching allocator fragmentation debt & dynamic dispatch gate | [PyTorch#193944](https://github.com/pytorch/pytorch/pull/193944) |
 | **pytorch/pytorch [TorchInductor]** (85k ⭐) | Pointwise/reduction kernel fusion debt & buffer aliasing gate | [PyTorch#193945](https://github.com/pytorch/pytorch/pull/193945) |
