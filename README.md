@@ -16,7 +16,8 @@ Production deployments of autonomous agents face systemic challenges across exec
 |                            ENTERPRISE AI AGENT INFRASTRUCTURE PLANE                              |
 +--------------------------------------------------------------------------------------------------+
 | 1. MACRO GOVERNANCE & OFFENSIVE ASSURANCE | GRC_Claw, Agent-RedTeam-Harness                      |
-| 2. DISTRIBUTED SWARM & NETWORKING         | Agent-Mesh-Sidecar, BFT-Agent-Consensus              |
+| 2. DISTRIBUTED SWARM & NETWORKING         | Agent-Mesh-Sidecar, BFT-Agent-Consensus,             |
+|                                           | Agent-DAG-Lock                                       |
 | 3. DURABLE STATE, REPLAY & MEMORY         | Agent-WAL, Agent-Sleep-Consolidator,                 |
 |                                           | Agent-Context-Compactor                              |
 | 4. KNOWLEDGE BASE & RETRIEVAL DEFENSE     | Graph-RAG-Guard                                      |
@@ -39,6 +40,7 @@ Production deployments of autonomous agents face systemic challenges across exec
 ### Pillar 2: Distributed Swarm Networking & Consensus
 - **[agent-mesh-sidecar](https://github.com/AAH20/agent-mesh-sidecar)**: Sub-0.05ms in-process Agent-to-Agent (A2A) service mesh featuring dynamic capability discovery (Agent Cards), mTLS peer verification, and circuit breaking.
 - **[bft-agent-consensus](https://github.com/AAH20/bft-agent-consensus)**: Practical Byzantine Fault Tolerance (PBFT 2f+1) quorum engine that mathematically mitigates hallucination cascades and sycophancy in collaborative multi-agent networks.
+- **[agent-dag-lock](https://github.com/AAH20/agent-dag-lock)**: In-memory topological dependency graph and cycle breaker (< 0.01ms) pre-emptively rejecting circular wait conditions and tool call deadlocks in agent swarms.
 
 ### Pillar 3: Durable State, Replay & Memory Lifecycle
 - **[agent-wal](https://github.com/AAH20/agent-wal)**: Two-phase commit Write-Ahead Logging (WAL) engine providing zero-loss crash recovery and deterministic time-travel replay for complex, multi-step agent trajectories.
