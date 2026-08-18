@@ -1,6 +1,6 @@
 # Ahmed Hassan (@AAH20)
-### Principal AI Forward Deployed Engineer | Production Debt & Technical Due Diligence Architect
-Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agent Governance, Zero-Trust Infrastructure & Enterprise AI Remediation.
+### Principal AI Forward Deployed Engineer & Systems Architect | Infrastructure, Cloud & Cybersecurity Lead
+Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agent Governance, Zero-Trust Cloud & Linux Infrastructure, Post-Quantum Cryptography & GRC Remediation.
 
 ---
 
@@ -8,18 +8,21 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 ┌────────────────────────────────────────────────────────────────────────────────────────┐
 │                               ARCHITECTURAL THESIS                                     │
 ├────────────────────────────────────────────────────────────────────────────────────────┤
-│ "Most AI systems fail in production not from lack of intelligence, but from un-gated   │
-│ production debt: runaway recursive loops, un-quantized KV cache bloat, context sprawl, │
-│ and unverified mutations. True Forward Deployed Engineering is not theoretical audit;  │
-│ it is deterministic code, quantifiable KPIs, and immutable cryptographic provenance."  │
+│ "Seniority is building and securing production systems at the metal, kernel, cloud,   │
+│ and agentic layers: from Linux eBPF runtime security and Kubernetes GitOps admission,  │
+│ to multi-cloud FinOps, NIST/ISO GRC pipelines, and deterministic AI execution gates.   │
+│ Real Forward Deployed Engineering delivers measurable KPIs: reduced production debt,   │
+│ sub-millisecond latency guarantees, zero un-gated mutations, and audit-ready proof."   │
 └────────────────────────────────────────────────────────────────────────────────────────┘
 ```
 
 ---
 
-## 🏛️ Executive Summary & Impact Ledger
+## 🏛️ Executive Summary & Core Competency Pillars
 
-- **51 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, Temporal, Ollama, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
+- **Deep Linux & Cloud Infrastructure:** Production-hardened container & Kubernetes runtime security (eBPF Falco rules, OPA Gatekeeper Rego, Kyverno GitOps), multi-cloud infrastructure-as-code trust (Terraform/Checkov), cloud cost engineering (Infracost), and durable distributed execution (Temporal, Prefect).
+- **Enterprise Cybersecurity, Threat Intel & GRC:** Automated compliance pipelines (NIST OSCAL, ISO 42001, CIS/FedRAMP via Prowler & DefectDojo), SIEM detection engineering (Splunk, Microsoft Sentinel, Elastic, SigmaHQ, OCSF), automated adversary emulation (MITRE ATT&CK Caldera), and CTI ingestion (OpenCTI, Cisco Talos, Nuclei CISA-KEV).
+- **Autonomous AI & Forward Deployed Engineering:** 51 live upstream pull requests across the world's most critical open-source AI frameworks (Hugging Face, AutoGPT, Dify, Langflow, OpenHands, Qdrant, Chroma, Arize Phoenix, MLflow, Haystack).
 - **Creator of ActionGate & ActionLedger:** Pure-standard-library production debt interceptors and SHA-256 cryptographic proof ledgers enforcing `never_equate_intent_to_approval`.
 - **Target Enterprise KPIs:**
   - **Loop Debt Index ($\text{ADI} \le 12.0$):** -85% recursive reasoning maintenance cost.
