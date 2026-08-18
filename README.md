@@ -22,7 +22,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 
 - **Deep Linux & Cloud Infrastructure:** Production-hardened container & Kubernetes runtime security (eBPF Falco rules, OPA Gatekeeper Rego, Kyverno GitOps), multi-cloud infrastructure-as-code trust (Terraform/Checkov), cloud cost engineering (Infracost), and durable distributed execution (Temporal, Prefect).
 - **Enterprise Cybersecurity, Threat Intel & GRC:** Automated compliance pipelines (NIST OSCAL, ISO 42001, CIS/FedRAMP via Prowler & DefectDojo), SIEM detection engineering (Splunk, Microsoft Sentinel, Elastic, SigmaHQ, OCSF), automated adversary emulation (MITRE ATT&CK Caldera), and CTI ingestion (OpenCTI, Cisco Talos, Nuclei CISA-KEV).
-- **Autonomous AI & Forward Deployed Engineering:** **57 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, CAMEL, Unsloth, Guidance, SGLang, TensorRT-LLM, DSPy, Temporal, Ollama, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
+- **Autonomous AI & Forward Deployed Engineering:** **58 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, CAMEL, Unsloth, Guidance, SGLang, TensorRT-LLM, DSPy, Triton Inference Server, Temporal, Ollama, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
 - **Creator of ActionGate & ActionLedger:** Pure-standard-library production debt interceptors and SHA-256 cryptographic proof ledgers enforcing `never_equate_intent_to_approval`.
 - **Target Enterprise KPIs:**
   - **Loop Debt Index ($\text{ADI} \le 12.0$):** -85% recursive reasoning maintenance cost.
@@ -32,7 +32,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 
 ---
 
-## 🌐 The 57-Asset Global Open-Source Proof Mesh
+## 🌐 The 58-Asset Global Open-Source Proof Mesh
 
 ### 1. Autonomous Agents & Visual Multi-Agent Frameworks
 | Upstream Repository | Impact & Shipped Architecture | Live Upstream Proof |
@@ -61,6 +61,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 | **guidance-ai/guidance** (20k ⭐ — Microsoft) | Constrained decoding grammar debt & structured token gate | [Guidance#1508](https://github.com/guidance-ai/guidance/pull/1508) |
 | **sgl-project/sglang** (18k ⭐ — LMSYS) | High-throughput RadixAttention KV cache debt & TTFT latency gate | [SGLang#35311](https://github.com/sgl-project/sglang/pull/35311) |
 | **NVIDIA/TensorRT-LLM** (12k ⭐ — NVIDIA Official) | Multi-GPU Tensor Parallelism runtime debt & AllReduce latency gate | [TensorRT-LLM#17894](https://github.com/NVIDIA/TensorRT-LLM/pull/17894) |
+| **triton-inference-server/server** (10k ⭐ — NVIDIA) | Enterprise multi-model serving dynamic batching debt & latency gate | [Triton#8930](https://github.com/triton-inference-server/server/pull/8930) |
 | **BerriAI/litellm** (20k ⭐) | Unified AI proxy cost optimization & spend interceptor | [LiteLLM#37192](https://github.com/BerriAI/litellm/pull/37192) |
 
 ### 3. AI Observability, Vector Memory, In-IDE & Deep RAG
