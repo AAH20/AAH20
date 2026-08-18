@@ -20,9 +20,9 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 
 ## 🏛️ Executive Summary & Core Competency Pillars
 
-- **Deep Linux & Cloud Infrastructure:** Production-hardened container & Kubernetes runtime security (eBPF Falco rules, OPA Gatekeeper Rego, Kyverno GitOps), multi-cloud infrastructure-as-code trust (Terraform/Checkov), cloud cost engineering (Infracost), and durable distributed execution (Temporal, Prefect).
+- **Deep Linux & Cloud Infrastructure:** Production-hardened container & Kubernetes runtime security (eBPF Falco rules, OPA Gatekeeper Rego, Kyverno GitOps), multi-cloud infrastructure-as-code trust (Terraform/Checkov), cloud cost engineering (Infracost, CNCF OpenCost), and durable distributed execution (Temporal, Prefect).
 - **Enterprise Cybersecurity, Threat Intel & GRC:** Automated compliance pipelines (NIST OSCAL, ISO 42001, CIS/FedRAMP via Prowler & DefectDojo), SIEM detection engineering (Splunk, Microsoft Sentinel, Elastic, SigmaHQ, OCSF), automated adversary emulation (MITRE ATT&CK Caldera), and CTI ingestion (OpenCTI, Cisco Talos, Nuclei CISA-KEV).
-- **Autonomous AI & Forward Deployed Engineering:** **81 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (PydanticAI, DeepSpeed MoE & ZeRO-Inference, JAX Pallas TPU/GPU Kernels, NVIDIA TensorRT-LLM Model Runner, SGLang RadixCache, vLLM PagedAttention v2, PyTorch AOTAutograd, PyTorch TorchDynamo, PyTorch TorchInductor, PyTorch Core ATen, FlashInfer GPU Attention, Apple MLX Silicon, PyTorch torchtitan 3D Parallelism, Microsoft BitNet 1-Bit LLM, llama.cpp / GGML, Microsoft DeepSpeed, OpenAI Triton GPU Compiler, Meta ExecuTorch, ONNX Runtime, Ollama Local Runtime, JAX / XLA, PyTorch FSDP, AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, CAMEL, Unsloth, Guidance, TensorRT-LLM, DSPy, Triton Inference Server, Ray Distributed, Temporal, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
+- **Autonomous AI & Forward Deployed Engineering:** **82 Shipped Upstream PRs** across the world's most critical AI frameworks, MLOps engines, and cloud runtime systems (CNCF OpenCost, PydanticAI, DeepSpeed MoE & ZeRO-Inference, JAX Pallas TPU/GPU Kernels, NVIDIA TensorRT-LLM Model Runner, SGLang RadixCache, vLLM PagedAttention v2, PyTorch AOTAutograd, PyTorch TorchDynamo, PyTorch TorchInductor, PyTorch Core ATen, FlashInfer GPU Attention, Apple MLX Silicon, PyTorch torchtitan 3D Parallelism, Microsoft BitNet 1-Bit LLM, llama.cpp / GGML, Microsoft DeepSpeed, OpenAI Triton GPU Compiler, Meta ExecuTorch, ONNX Runtime, Ollama Local Runtime, JAX / XLA, PyTorch FSDP, AutoGPT, Hugging Face, Dify, Langflow, OpenHands, Chroma, Arize Phoenix, Continue, MLflow, Haystack, Qdrant, CAMEL, Unsloth, Guidance, TensorRT-LLM, DSPy, Triton Inference Server, Ray Distributed, Temporal, OpenBao, Infracost, Prefect, Falco, Kyverno, Gatekeeper, Checkov, Prowler).
 - **Creator of ActionGate & ActionLedger:** Pure-standard-library production debt interceptors and SHA-256 cryptographic proof ledgers enforcing `never_equate_intent_to_approval`.
 - **Target Enterprise KPIs:**
   - **Loop Debt Index ($\text{ADI} \le 12.0$):** -85% recursive reasoning maintenance cost.
@@ -32,7 +32,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 
 ---
 
-## 🌐 The 81-Asset Global Open-Source Proof Mesh
+## 🌐 The 82-Asset Global Open-Source Proof Mesh
 
 ### 1. Autonomous Agents & Visual Multi-Agent Frameworks
 | Upstream Repository | Impact & Shipped Architecture | Live Upstream Proof |
@@ -106,6 +106,7 @@ Founder & Chief Architect, **[A2Z SOC](https://a2zsoc.com)** • Autonomous Agen
 | **temporalio/sdk-python** | Durable execution workflow interceptor & state-change ledger | [Temporal#1763](https://github.com/temporalio/sdk-python/pull/1763) |
 | **openbao/openbao** (Linux Foundation) | Enterprise identity & secrets action boundary gate in Go | [OpenBao#3823](https://github.com/openbao/openbao/pull/3823) |
 | **infracost/infracost** (12k ⭐) | Cloud FinOps shift-left guardrail for autonomous agent IaC | [Infracost#3605](https://github.com/infracost/infracost/pull/3605) |
+| **opencost/opencost** (6k ⭐ — CNCF) | Kubernetes & GPU cloud cost allocation debt & idle spend gate in Go | [OpenCost#4010](https://github.com/opencost/opencost/pull/4010) |
 | **PrefectHQ/prefect** (18k ⭐) | Workflow orchestration action block & task execution ledger | [Prefect#22870](https://github.com/PrefectHQ/prefect/pull/22870) |
 | **actions/starter-workflows** | Official GitHub Actions catalog CI/CD AI governance workflow | [Actions#3418](https://github.com/actions/starter-workflows/pull/3418) |
 | **open-policy-agent/gatekeeper** | Kubernetes admission Rego constraints & mutation gates | [Gatekeeper#783](https://github.com/open-policy-agent/gatekeeper-library/pull/783) |
