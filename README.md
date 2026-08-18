@@ -1,7 +1,7 @@
 # Ahmed Hassan
 
 **Principal AI Systems & Security Architect | Forward Deployed Engineer (FDE)**
-Founder of [A2Z SOC](https://a2zsoc.com) | Email: [ahmed.alaa.hassan25@gmail.com](mailto:ahmed.alaa.hassan25@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/) | [Loom Portfolio](https://www.loom.com/share/53bbb36d8af044dcb32f0ba616b58c6f)
+Founder of [A2Z SOC](https://a2zsoc.com) | Email: [ahmed.alaa.hassan25@gmail.com](mailto:ahmed.alaa.hassan25@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
 
 > *Architecting Deterministic, Zero-Trust Infrastructure for Autonomous AI Agents at Production Scale.*
 
