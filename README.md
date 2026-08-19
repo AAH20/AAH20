@@ -71,21 +71,6 @@ Production deployments of autonomous agents face systemic challenges across exec
 
 ---
 
-## Core Deep Learning & Systems Compilers Contributions (82 Shipped Upstream PRs)
-
-The agent execution plane is grounded in foundational contributions directly to industry-standard deep learning compilers and distributed runtimes:
-
-- **PyTorch Core (`pytorch/pytorch`):** AOTAutograd, TorchDynamo, TorchInductor, ATen, FSDP2.
-- **vLLM Core (`vllm-project/vllm`):** PagedAttention v2 inference engine and memory layout stability.
-- **SGLang Engine (`sgl-project/sglang`):** RadixCache Trie memory management optimizations.
-- **Microsoft DeepSpeed (`deepspeedai/DeepSpeed`):** Mixture-of-Experts (MoE) and ZeRO inference engines.
-- **Google DeepMind JAX (`jax-ml/jax`):** Pallas TPU/GPU custom kernel stability.
-- **NVIDIA TensorRT-LLM (`NVIDIA/TensorRT-LLM`):** C++ Model Runner pipeline optimizations.
-- **CNCF OpenCost (`opencost/opencost`):** Kubernetes Cloud & GPU FinOps allocation controllers.
-- **PydanticAI (`pydantic/pydantic-ai`):** Agent Tool & Schema execution validation.
-
----
-
 ## Engineering Standards
 
 - **Zero Third-Party Dependency Overhead:** All core security and runtime engines are implemented using standard libraries and low-level interfaces, eliminating supply-chain exposure in air-gapped or regulated deployments.
