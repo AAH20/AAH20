@@ -1,78 +1,90 @@
 # Ahmed Hassan
 
-**Principal AI Systems & Security Architect | Forward Deployed Engineer (FDE)**  
-Founder, [A2Z SOC](https://a2zsoc.com) | Email: [ahmed.alaa.hassan25@gmail.com](mailto:ahmed.alaa.hassan25@gmail.com) | [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
+## AI Infrastructure, Cloud & Network Architect · Forward-Deployed Engineer
 
-> *Designing and implementing deterministic, zero-trust infrastructure for autonomous AI systems in production environments.*
+I build and validate revenue-critical AI, cloud, network and data platforms—connecting architecture decisions to reliability, capacity, unit economics and controlled production delivery.
 
----
+[A2Z SOC](https://a2zsoc.com) · [Architecture review](https://a2zsoc.com/contact?topic=architecture-review&utm_source=github&utm_medium=profile) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/) · [Email](mailto:ahmed.alaa.hassan25@gmail.com)
 
-## Strategic Focus: The Autonomous Agent Execution Plane
+> My current focus is moving AI and cloud systems from diagrams and pilots into measurable operating platforms: deployable infrastructure, explicit failure modes, business KPIs, evidence boundaries and reproducible decisions.
 
-Production deployments of autonomous agents face systemic challenges across execution integrity, distributed coordination, and infrastructure containment. My open-source work provides an end-to-end, zero-dependency architectural stack designed to enforce mathematical determinism, cryptographic auditability, and zero-trust security across the entire agent lifecycle.
+## Flagship systems
 
+| System | Painful business problem | Executable proof | Evidence status |
+|---|---|---|---|
+| [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin) | Network changes can interrupt every dependent workload | Intent validation, path analysis, dependency-failure replay, revenue exposure and policy gates | **Implemented + simulated**; Bicep compiled; no production device operated |
+| [AI Factory Revenue Twin](https://github.com/AAH20/ai-factory-revenue-twin) | GPU capacity, network bottlenecks and cloud placement destroy AI margins | GPU/fabric economics, hybrid IaaS comparison, CloudStack/Kubernetes contracts and 30 KPIs | **Implemented + Azure evidence plane deployed**; hardware telemetry simulated |
+| [Enterprise AI Integration Platform](https://github.com/AAH20/enterprise-ai-integration-platform) | Revenue stalls between CRM, ERP, payments, logistics and billing | Durable workflow replay, idempotency, compensation, exposure API and 25 KPIs | **Implemented + simulated**; SAP/Salesforce/Oracle adapters are contracts |
+| [CompoundCloud AI Delivery Fabric](https://github.com/AAH20/compoundcloud-ai-delivery-fabric) | Teams scale the wrong AI model, cloud topology or capacity profile | Multicloud architecture compiler, transaction replay, failure recovery and unit economics | **Implemented + Azure evidence plane deployed**; provider pricing is reference data |
+| [AI-Native Internal Developer Platform](https://github.com/AAH20/ai-native-internal-developer-platform) | Platform teams cannot deliver environments consistently or economically | Kubernetes, GitOps, infrastructure contracts, golden paths and delivery economics | **Implemented reference platform**; integrations retain explicit boundaries |
+| [Real-Time Payment Fraud Platform](https://github.com/AAH20/real-time-payment-fraud-platform) | Fraud controls block legitimate revenue or miss coordinated attacks | Streaming risk API, graph signals, false-decline economics and Azure architecture | **Implemented + simulated**; synthetic transactions, not a bank deployment |
+
+## What I solve
+
+- **AI infrastructure:** inference capacity, GPU utilization, model routing, latency, network fabrics and cost per successful outcome.
+- **Cloud and platform engineering:** Azure, multicloud, Kubernetes, GitOps, internal developer platforms, migration and disaster recovery.
+- **Network architecture and automation:** BGP, hybrid connectivity, network digital twins, pre-change validation, Ansible and infrastructure as code.
+- **Enterprise and real-time data:** Kafka, APIs, durable workflows, SAP/Salesforce/Oracle boundaries, Microsoft Fabric, analytics and transaction reliability.
+- **Reliability and operations:** OpenTelemetry, SRE, failure injection, RTO/RPO, rollback, KPI gates and evidence receipts.
+- **Security and compliance:** identity, segmentation, policy as code, agent authorization, SOC engineering and evidence derived from deployed state.
+
+## Portfolio architecture
+
+```text
+BUILD & SCALE                  CONNECT & OPERATE
+AI factories                  Enterprise integration
+Cloud and Kubernetes          Real-time data and APIs
+Developer platforms           AIOps and observability
+Migration and modernization   SAP / Salesforce / Oracle
+
+OPTIMIZE BUSINESS VALUE       VERIFY & RECOVER
+Inference and GPU economics   Network change assurance
+Payment fraud economics       Disaster recovery
+Supply-chain digital twins    Security and compliance
+Capacity and FinOps           Controlled agent execution
 ```
-+--------------------------------------------------------------------------------------------------+
-|                            ENTERPRISE AI AGENT INFRASTRUCTURE PLANE                              |
-+--------------------------------------------------------------------------------------------------+
-| 1. MACRO GOVERNANCE & OFFENSIVE ASSURANCE | GRC_Claw, Agent-RedTeam-Harness                      |
-| 2. DISTRIBUTED SWARM & NETWORKING         | Agent-Mesh-Sidecar, BFT-Agent-Consensus,             |
-|                                           | Agent-DAG-Lock                                       |
-| 3. DURABLE STATE, REPLAY & MEMORY         | Agent-WAL, Agent-Sleep-Consolidator,                 |
-|                                           | Agent-Context-Compactor                              |
-| 4. KNOWLEDGE BASE & RETRIEVAL DEFENSE     | Graph-RAG-Guard, Vector-Index-Sanitizer              |
-| 5. AGENT IDENTITY & ACCESS CONTROL (IAM)  | Agent-JIT-IAM                                        |
-| 6. PROTOCOL & TOOL INTERFACE SECURITY     | Agent-Schema-Firewall, MCP-Shield                    |
-| 7. RUNTIME ASSURANCE & DATA DEFENSE (DLP) | Zero-Leak-DLP, Aegis-Runtime, Agent-Eval-Guard       |
-| 8. KERNEL CONTAINMENT & COMPUTE FINOPS    | Kernel-Agent-eBPF, Agent-Kill-Switch,                |
-|                                           | Agent-FinOps, Agent-Cost-Cascade                     |
-+--------------------------------------------------------------------------------------------------+
-```
 
----
+## Evidence standard
 
-## Architectural Pillars & Flagship Implementations
+Every flagship separates four evidence classes:
 
-### Pillar 1: Macro Governance & Offensive Assurance
-- **[GRC_Claw](https://github.com/AAH20/GRC_Claw)**: Enterprise-scale autonomous governance platform implementing ISO/IEC 42001, Anti-Swarm WAF capabilities, MAVLink UAS robotics telemetry, and end-to-end auditability for multi-agent workloads.
-- **[agent-redteam-harness](https://github.com/AAH20/agent-redteam-harness)**: Automated trajectory fuzzing, indirect prompt injection (IPI) testing, tool shadowing detection, and SHA-256 Adversarial Robustness Certificates (ARC).
+- **Implemented** — executable code and automated tests exist.
+- **Deployed** — retained evidence comes from an authorized cloud or infrastructure environment.
+- **Simulated** — deterministic fixtures or synthetic telemetry exercise declared scenarios.
+- **Contract** — an integration boundary or adapter is designed but has not called the real provider.
 
-### Pillar 2: Distributed Swarm Networking & Consensus
-- **[agent-mesh-sidecar](https://github.com/AAH20/agent-mesh-sidecar)**: Sub-0.05ms in-process Agent-to-Agent (A2A) service mesh featuring dynamic capability discovery (Agent Cards), mTLS peer verification, and circuit breaking.
-- **[bft-agent-consensus](https://github.com/AAH20/bft-agent-consensus)**: Practical Byzantine Fault Tolerance (PBFT 2f+1) quorum engine that mathematically mitigates hallucination cascades and sycophancy in collaborative multi-agent networks.
-- **[agent-dag-lock](https://github.com/AAH20/agent-dag-lock)**: In-memory topological dependency graph and cycle breaker (< 0.01ms) pre-emptively rejecting circular wait conditions and tool call deadlocks in agent swarms.
+Modeled revenue, savings, latency and capacity are not presented as customer outcomes. SHA-256 receipts provide tamper-evidence for the serialized decision; they do not provide non-repudiation without an authenticated signing and custody system.
 
-### Pillar 3: Durable State, Replay & Memory Lifecycle
-- **[agent-wal](https://github.com/AAH20/agent-wal)**: Two-phase commit Write-Ahead Logging (WAL) engine providing zero-loss crash recovery and deterministic time-travel replay for complex, multi-step agent trajectories.
-- **[agent-sleep-consolidator](https://github.com/AAH20/agent-sleep-consolidator)**: Background sleep-time compute engine that executes semantic reconciliation, memory decontamination, slashes memory noise by >90%, and enforces GDPR-compliant intentional unlearning.
-- **[agent-context-compactor](https://github.com/AAH20/agent-context-compactor)**: In-situ sub-0.05ms lossless context compactor and monotonic temporal anchor engine slashing prompt token bloat by 60-75%.
+## Selected supporting systems
 
-### Pillar 4: Knowledge Base & Multi-Hop RAG Defense
-- **[graph-rag-guard](https://github.com/AAH20/graph-rag-guard)**: In-situ defense firewall against Oracle Poisoning and multi-hop reasoning corruption in GraphRAG pipelines, backed by SHA-256 Merkle provenance trees.
-- **[vector-index-sanitizer](https://github.com/AAH20/vector-index-sanitizer)**: Sub-0.05ms vector database index poisoning & synthetic contamination firewall intercepting hidden IPI payloads and cross-tenant leakage.
+### Data, reliability and operations
 
-### Pillar 5: Agent Identity, Access Control & Privileges
-- **[agent-jit-iam](https://github.com/AAH20/agent-jit-iam)**: Zero-Standing-Privilege (ZSP) delegator issuing ephemeral, single-use, HMAC-signed micro-tokens (10-60s TTL) to prevent privilege escalation across cloud infrastructure.
+- [Real-Time AI Data Platform](https://github.com/AAH20/real-time-ai-data-platform) — streaming, Microsoft Fabric, Power BI, lakehouse and predictive/prescriptive analytics.
+- [AIOps Observability Platform](https://github.com/AAH20/aiops-observability-platform) — OpenTelemetry, Kubernetes monitoring, root-cause analysis and incident automation.
+- [Cloud Resilience & Disaster Recovery](https://github.com/AAH20/cloud-resilience-disaster-recovery-platform) — RTO/RPO, ransomware recovery, multi-region planning and chaos scenarios.
+- [Supply Chain Digital Twin](https://github.com/AAH20/supply-chain-digital-twin) — forecasting, inventory optimization, disruption response and working-capital economics.
 
-### Pillar 6: Tool Interface & Dynamic Protocol Security
-- **[agent-schema-firewall](https://github.com/AAH20/agent-schema-firewall)**: Dynamic schema parser mitigating AgenTRIM tool-shadowing attacks, prompt injection payloads, and hidden backdoor parameters in MCP and OpenAPI tools.
-- **[mcp-shield](https://github.com/AAH20/mcp-shield)**: Zero-trust runtime firebox for Model Context Protocol (MCP) servers utilizing dynamic Shannon entropy baselines and AST execution sandboxing.
+### Controlled agent-runtime components
 
-### Pillar 7: Runtime Assurance, DLP & Continuous Evaluation
-- **[zero-leak-dlp](https://github.com/AAH20/zero-leak-dlp)**: Recursive payload unpacker (Base64/Hex/URL) that intercepts credential exfiltration and automatically redacts PII with cryptographic audit receipts.
-- **[aegis-runtime](https://github.com/AAH20/aegis-runtime)**: Sub-millisecond deterministic ActionGate providing non-repudiable SHA-256 state receipts for agent tool calls.
-- **[agent-eval-guard](https://github.com/AAH20/agent-eval-guard)**: Continuous in-situ faithfulness evaluator, CUSUM statistical drift detector, and automated CI regression gate.
+- **Execution and replay:** [aegis-runtime](https://github.com/AAH20/aegis-runtime), [agent-wal](https://github.com/AAH20/agent-wal), [agent-dag-lock](https://github.com/AAH20/agent-dag-lock).
+- **Identity and authorization:** [agent-jit-iam](https://github.com/AAH20/agent-jit-iam), [agent-kill-switch](https://github.com/AAH20/agent-kill-switch).
+- **Tool and MCP security:** [agent-schema-firewall](https://github.com/AAH20/agent-schema-firewall), [mcp-shield](https://github.com/AAH20/mcp-shield), [zero-leak-dlp](https://github.com/AAH20/zero-leak-dlp).
+- **Evaluation and cost:** [agent-eval-guard](https://github.com/AAH20/agent-eval-guard), [agent-finops](https://github.com/AAH20/agent-finops), [agent-cost-cascade](https://github.com/AAH20/agent-cost-cascade).
+- **Retrieval integrity:** [graph-rag-guard](https://github.com/AAH20/graph-rag-guard), [vector-index-sanitizer](https://github.com/AAH20/vector-index-sanitizer).
 
-### Pillar 8: Kernel-Level Containment, Safety Breakers & Compute Optimization
-- **[kernel-agent-ebpf](https://github.com/AAH20/kernel-agent-ebpf)**: Ring-0 Linux kernel eBPF C probes providing low-overhead syscall interception to prevent container escapes and unauthorized filesystem traversal.
-- **[agent-kill-switch](https://github.com/AAH20/agent-kill-switch)**: Out-of-band Dead-Man sentinel and M-of-N multi-party human quorum breaker compliant with statutory AI containment mandates.
-- **[agent-finops](https://github.com/AAH20/agent-finops)**: Dynamic prefix hashing and KV-cache tracking engine reducing redundant prefill compute by up to 85% and halting runaway billing loops.
-- **[agent-cost-cascade](https://github.com/AAH20/agent-cost-cascade)**: Speculative cascading & SLA-aware cost arbitrage router slashing token costs by 75-85%.
+These are focused components and experiments, not claims that a single monolithic production platform has deployed every subsystem.
 
----
+## Engagements
 
-## Engineering Standards
+I am best suited to customer-facing architecture and forward-deployed work where the objective is measurable:
 
-- **Zero Third-Party Dependency Overhead:** All core security and runtime engines are implemented using standard libraries and low-level interfaces, eliminating supply-chain exposure in air-gapped or regulated deployments.
-- **Deterministic Latency Budgets:** Microsecond-tier execution (< 0.05ms) across all policy gates, firewalls, and interceptors to maintain real-time agent performance.
-- **Verifiable Audit Trails:** Cryptographic SHA-256 event chaining across all subsystems to ensure compliance with **ISO/IEC 42001, SOC 2 Type II, and EU AI Act (Article 50)**.
+- architecture and unit-economics assessments;
+- AI/cloud/network platform design and implementation;
+- production-readiness and reliability programs;
+- enterprise integration and data-platform delivery;
+- managed infrastructure, observability and optimization;
+- security and compliance engineering derived from the operating architecture.
+
+**Have a revenue-critical AI, cloud or network platform that needs to scale reliably?**
+
+[Request an architecture and unit-economics review](https://a2zsoc.com/contact?topic=architecture-review&utm_source=github&utm_medium=profile).
