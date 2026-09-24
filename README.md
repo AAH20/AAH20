@@ -6,7 +6,7 @@ I design and validate revenue-critical AI and cloud platforms across Azure, AWS,
 
 My work connects infrastructure architecture, network reliability, GPU and cloud economics, observability, Infrastructure as Code, SOC engineering and continuously verified controls—turning operational findings into reviewable changes and measurable outcomes.
 
-[View flagship system](https://github.com/AAH20/multicloud-infrastructure-control-loop) · [Explore A2Z SOC](https://a2zsoc.com) · [Request an architecture review](https://a2zsoc.com/contact?topic=architecture-review&utm_source=github&utm_medium=profile) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
+[Browse all 210 public original projects](PORTFOLIO.md) · [View flagship system](https://github.com/AAH20/multicloud-infrastructure-control-loop) · [Explore A2Z SOC](https://a2zsoc.com) · [Request an architecture review](https://a2zsoc.com/contact?topic=architecture-review&utm_source=github&utm_medium=profile) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
 
 > Available for remote Principal Architect, Forward-Deployed Engineer, AI Infrastructure, Cloud Platform and customer-facing CISO/GRC engineering engagements internationally.
 
