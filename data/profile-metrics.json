@@ -1,0 +1,96 @@
+{
+  "generated_at_utc": "2026-09-24T20:45:01Z",
+  "source": "https://api.github.com/users/AAH20/repos",
+  "definitions": {
+    "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
+    "pushed_30d": "Repository pushed_at timestamp within the preceding 30 days; this is activity, not production adoption.",
+    "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
+    "forks": "Sum of current forks_count across public originals."
+  },
+  "total": 210,
+  "pushed_30d": 154,
+  "stars": 8,
+  "forks": 1,
+  "domains": [
+    {
+      "name": "Commerce, revenue, and customer operations",
+      "count": 16,
+      "pushed_30d": 14,
+      "stars": 0,
+      "kpis": [
+        "Incident precision (%)",
+        "Reviewer minutes / 100 SKUs"
+      ]
+    },
+    {
+      "name": "GPU, model serving, and AI economics",
+      "count": 21,
+      "pushed_30d": 17,
+      "stars": 0,
+      "kpis": [
+        "p95 first-token latency (ms)",
+        "Cost / 1M accepted tokens (USD)"
+      ]
+    },
+    {
+      "name": "Cloud, platform engineering, and reliability",
+      "count": 53,
+      "pushed_30d": 47,
+      "stars": 1,
+      "kpis": [
+        "Unsafe-change escape rate (%)",
+        "Verified rollback time (min)"
+      ]
+    },
+    {
+      "name": "Marketing, audiences, and growth",
+      "count": 21,
+      "pushed_30d": 21,
+      "stars": 0,
+      "kpis": [
+        "Incremental contribution / $ spent",
+        "Experiment CI width (pp)"
+      ]
+    },
+    {
+      "name": "Physical AI, robotics, and biometrics",
+      "count": 19,
+      "pushed_30d": 17,
+      "stars": 1,
+      "kpis": [
+        "Missed unsafe action rate (%)",
+        "Evidence loss rate (%)"
+      ]
+    },
+    {
+      "name": "AI agents: runtime, security, identity, and governance",
+      "count": 67,
+      "pushed_30d": 32,
+      "stars": 3,
+      "kpis": [
+        "Unauthorized action pass rate (%)",
+        "False-denial rate (%)"
+      ]
+    },
+    {
+      "name": "Data, simulation, and decision systems",
+      "count": 12,
+      "pushed_30d": 5,
+      "stars": 3,
+      "kpis": [
+        "Data freshness lag p95 (s)",
+        "Decision regret vs baseline (%)"
+      ]
+    },
+    {
+      "name": "Other original projects",
+      "count": 1,
+      "pushed_30d": 1,
+      "stars": 0,
+      "kpis": [
+        "Project-specific protocol",
+        "Linked source evidence"
+      ]
+    }
+  ]
+}

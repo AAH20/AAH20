@@ -1,14 +1,14 @@
 # Public original project directory
 
-This directory covers **210 public repositories created under AAH20** in the GitHub inventory captured on 2026-09-24. Forks and private repositories are excluded.
+This directory covers **210 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-09-24. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
-[Start with the flagship systems](README.md#start-here) · [Explore A2Z SOC](https://a2zsoc.com)
+[Profile and live portfolio stats](README.md#live-github-portfolio-telemetry) · [Benchmark protocols](BENCHMARKS.md)
 
-## Commerce, revenue, and customer operations (16)
+## Commerce, revenue, and customer operations
 
-Shopify and merchant operations, order-to-cash reconciliation, customer support automation, and revenue assurance.
+**16 repositories.** Shopify and merchant operations, order-to-cash reconciliation, customer support automation, and revenue assurance.
 
 - [a2z-agent-hire](https://github.com/AAH20/a2z-agent-hire)
 - [a2z-commerce-cash-control](https://github.com/AAH20/a2z-commerce-cash-control)
@@ -27,9 +27,35 @@ Shopify and merchant operations, order-to-cash reconciliation, customer support 
 - [trusted-community-marketplace](https://github.com/AAH20/trusted-community-marketplace)
 - [vendor-assurance](https://github.com/AAH20/vendor-assurance)
 
-## Cloud, platform engineering, and reliability (57)
+## GPU, model serving, and AI economics
 
-Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
+**21 repositories.** LLM inference benchmarking, GPU cost estimation, model serving, AI factory capacity, and deployment economics.
+
+- [ai-factory-revenue-twin](https://github.com/AAH20/ai-factory-revenue-twin)
+- [ai-inference-price-performance-index](https://github.com/AAH20/ai-inference-price-performance-index)
+- [ai-ran-profitability-autopilot](https://github.com/AAH20/ai-ran-profitability-autopilot)
+- [eval-lake](https://github.com/AAH20/eval-lake)
+- [gpu-cloud-cost-calculator](https://github.com/AAH20/gpu-cloud-cost-calculator)
+- [gpu-cluster-mesh](https://github.com/AAH20/gpu-cluster-mesh)
+- [gpu-inference-platform](https://github.com/AAH20/gpu-inference-platform)
+- [green-inference](https://github.com/AAH20/green-inference)
+- [kv-compress-x](https://github.com/AAH20/kv-compress-x)
+- [llm-inference-benchmark](https://github.com/AAH20/llm-inference-benchmark)
+- [llm-inference-optimization-platform](https://github.com/AAH20/llm-inference-optimization-platform)
+- [llm-monopoly](https://github.com/AAH20/llm-monopoly)
+- [neurospark-rt](https://github.com/AAH20/neurospark-rt)
+- [nvidia-ai-factory-deployment-automation](https://github.com/AAH20/nvidia-ai-factory-deployment-automation)
+- [nvidia-ai-factory-reliability-platform](https://github.com/AAH20/nvidia-ai-factory-reliability-platform)
+- [openai-to-vllm-nvidia-nim-migration](https://github.com/AAH20/openai-to-vllm-nvidia-nim-migration)
+- [real-time-ai-data-platform](https://github.com/AAH20/real-time-ai-data-platform)
+- [runproof](https://github.com/AAH20/runproof)
+- [stream-fusion](https://github.com/AAH20/stream-fusion)
+- [tensor-forge](https://github.com/AAH20/tensor-forge)
+- [worldops](https://github.com/AAH20/worldops)
+
+## Cloud, platform engineering, and reliability
+
+**53 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
 
 - [agentic-ai-infrastructure-data-engine](https://github.com/AAH20/agentic-ai-infrastructure-data-engine)
 - [agentic-cloud-solution-engineering-factory](https://github.com/AAH20/agentic-cloud-solution-engineering-factory)
@@ -67,50 +93,27 @@ Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliabilit
 - [cloudfusion-assurance-fabric](https://github.com/AAH20/cloudfusion-assurance-fabric)
 - [compoundcloud-ai-delivery-fabric](https://github.com/AAH20/compoundcloud-ai-delivery-fabric)
 - [enterprise-ai-integration-platform](https://github.com/AAH20/enterprise-ai-integration-platform)
+- [enterprise-ai-production-control-plane](https://github.com/AAH20/enterprise-ai-production-control-plane)
 - [fde-bounty-snr](https://github.com/AAH20/fde-bounty-snr)
 - [ghost-fork](https://github.com/AAH20/ghost-fork)
-- [gpu-cloud-cost-calculator](https://github.com/AAH20/gpu-cloud-cost-calculator)
-- [gpu-inference-platform](https://github.com/AAH20/gpu-inference-platform)
 - [grc-automation-cyber-risk-quantification-platform](https://github.com/AAH20/grc-automation-cyber-risk-quantification-platform)
 - [kubernetes-ai-agent-operator](https://github.com/AAH20/kubernetes-ai-agent-operator)
 - [kubernetes-ai-finops-autopilot](https://github.com/AAH20/kubernetes-ai-finops-autopilot)
 - [kubernetes-ai-sre-platform](https://github.com/AAH20/kubernetes-ai-sre-platform)
-- [llm-inference-optimization-platform](https://github.com/AAH20/llm-inference-optimization-platform)
 - [m-a-technology-integration-factory](https://github.com/AAH20/m-a-technology-integration-factory)
 - [millionready](https://github.com/AAH20/millionready)
 - [multi-cloud-finops-data-quality-platform](https://github.com/AAH20/multi-cloud-finops-data-quality-platform)
 - [multicloud-infrastructure-control-loop](https://github.com/AAH20/multicloud-infrastructure-control-loop)
 - [network-change-intelligence-twin](https://github.com/AAH20/network-change-intelligence-twin)
-- [nvidia-ai-factory-reliability-platform](https://github.com/AAH20/nvidia-ai-factory-reliability-platform)
 - [opentelemetry-infrastructure-graph-collector](https://github.com/AAH20/opentelemetry-infrastructure-graph-collector)
 - [otforge](https://github.com/AAH20/otforge)
-- [real-time-ai-data-platform](https://github.com/AAH20/real-time-ai-data-platform)
 - [sap-s4hana-azure-ai-transformation-factory](https://github.com/AAH20/sap-s4hana-azure-ai-transformation-factory)
 - [self-hosted-ai-agent-infrastructure-platform](https://github.com/AAH20/self-hosted-ai-agent-infrastructure-platform)
 - [vibeguard](https://github.com/AAH20/vibeguard)
 
-## GPU, model serving, and AI economics (14)
+## Marketing, audiences, and growth
 
-LLM inference benchmarking, GPU cost estimation, model serving, AI factory capacity, and deployment economics.
-
-- [ai-inference-price-performance-index](https://github.com/AAH20/ai-inference-price-performance-index)
-- [eval-lake](https://github.com/AAH20/eval-lake)
-- [gpu-cluster-mesh](https://github.com/AAH20/gpu-cluster-mesh)
-- [green-inference](https://github.com/AAH20/green-inference)
-- [kv-compress-x](https://github.com/AAH20/kv-compress-x)
-- [llm-inference-benchmark](https://github.com/AAH20/llm-inference-benchmark)
-- [llm-monopoly](https://github.com/AAH20/llm-monopoly)
-- [neurospark-rt](https://github.com/AAH20/neurospark-rt)
-- [nvidia-ai-factory-deployment-automation](https://github.com/AAH20/nvidia-ai-factory-deployment-automation)
-- [openai-to-vllm-nvidia-nim-migration](https://github.com/AAH20/openai-to-vllm-nvidia-nim-migration)
-- [runproof](https://github.com/AAH20/runproof)
-- [stream-fusion](https://github.com/AAH20/stream-fusion)
-- [tensor-forge](https://github.com/AAH20/tensor-forge)
-- [worldops](https://github.com/AAH20/worldops)
-
-## Marketing, audiences, and growth (21)
-
-Marketing measurement, incrementality testing, synthetic audiences, recommendations, customer retention, and growth experiments.
+**21 repositories.** Marketing measurement, incrementality testing, synthetic audiences, recommendations, customer retention, and growth experiments.
 
 - [attentionos-bench](https://github.com/AAH20/attentionos-bench)
 - [audience-swarm-lab](https://github.com/AAH20/audience-swarm-lab)
@@ -134,9 +137,9 @@ Marketing measurement, incrementality testing, synthetic audiences, recommendati
 - [viral-cascade](https://github.com/AAH20/viral-cascade)
 - [zk-cleanroom](https://github.com/AAH20/zk-cleanroom)
 
-## Physical AI, robotics, and biometrics (19)
+## Physical AI, robotics, and biometrics
 
-Robot evaluation, physical AI black boxes, digital twins, biometric privacy, and industrial simulation.
+**19 repositories.** Robot evaluation, physical AI black boxes, digital twins, biometric privacy, and industrial simulation.
 
 - [aegis-fleet](https://github.com/AAH20/aegis-fleet)
 - [Aegis-IEEE11073-Scanner](https://github.com/AAH20/Aegis-IEEE11073-Scanner)
@@ -158,12 +161,13 @@ Robot evaluation, physical AI black boxes, digital twins, biometric privacy, and
 - [zero-shot-bci](https://github.com/AAH20/zero-shot-bci)
 - [zk-biometrics](https://github.com/AAH20/zk-biometrics)
 
-## AI agents: runtime, security, identity, and governance (62)
+## AI agents: runtime, security, identity, and governance
 
-AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
+**67 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
 
 - [a2z-agent-app-factory](https://github.com/AAH20/a2z-agent-app-factory)
 - [AAH_PostQuantum_Cryptography](https://github.com/AAH20/AAH_PostQuantum_Cryptography)
+- [adversarial-nexus](https://github.com/AAH20/adversarial-nexus)
 - [aegis-decision-fabric](https://github.com/AAH20/aegis-decision-fabric)
 - [aegis-effectproof](https://github.com/AAH20/aegis-effectproof)
 - [aegis-runtime](https://github.com/AAH20/aegis-runtime)
@@ -207,11 +211,13 @@ AI agent security, MCP testing, authorization, observability, evaluation, identi
 - [GRC_Claw](https://github.com/AAH20/GRC_Claw)
 - [hyper-agent-os](https://github.com/AAH20/hyper-agent-os)
 - [identity-fabric-benchmarks](https://github.com/AAH20/identity-fabric-benchmarks)
+- [intel-pulse](https://github.com/AAH20/intel-pulse)
 - [kernel-agent-ebpf](https://github.com/AAH20/kernel-agent-ebpf)
 - [killchain-engine](https://github.com/AAH20/killchain-engine)
 - [mcp-redteam](https://github.com/AAH20/mcp-redteam)
 - [mcp-shield](https://github.com/AAH20/mcp-shield)
 - [open-agent-reliability-fabric](https://github.com/AAH20/open-agent-reliability-fabric)
+- [opensearch-sovereign-vciso-control-plane](https://github.com/AAH20/opensearch-sovereign-vciso-control-plane)
 - [otel-agent-core](https://github.com/AAH20/otel-agent-core)
 - [permissioned-contributor-agent](https://github.com/AAH20/permissioned-contributor-agent)
 - [pqattest](https://github.com/AAH20/pqattest)
@@ -219,20 +225,23 @@ AI agent security, MCP testing, authorization, observability, evaluation, identi
 - [trust-loop](https://github.com/AAH20/trust-loop)
 - [Trust-Wallet-APK-Analysis](https://github.com/AAH20/Trust-Wallet-APK-Analysis)
 - [vdr-synthesizer](https://github.com/AAH20/vdr-synthesizer)
+- [vector-index-sanitizer](https://github.com/AAH20/vector-index-sanitizer)
 - [verified-effects-runtime](https://github.com/AAH20/verified-effects-runtime)
 - [veritas-tee](https://github.com/AAH20/veritas-tee)
 - [vuln-triage](https://github.com/AAH20/vuln-triage)
 - [VulnTruth](https://github.com/AAH20/VulnTruth)
+- [wazuh-elastic-sovereign-vciso-control-plane](https://github.com/AAH20/wazuh-elastic-sovereign-vciso-control-plane)
 - [zero-leak-dlp](https://github.com/AAH20/zero-leak-dlp)
 
-## Data, simulation, and decision systems (11)
+## Data, simulation, and decision systems
 
-Data engineering, simulation, decision support, business outcomes, and technical research.
+**12 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
 
 - [CakeWallet-Analysis](https://github.com/AAH20/CakeWallet-Analysis)
 - [context-graph-compact](https://github.com/AAH20/context-graph-compact)
 - [decision-world](https://github.com/AAH20/decision-world)
 - [MetaMask-APK-Analysis](https://github.com/AAH20/MetaMask-APK-Analysis)
+- [opentelemetry-ai-valueops-collector](https://github.com/AAH20/opentelemetry-ai-valueops-collector)
 - [outcome-fabric](https://github.com/AAH20/outcome-fabric)
 - [project-atlas-due-diligence](https://github.com/AAH20/project-atlas-due-diligence)
 - [PythonDeFi_Challenge](https://github.com/AAH20/PythonDeFi_Challenge)
@@ -241,15 +250,8 @@ Data engineering, simulation, decision support, business outcomes, and technical
 - [swarm-sync](https://github.com/AAH20/swarm-sync)
 - [video-template-system](https://github.com/AAH20/video-template-system)
 
-## Other original projects (10)
+## Other original projects
+
+**1 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
-- [adversarial-nexus](https://github.com/AAH20/adversarial-nexus)
-- [ai-factory-revenue-twin](https://github.com/AAH20/ai-factory-revenue-twin)
-- [ai-ran-profitability-autopilot](https://github.com/AAH20/ai-ran-profitability-autopilot)
-- [enterprise-ai-production-control-plane](https://github.com/AAH20/enterprise-ai-production-control-plane)
-- [intel-pulse](https://github.com/AAH20/intel-pulse)
-- [opensearch-sovereign-vciso-control-plane](https://github.com/AAH20/opensearch-sovereign-vciso-control-plane)
-- [opentelemetry-ai-valueops-collector](https://github.com/AAH20/opentelemetry-ai-valueops-collector)
-- [vector-index-sanitizer](https://github.com/AAH20/vector-index-sanitizer)
-- [wazuh-elastic-sovereign-vciso-control-plane](https://github.com/AAH20/wazuh-elastic-sovereign-vciso-control-plane)

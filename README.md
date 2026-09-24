@@ -1,16 +1,50 @@
-# Ahmed Hassan
+# Ahmed Hassan · Open systems across infrastructure, intelligence, and operations
 
-## AI Infrastructure & Multi-Cloud Architect · Forward-Deployed Engineer · CISO/GRC Engineering
+I build distinct open-source systems for cloud and network operations, GPU/model economics, agent security and identity, commerce operations, physical AI, data/decision systems, and marketing measurement. Each domain has its own technical objective, benchmark units, and evidence boundary.
 
-I design and validate revenue-critical AI and cloud platforms across Azure, AWS, GCP, Kubernetes and hybrid networks.
+[Browse every public original repository](PORTFOLIO.md) · [Read the benchmark protocols](BENCHMARKS.md) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
 
-My work connects infrastructure architecture, network reliability, GPU and cloud economics, observability, Infrastructure as Code, SOC engineering and continuously verified controls—turning operational findings into reviewable changes and measurable outcomes.
+## Live GitHub portfolio telemetry
 
-[Browse all 210 public original projects](PORTFOLIO.md) · [Try the commerce incident demo](https://github.com/AAH20/commerce-incident-network) · [View the infrastructure control loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) · [Explore A2Z SOC](https://a2zsoc.com) · [Request an architecture review](https://a2zsoc.com/contact?topic=architecture-review&utm_source=github&utm_medium=profile) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
+![Live counts of public original repositories, repositories pushed in the past 30 days, stars, and forks](assets/profile/overview.svg)
 
-> Available for remote Principal Architect, Forward-Deployed Engineer, AI Infrastructure, Cloud Platform and customer-facing CISO/GRC engineering engagements internationally.
+The cards below refresh daily from GitHub's public repository API. Counts exclude forks and private repositories. A push is repository activity, not a deployment or customer adoption. Stars and forks are GitHub attention, not revenue or independent validation. [Inspect the machine-readable snapshot and definitions](data/profile-metrics.json).
 
-## Start here
+## Engineering domains and benchmark axes
+
+These are **separate domains**, not one blended product category. Each card links to that domain's original projects. Its two benchmark labels specify what to measure; they are **not claimed results**. The [protocol](BENCHMARKS.md) defines the numerator, denominator, workload, and evidence needed before publishing a score.
+
+[![Commerce, revenue, and customer operations: live repository statistics and benchmark axes](assets/profile/commerce-revenue-and-customer-operations.svg)](PORTFOLIO.md#commerce-revenue-and-customer-operations)
+
+Commerce systems reconcile product, order, payment, and customer-operation states. Their tests should measure incident precision and human review effort, not equate detected mismatches with recovered revenue. [Commerce Incident Network](https://github.com/AAH20/commerce-incident-network) · [Merchant Profit OS](https://github.com/AAH20/merchant-profit-os).
+
+[![GPU, model serving, and AI economics: live repository statistics and benchmark axes](assets/profile/gpu-model-serving-and-ai-economics.svg)](PORTFOLIO.md#gpu-model-serving-and-ai-economics)
+
+Model-serving work is about latency, throughput, capacity, and unit cost under a declared workload. [LLM Inference Benchmark](https://github.com/AAH20/llm-inference-benchmark) · [GPU Cloud Cost Calculator](https://github.com/AAH20/gpu-cloud-cost-calculator).
+
+[![Cloud, platform engineering, and reliability: live repository statistics and benchmark axes](assets/profile/cloud-platform-engineering-and-reliability.svg)](PORTFOLIO.md#cloud-platform-engineering-and-reliability)
+
+Cloud and network engineering is evaluated on change safety, blast radius, rollback, and operational reliability. [Multi-Cloud Infrastructure Control Loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) · [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin).
+
+[![Marketing, audiences, and growth: live repository statistics and benchmark axes](assets/profile/marketing-audiences-and-growth.svg)](PORTFOLIO.md#marketing-audiences-and-growth)
+
+Marketing systems require causal measurement and decision quality, not impressions or synthetic engagement as a substitute for business outcomes. [AttentionOS Bench](https://github.com/AAH20/attentionos-bench) · [Audience Swarm Lab](https://github.com/AAH20/audience-swarm-lab).
+
+[![Physical AI, robotics, and biometrics: live repository statistics and benchmark axes](assets/profile/physical-ai-robotics-and-biometrics.svg)](PORTFOLIO.md#physical-ai-robotics-and-biometrics)
+
+Physical AI is evaluated on unsafe-action misses, recorder completeness, reproducibility, and safe failure under defined conditions. [Physical AI Governor](https://github.com/AAH20/physical-ai-governor) · [Robot Black Box](https://github.com/AAH20/robot-black-box).
+
+[![AI agents, security, identity, and governance: live repository statistics and benchmark axes](assets/profile/ai-agents-runtime-security-identity-and-governance.svg)](PORTFOLIO.md#ai-agents-runtime-security-identity-and-governance)
+
+Agent systems are evaluated on authorized execution, denied-action escape, false denial, and evidence integrity. [GRC Claw](https://github.com/AAH20/GRC_Claw) · [Agent Trust Fabric](https://github.com/AAH20/agent-trust-fabric).
+
+[![Data, simulation, and decision systems: live repository statistics and benchmark axes](assets/profile/data-simulation-and-decision-systems.svg)](PORTFOLIO.md#data-simulation-and-decision-systems)
+
+Data and decision systems are evaluated on freshness, correctness, and decision improvement against a fixed baseline. [Decision World](https://github.com/AAH20/decision-world) · [Outcome Fabric](https://github.com/AAH20/outcome-fabric).
+
+The [remaining profile repository](PORTFOLIO.md#other-original-projects) is listed separately. Domain counts are classification metadata, not a ranking of technical maturity.
+
+## Selected implementations and evidence boundaries
 
 | System | Painful business problem | Executable proof | Evidence boundary |
 |---|---|---|---|
@@ -30,13 +64,17 @@ The control loop consumes normalized operational evidence from three independent
 
 Each adapter produces normalized control observations, SHA-256 integrity digests and review-gated CISO Assistant synchronization plans. CISO Assistant remains the GRC system of record; the adapters and control loop provide the technical collection, architecture decision and verification layers.
 
-## What I solve
+## How to evaluate the work
 
-- **AI infrastructure and Agentic AI:** inference capacity, GPU utilization, model routing, context and workflow reliability, controlled tool execution and cost per successful outcome.
-- **Cloud and platform engineering:** Azure, AWS, GCP, Kubernetes, GitOps, internal developer platforms, migration, modernization and disaster recovery.
-- **Network architecture and automation:** BGP, hybrid connectivity, private networking, DNS, network digital twins, pre-change validation, Ansible and Infrastructure as Code.
-- **Reliability, data and FinOps:** OpenTelemetry, SRE, streaming systems, failure injection, RTO/RPO, rollback, capacity planning and unit economics.
-- **CISO, SOC and GRC engineering:** security architecture, detection and monitoring, control design, ISO 27001/42001 readiness, evidence automation, policy-as-code, risk treatment and remediation verification.
+- **Commerce:** adjudicated incident precision, review effort, correction observation, and contribution economics.
+- **GPU/model serving:** latency and throughput at fixed quality, concurrency, model revision, and fully allocated cost.
+- **Cloud/network:** unsafe-change escapes, blast-radius prediction, rollback verification, and recovery time.
+- **Marketing:** incrementality and uncertainty under a declared experimental design.
+- **Physical AI:** missed hazards, decision timing, recorder completeness, and safe failure in a specified environment.
+- **Agent security/identity:** prohibited-action escapes, false denials, policy scope, and replayable traces.
+- **Data/decisions:** data freshness, correctness, baseline utility, and outcome observation.
+
+[See exact benchmark definitions and evidence requirements](BENCHMARKS.md).
 
 ## CISO and GRC expertise
 
@@ -98,22 +136,24 @@ Modeled revenue, savings, latency, capacity and risk reduction are not presented
 - [AIOps Observability Platform](https://github.com/AAH20/aiops-observability-platform) — OpenTelemetry, root-cause analysis and incident automation.
 - [Cloud Resilience & Disaster Recovery](https://github.com/AAH20/cloud-resilience-disaster-recovery-platform) — RTO/RPO, ransomware recovery and multi-region scenarios.
 
-Earlier post-quantum, healthcare, biometric, robotics and domain-specific systems remain available in my repositories, but do not represent my primary commercial positioning.
+Post-quantum, healthcare, biometric, robotics, and domain-specific systems retain their own scope and evidence limits in the [full original-project directory](PORTFOLIO.md).
 
 ## Engagements
 
-### Architecture diagnostic
+### Infrastructure and model-serving architecture
 
-Cloud, AI, network and data topology; failure modes; capacity; security boundaries; operating KPIs and unit economics.
+Cloud, network, Kubernetes, GPU serving and data topology; failure modes, capacity, rollback, security boundaries, operating KPIs, and unit economics.
 
-### Infrastructure control-loop implementation
+### Identity, agent security, and governed operations
 
-Operational findings through Infrastructure as Code, cost and blast-radius review, controlled rollout and verified evidence.
+Authorization boundaries, agent-tool evaluation, SOC integration, control evidence, and reviewable remediation workflows.
 
-### Managed platform and CISO engineering
+### Commerce, marketing, and decision systems
 
-Cloud and network operations, observability, FinOps, SOC integration, compliance-as-code, audit evidence and continuous improvement.
+Product and order-state diagnostics, causal measurement, customer-operation reliability, data freshness, and benchmark design tied to accepted business outcomes.
 
-**Have a revenue-critical AI, cloud or network platform that must scale reliably and remain governable?**
+### Physical AI and high-consequence evaluation
 
-[Request an architecture and unit-economics review](https://a2zsoc.com/contact?topic=architecture-review&utm_source=github&utm_medium=profile).
+Recorder completeness, missed-hazard evaluation, simulation-to-lab evidence boundaries, and safety-oriented test protocols.
+
+For a scoped technical review, [contact me through A2Z SOC](https://a2zsoc.com/contact?topic=architecture-review&utm_source=github&utm_medium=profile). A2Z SOC is a separate services site; the repositories and benchmark specifications above are the open-source work.
