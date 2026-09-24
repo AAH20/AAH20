@@ -6,7 +6,7 @@ I design and validate revenue-critical AI and cloud platforms across Azure, AWS,
 
 My work connects infrastructure architecture, network reliability, GPU and cloud economics, observability, Infrastructure as Code, SOC engineering and continuously verified controls—turning operational findings into reviewable changes and measurable outcomes.
 
-[Browse all 210 public original projects](PORTFOLIO.md) · [View flagship system](https://github.com/AAH20/multicloud-infrastructure-control-loop) · [Explore A2Z SOC](https://a2zsoc.com) · [Request an architecture review](https://a2zsoc.com/contact?topic=architecture-review&utm_source=github&utm_medium=profile) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
+[Browse all 210 public original projects](PORTFOLIO.md) · [Try the commerce incident demo](https://github.com/AAH20/commerce-incident-network) · [View the infrastructure control loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) · [Explore A2Z SOC](https://a2zsoc.com) · [Request an architecture review](https://a2zsoc.com/contact?topic=architecture-review&utm_source=github&utm_medium=profile) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
 
 > Available for remote Principal Architect, Forward-Deployed Engineer, AI Infrastructure, Cloud Platform and customer-facing CISO/GRC engineering engagements internationally.
 
@@ -14,6 +14,7 @@ My work connects infrastructure architecture, network reliability, GPU and cloud
 
 | System | Painful business problem | Executable proof | Evidence boundary |
 |---|---|---|---|
+| [Commerce Incident Network](https://github.com/AAH20/commerce-incident-network) | Shopify and Google Merchant Center can disagree about product visibility, price, and availability | Offline two-snapshot demo, incident queue, local operator desk, and verifier | Fictional fixtures; read-only connectors tested with mocked responses; no live merchant account exercised |
 | [Multi-Cloud Infrastructure Control Loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) | Cloud findings rarely explain the safe change, financial impact or verification path | Five Azure/AWS/GCP/Kubernetes workflows, cost scenarios, blast-radius gates and verification receipts | Seven tests; synthetic fixtures; performs no production mutation |
 | [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin) | A network change can interrupt every dependent workload and revenue path | Intent validation, path analysis, dependency-failure replay, policy gates and revenue exposure | Implemented and simulated; Bicep compiled; no production device operated |
 | [Kubernetes AI FinOps Autopilot](https://github.com/AAH20/kubernetes-ai-finops-autopilot) | GPU and inference workloads scale cost faster than successful business outcomes | Policy-qualified cost models, admissibility gates and reviewable GitOps proposals | Reproducible synthetic scenarios; no silent cluster mutation |
