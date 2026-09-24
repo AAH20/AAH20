@@ -2,2387 +2,1051 @@
   {
     "name": "a2z-agent-app-factory",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "a2z-agent-hire",
     "public": true,
-    "fork": false,
-    "description": "OSS-first human-controlled job board, evaluated agent-work exchange, and swarm hiring runtime",
-    "topics": []
+    "fork": false
   },
   {
     "name": "a2z-commerce-cash-control",
     "public": true,
-    "fork": false,
-    "description": "Read-only commerce order, processor payout, and ledger reconciliation with reproducible local pilot",
-    "topics": []
+    "fork": false
   },
   {
     "name": "a2z-implementation-exchange",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "a2z-liveops-hub",
     "public": true,
-    "fork": false,
-    "description": "Local, human-reviewed operator console for a pinned A2Z support resolution app",
-    "topics": []
+    "fork": false
   },
   {
     "name": "a2z-resolution-engine",
     "public": true,
-    "fork": false,
-    "description": "Arabic-English support resolution kernel with approved knowledge, conservative escalation and reproducible evaluation",
-    "topics": []
+    "fork": false
   },
   {
     "name": "a2z-resolution-network",
     "public": true,
-    "fork": false,
-    "description": "Inspectable bilingual support-pack registry with synthetic replay gates and local activation",
-    "topics": []
+    "fork": false
   },
   {
     "name": "AAH20",
     "public": true,
-    "fork": false,
-    "description": "AI Infrastructure, Cloud & Network Architect \u2014 systems, evidence and measurable business outcomes.",
-    "topics": [
-      "ai-infrastructure",
-      "azure",
-      "cloud-architecture",
-      "forward-deployed-engineer",
-      "network-automation",
-      "platform-engineering"
-    ]
+    "fork": false
   },
   {
     "name": "AAH_PostQuantum_Cryptography",
     "public": true,
-    "fork": false,
-    "description": "Python post-quantum crypto toolkit: real Kyber1024/Dilithium5 via liboqs (OQS backend), plus an honestly-labeled experimental native RLWE scaffold. Desktop GUI included.",
-    "topics": [
-      "cryptography",
-      "dilithium",
-      "kyber",
-      "lattice-cryptography",
-      "liboqs",
-      "ml-dsa",
-      "ml-kem",
-      "nist-pqc",
-      "post-quantum-cryptography",
-      "python"
-    ]
+    "fork": false
   },
   {
     "name": "adversarial-nexus",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Agent Dynamic Red-Teaming, Indirect Prompt Injection Auditor & Runtime Defense Suite (OWASP LLM01/07/08).",
-    "topics": [
-      "adversarial-ai",
-      "agent-red-teaming",
-      "ai-pentesting",
-      "ai-safety",
-      "control-barrier",
-      "indirect-prompt-injection",
-      "jailbreak-llm",
-      "mcp-security",
-      "owasp-llm-top-10",
-      "prompt-injection-defense",
-      "promptfoo-alternative",
-      "tool-hijacking"
-    ]
+    "fork": false
   },
   {
     "name": "aegis-decision-fabric",
     "public": true,
-    "fork": false,
-    "description": "Vendor-neutral Detection & Remediation Engineering fabric (SnortML + Splunk beachhead)",
-    "topics": []
+    "fork": false
   },
   {
     "name": "aegis-effectproof",
     "public": true,
-    "fork": false,
-    "description": "Independent kernel verification of autonomous-agent effects",
-    "topics": []
+    "fork": false
   },
   {
     "name": "aegis-fleet",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Fleet Black-Box, GRC Assurance Spine & Mission Forensics Plane for Drones (PX4/MAVLink) and Vehicles (openpilot/CAN-bus).",
-    "topics": [
-      "ai-safety",
-      "ardupilot",
-      "autonomous-vehicles",
-      "can-bus",
-      "control-barrier-functions",
-      "drones",
-      "eu-ai-act",
-      "faa-part-107",
-      "forensics",
-      "grc",
-      "iso-26262",
-      "mavlink",
-      "mission-assurance",
-      "openpilot",
-      "px4",
-      "robot-black-box",
-      "robotics",
-      "swarm-intelligence",
-      "tamper-evident",
-      "vla"
-    ]
+    "fork": false
   },
   {
     "name": "Aegis-IEEE11073-Scanner",
     "public": true,
-    "fork": false,
-    "description": "Aegis-11073-Scanner: brutally technical IEEE 11073 / MBAN cyber-physical auditor for plaintext telemetry, missing AEAD MACs, and >8ms latency anomalies.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "Aegis-Neuro-Biometric-Simulator",
     "public": true,
-    "fork": false,
-    "description": "Aegis-Neuro: deterministic, local-only multi-agent adversarial simulator for multi-modal biometrics (fingerprint, retina, EEG 'Brain Print', ECG, voice).",
-    "topics": []
+    "fork": false
   },
   {
     "name": "aegis-runtime",
     "public": true,
-    "fork": false,
-    "description": "The Zero-Dependency Sub-Millisecond ActionGate & Cryptographic ActionLedger for AI Agents & Multi-Cloud Systems",
-    "topics": []
+    "fork": false
   },
   {
     "name": "Aegis_CM_Swarm",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "Aegis_CM_Swarm2",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "Aegis_Q_Cognitive",
     "public": true,
-    "fork": false,
-    "description": "Aegis Quantum-Cognitive \u2014 PQC readiness for neural and biometric interfaces",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-action-gate",
     "public": true,
-    "fork": false,
-    "description": "Gate/Prove runtime for agent and MCP tool calls. Unattended destructive tools DENY. Instant Audit + consultation on a2zsoc.com.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-commerce",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Agent-to-Agent (A2A) Enterprise Commerce & Programmatic RFP Negotiation Protocol. Solves multi-issue Rubinstein bargaining games, generates cryptographically verified contract terms, and closes enterprise procurement pipelines autonomously.",
-    "topics": [
-      "a2a-commerce",
-      "agent-to-agent",
-      "algorithmic-commerce",
-      "autonomous-negotiation",
-      "contract-intelligence",
-      "enterprise-sales-ai",
-      "fintech",
-      "game-theory",
-      "nash-bargaining",
-      "procurement-automation",
-      "rfp-automation"
-    ]
+    "fork": false
   },
   {
     "name": "agent-context-compactor",
     "public": true,
-    "fork": false,
-    "description": "The Sub-Millisecond Lossless Context Compactor & Temporal Anchor Engine for Long-Horizon AI Agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-control-standard-conformance",
     "public": true,
-    "fork": false,
-    "description": "Independent Agent Control Standard conformance testing, AI agent runtime security benchmark, adversarial side-effect validation, AgBOM, OpenTelemetry, and control economics.",
-    "topics": [
-      "agent-bom",
-      "agent-control-standard",
-      "agentic-ai-security",
-      "ai-agent-security",
-      "ai-security-benchmark",
-      "conformance-testing",
-      "cyber-risk-quantification",
-      "mcp-security",
-      "ocsf",
-      "opentelemetry",
-      "owasp-agentic-top-10",
-      "runtime-security"
-    ]
+    "fork": false
   },
   {
     "name": "agent-cost-cascade",
     "public": true,
-    "fork": false,
-    "description": "The Sub-Millisecond Speculative Cascading & SLA-Aware Cost Arbitrage Router for Autonomous AI Agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-dag-lock",
     "public": true,
-    "fork": false,
-    "description": "The Sub-Millisecond Deterministic Topological Cycle Breaker & Deadlock Resolver for Multi-Agent Swarms",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-eval-guard",
     "public": true,
-    "fork": false,
-    "description": "The Continuous In-Situ Evaluation, Semantic Drift & Automated Regression CI Gate for Autonomous AI Agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-finops",
     "public": true,
-    "fork": false,
-    "description": "The Autonomous KV-Cache, Tokenomics & Cost-Per-Task Orchestrator for AI Agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-immune-kernel",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Agentic Immune Hypervisor & Zero-Trust Capability Sandbox. Enforces Denning information flow lattices, attenuated cryptographic Macaroons, and anti-Moltbook Byzantine swarm firewalls.",
-    "topics": [
-      "agentic-security",
-      "ai-safety",
-      "byzantine-fault-tolerance",
-      "capability-security",
-      "information-flow-control",
-      "macaroons",
-      "owasp-agentic",
-      "prompt-injection-defense",
-      "sandboxing",
-      "zero-trust-agent"
-    ]
+    "fork": false
   },
   {
     "name": "agent-jit-iam",
     "public": true,
-    "fork": false,
-    "description": "The Ephemeral Just-In-Time (JIT) IAM Token & Zero-Standing-Privilege Delegator for Autonomous AI Agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-kill-switch",
     "public": true,
-    "fork": false,
-    "description": "The Out-of-Band Dead-Man's Switch & Multi-Party Emergency Breaker for Autonomous AI Agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-mesh-sidecar",
     "public": true,
-    "fork": false,
-    "description": "The In-Process Service Mesh & A2A Routing Gateway for Autonomous AI Agent Swarms",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-redteam-harness",
     "public": true,
-    "fork": false,
-    "description": "The Automated Trajectory Fuzzing & Adversarial Jailbreak Harness for Autonomous AI Agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-schema-firewall",
     "public": true,
-    "fork": false,
-    "description": "The Dynamic Schema Poisoning & Tool Shadowing Defense Engine for Model Context Protocol (MCP) and OpenAPI Tools",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-sleep-consolidator",
     "public": true,
-    "fork": false,
-    "description": "The Offline Sleep-Time Compute, Memory Consolidation & Intentional Unlearning Engine for Long-Horizon AI Agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-trust-fabric",
     "public": true,
-    "fork": false,
-    "description": "Framework-neutral agent authority, evidence receipts, and reproducible Agent Passports",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agent-wal",
     "public": true,
-    "fork": false,
-    "description": "The Embedded Write-Ahead Logging (WAL) & Deterministic Replay Engine for Autonomous AI Agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agentic-ai-infrastructure-data-engine",
     "public": true,
-    "fork": false,
-    "description": "Production-oriented AI infrastructure, AIOps, platform engineering, GraphRAG and verified automation data engine with NVIDIA NIM integration contracts.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agentic-ai-threat-intelligence",
     "public": true,
-    "fork": false,
-    "description": "Agentic AI and MCP threat intelligence exchange with STIX 2.1, MITRE ATLAS-ready mappings, portable detections, safe replay, exposure analysis, and cyber risk economics.",
-    "topics": [
-      "agentic-ai-threat-intelligence",
-      "ai-agent-security",
-      "cyber-risk-quantification",
-      "detection-engineering",
-      "incident-response",
-      "llm-security",
-      "mcp-security",
-      "mitre-atlas",
-      "owasp-agentic-top-10",
-      "stix",
-      "taxii",
-      "threat-intelligence"
-    ]
+    "fork": false
   },
   {
     "name": "agentic-cloud-solution-engineering-factory",
     "public": true,
-    "fork": false,
-    "description": "AI solution architecture and RFP automation with Azure migration, Kubernetes, IaC, FinOps, evidence traceability and commercial proposals.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agentic-devops-sre-skill-registry",
     "public": true,
-    "fork": false,
-    "description": "Evaluated reusable agent skills for Agentic DevOps, AI SRE, Azure, Kubernetes, FinOps, Infrastructure as Code and CloudOps automation.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agentic-industrial-delivery-fabric",
     "public": true,
-    "fork": false,
-    "description": "Evidence-driven design-to-operations compiler for industrial AI, digital twins, Azure, NVIDIA AODT and GR00T adapters",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agentic-infrastructure-change-benchmark",
     "public": true,
-    "fork": false,
-    "description": "Vendor-neutral benchmark for AI agents proposing cloud, Kubernetes, network and Infrastructure as Code changes.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agentic-infrastructure-delivery-factory",
     "public": true,
-    "fork": false,
-    "description": "Agentic infrastructure delivery with NVIDIA NIM, OpenClaw, Paperclip, LangGraph, GraphRAG, IaC, network automation, compliance as code and predictive BI.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "agentproof-ai-security-scanner",
     "public": true,
-    "fork": false,
-    "description": "Open-source AI agent security and MCP security scanner with prompt injection testing, OWASP Agentic Top 10 evidence passports, KPIs, and unit economics.",
-    "topics": [
-      "ai-agent-security",
-      "ai-governance",
-      "ai-red-teaming",
-      "cybersecurity",
-      "llm-security",
-      "mcp-security",
-      "owasp-agentic-top-10",
-      "prompt-injection"
-    ]
+    "fork": false
   },
   {
     "name": "agentrelease-authority",
     "public": true,
-    "fork": false,
-    "description": "Continuous authorization, security, compliance and evidence gates for enterprise AI-agent releases",
-    "topics": []
+    "fork": false
   },
   {
     "name": "ai-agent-identity-authorization-security",
     "public": true,
-    "fork": false,
-    "description": "Open AI agent IAM conformance lab for identity, delegated authorization, MCP security, workload identity, revocation, accountability, and non-human identity controls.",
-    "topics": [
-      "agentic-ai-security",
-      "ai-agent-authorization",
-      "ai-agent-iam",
-      "ai-agent-identity",
-      "mcp-authorization",
-      "mcp-security",
-      "non-human-identity",
-      "workload-identity"
-    ]
+    "fork": false
   },
   {
     "name": "ai-agent-infrastructure-benchmark",
     "public": true,
-    "fork": false,
-    "description": "Open benchmark for AI agent infrastructure security, sandbox isolation, recovery, evidence quality and cost per accepted outcome.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "ai-agent-mcp-security-scorecard",
     "public": true,
-    "fork": false,
-    "description": "Evidence-backed AI agent and MCP security scorecards with reproducible profiles, drift detection, KPIs, and unit economics.",
-    "topics": [
-      "agentic-ai",
-      "ai-agent-security",
-      "ai-governance",
-      "cybersecurity",
-      "devsecops",
-      "grc",
-      "llm-security",
-      "mcp-security",
-      "model-context-protocol",
-      "risk-management",
-      "security-automation",
-      "supply-chain-security"
-    ]
+    "fork": false
   },
   {
     "name": "ai-agent-reliability-resilience",
     "public": true,
-    "fork": false,
-    "description": "AI agent reliability engineering, MCP chaos testing, transaction recovery, SRE metrics, and operational resilience",
-    "topics": [
-      "agentic-ai",
-      "agentops",
-      "ai-agents",
-      "chaos-engineering",
-      "kubernetes",
-      "llmops",
-      "mcp",
-      "observability",
-      "operational-resilience",
-      "site-reliability-engineering",
-      "sre",
-      "transaction-recovery"
-    ]
+    "fork": false
   },
   {
     "name": "ai-agent-runtime-gateway",
     "public": true,
-    "fork": false,
-    "description": "Kubernetes-native MCP and A2A gateway for secure AI agent orchestration, sandbox placement, approvals, OpenTelemetry and AI FinOps.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "ai-agent-security-telemetry-incident-response",
     "public": true,
-    "fork": false,
-    "description": "OpenTelemetry security events, portable detections, and forensic incident response for AI agents, MCP systems, LLM security monitoring, and agent observability.",
-    "topics": [
-      "agentic-ai-security",
-      "ai-agent-monitoring",
-      "ai-agent-observability",
-      "ai-agent-security",
-      "ai-incident-response",
-      "llm-security",
-      "mcp-security",
-      "opentelemetry"
-    ]
+    "fork": false
   },
   {
     "name": "ai-agent-security-trust-center",
     "public": true,
-    "fork": false,
-    "description": "Open security assurance registry and trust center for AI agents, MCP servers, agent identity, authorization, governance, compliance evidence, and continuous verification.",
-    "topics": [
-      "agent-authorization",
-      "agent-identity",
-      "ai-agent-security",
-      "ai-compliance",
-      "ai-governance",
-      "continuous-assurance",
-      "mcp-security",
-      "trust-center"
-    ]
+    "fork": false
   },
   {
     "name": "ai-cloud-cost-optimization-platform",
     "public": true,
-    "fork": false,
-    "description": "Open-source FinOps automation for multi-cloud cost optimization, invoice reconciliation, chargeback, anomaly detection and verified savings.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "ai-cloud-infrastructure-code-review-platform",
     "public": true,
-    "fork": false,
-    "description": "Multi-tenant AI code review platform for Terraform, OpenTofu, Azure, Kubernetes, networking, DevOps, FinOps and compliance as code.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "ai-continuous-compliance-evidence-reliability-platform",
     "public": true,
-    "fork": false,
-    "description": "Open-source AI continuous compliance, GRC automation, evidence reliability, control SLOs, audit readiness, and revenue assurance platform",
-    "topics": [
-      "ai-governance",
-      "audit-readiness",
-      "aws-security",
-      "cloud-security",
-      "compliance-automation",
-      "continuous-compliance",
-      "cyber-risk-quantification",
-      "evidence-collection",
-      "grc",
-      "grc-automation",
-      "kubernetes-security",
-      "n8n",
-      "oscal",
-      "sre",
-      "zapier"
-    ]
+    "fork": false
   },
   {
     "name": "ai-factory-revenue-twin",
     "public": true,
-    "fork": false,
-    "description": "AI infrastructure control plane for GPU, network and hybrid-cloud placement across Azure, CloudStack, Kubernetes and NVIDIA contracts.",
-    "topics": [
-      "ai-infrastructure",
-      "azure",
-      "cloudstack",
-      "digital-twin",
-      "finops",
-      "gpu",
-      "hybrid-cloud",
-      "kubernetes",
-      "nvidia"
-    ]
+    "fork": false
   },
   {
     "name": "ai-governance-evidence-graph",
     "public": true,
-    "fork": false,
-    "description": "Continuous AI assurance cases, governance evidence graphs, EU AI Act evidence support, ISO 42001, NIST AI RMF, OSCAL, in-toto attestations, and cyber risk economics.",
-    "topics": [
-      "agentic-ai-governance",
-      "ai-assurance",
-      "ai-compliance",
-      "ai-governance",
-      "compliance-as-code",
-      "continuous-compliance",
-      "cyber-risk-quantification",
-      "eu-ai-act",
-      "in-toto",
-      "iso-42001",
-      "nist-ai-rmf",
-      "oscal"
-    ]
+    "fork": false
   },
   {
     "name": "ai-grc-automation-benchmark",
     "public": true,
-    "fork": false,
-    "description": "Open-source AI GRC automation benchmark for compliance evidence, agentic AI governance, cyber risk quantification, framework mapping, and unit economics",
-    "topics": [
-      "agentic-ai",
-      "ai-governance",
-      "aws-security",
-      "compliance-automation",
-      "cyber-risk-quantification",
-      "cybersecurity",
-      "grc",
-      "kubernetes-security",
-      "n8n",
-      "open-source-grc",
-      "risk-management",
-      "zapier"
-    ]
+    "fork": false
   },
   {
     "name": "ai-inference-price-performance-index",
     "public": true,
-    "fork": false,
-    "description": "Open LLM inference, GPU cloud cost, NVIDIA NIM, vLLM and AI FinOps index ranked by cost per successful outcome.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "ai-infrastructure-procurement-platform",
     "public": true,
-    "fork": false,
-    "description": "Evidence-driven AI infrastructure procurement for GPU cloud, NVIDIA, Kubernetes, LLM inference, multi-cloud TCO and FinOps.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "ai-infrastructure-pull-request-reviewer",
     "public": true,
-    "fork": false,
-    "description": "Evidence-driven GitHub pull request decisions for Terraform, OpenTofu, Azure, Kubernetes, networking, FinOps, SRE and compliance as code.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "ai-native-internal-developer-platform",
     "public": true,
-    "fork": false,
-    "description": "AI-native internal developer platform with Kubernetes, GitOps, golden paths, infrastructure contracts and delivery economics.",
-    "topics": [
-      "azure",
-      "developer-experience",
-      "devops",
-      "gitops",
-      "infrastructure-as-code",
-      "internal-developer-platform",
-      "kubernetes",
-      "platform-engineering"
-    ]
+    "fork": false
   },
   {
     "name": "ai-ran-profitability-autopilot",
     "public": true,
-    "fork": false,
-    "description": "Revenue-first AI-RAN service architecture, unit economics, controlled remediation and evidence receipts",
-    "topics": []
+    "fork": false
   },
   {
     "name": "ai-security-posture-management",
     "public": true,
-    "fork": false,
-    "description": "Open AI Security Posture Management for AI agent discovery, MCP security, attack-path analysis, AI-BOM, OWASP Agentic security, and cyber risk quantification.",
-    "topics": [
-      "agentic-ai-security",
-      "ai-agent-security",
-      "ai-bom",
-      "ai-security-posture-management",
-      "attack-path-analysis",
-      "cyber-risk-quantification",
-      "iso-42001",
-      "kubernetes-security",
-      "llm-security",
-      "mcp-security",
-      "nist-ai-rmf",
-      "owasp-agentic-top-10"
-    ]
+    "fork": false
   },
   {
     "name": "aiops-observability-platform",
     "public": true,
-    "fork": false,
-    "description": "Agentic AIOps and observability with Kubernetes monitoring, OpenTelemetry, root-cause analysis, Azure SRE and incident automation.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "attentionos-bench",
     "public": true,
-    "fork": false,
-    "description": "Open-source marketing analytics dashboard for incrementality testing, contribution profit, ad spend optimization, and continuous business intelligence.",
-    "topics": [
-      "ad-spend-optimization",
-      "business-intelligence",
-      "data-science",
-      "incrementality",
-      "marketing-analytics",
-      "marketing-dashboard"
-    ]
+    "fork": false
   },
   {
     "name": "audience-swarm-lab",
     "public": true,
-    "fork": false,
-    "description": "Reproducible synthetic audience experiments and inspectable product matching baselines",
-    "topics": []
+    "fork": false
   },
   {
     "name": "audience-twin",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Generative Synthetic Audience & Agent-Based Market Simulator. Simulates large-scale heterogeneous consumer populations over small-world social networks to predict adoption tipping points, viral percolation thresholds, and demand phase transitions.",
-    "topics": [
-      "adoption-diffusion",
-      "agent-based-modeling",
-      "complex-systems-ai",
-      "computational-social-science",
-      "consumer-behavior-simulation",
-      "digital-twin-marketing",
-      "discrete-choice",
-      "market-simulation",
-      "small-world-network",
-      "synthetic-audience"
-    ]
+    "fork": false
   },
   {
     "name": "autonomous-cloud-modernization-factory",
     "public": true,
-    "fork": false,
-    "description": "Evidence-driven VMware exit, Azure migration, Kubernetes modernization, Proxmox/OpenShift alternatives, FinOps and disaster-recovery factory.",
-    "topics": [
-      "agentic-ai",
-      "ansible",
-      "application-modernization",
-      "azure-migration",
-      "cloud-migration",
-      "disaster-recovery",
-      "finops",
-      "hybrid-cloud",
-      "kubernetes",
-      "kubevirt",
-      "openshift-virtualization",
-      "platform-engineering",
-      "proxmox",
-      "terraform",
-      "vmware-migration"
-    ]
+    "fork": false
   },
   {
     "name": "autonomous-order-to-cash-revenue-assurance",
     "public": true,
-    "fork": false,
-    "description": "Agentic order-to-cash revenue assurance across SAP, Salesforce, payments and Azure with verified recovery economics.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "AutoPartsInventoryManagement",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "autoprod",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "az104-enterprise-azure-operations-lab",
     "public": true,
-    "fork": false,
-    "description": "Exam-aligned, budget-controlled Microsoft Azure administration lab with Bicep, governance, networking, storage, monitoring, backup and MSP/MSSP foundations.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "azure-agentic-economics-authority",
     "public": true,
-    "fork": false,
-    "description": "Risk-adjusted unit economics and release authority for Azure and self-hosted agentic workflows",
-    "topics": []
+    "fork": false
   },
   {
     "name": "azure-agentic-trust-plane",
     "public": true,
-    "fork": false,
-    "description": "Continuously evaluated security, reliability, and compliance control plane for Azure agents.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "azure-ai-cloud-modernization-platform-engineering",
     "public": true,
-    "fork": false,
-    "description": "Evidence-driven Azure Solutions Architecture platform for cloud migration, application modernization, agentic AI, FinOps, DevSecOps and Infrastructure as Code.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "azure-brownfield-to-iac",
     "public": true,
-    "fork": false,
-    "description": "Estate2Code: convert Azure brownfield inventory into dependency-ordered Terraform/OpenTofu imports, Bicep scaffolds and evidence-backed IaC adoption reports.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "azure-change-impact-compiler",
     "public": true,
-    "fork": false,
-    "description": "ImpactGraph: dependency-aware Azure, Terraform, OpenTofu and Bicep change analysis with blast-radius, SARIF, FinOps and deterministic deployment gates.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "azure-cloud-migration-modernization-platform",
     "public": true,
-    "fork": false,
-    "description": "Azure cloud migration and application modernization with VMware assessment, landing zones, dependency waves, AKS and FinOps.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "azure-enterprise-landing-zone-operations-factory",
     "public": true,
-    "fork": false,
-    "description": "AZ-104 and AZ-305 enterprise landing-zone operations factory with Bicep, Terraform, hub-and-spoke networking, Azure Policy, Private Link, observability and FinOps guardrails.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "azure-infrastructure-agent-benchmark",
     "public": true,
-    "fork": false,
-    "description": "AzureInfraBench: reproducible AI-agent evaluation for Azure, Terraform, OpenTofu, Bicep, AKS, cloud networking, FinOps and reliability.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "azure-managed-services-platform",
     "public": true,
-    "fork": false,
-    "description": "Multi-tenant Azure and hybrid-cloud operations for MSPs with Azure Lighthouse, Arc, IaC, FinOps and review-gated remediation.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "azure-private-link-doctor",
     "public": true,
-    "fork": false,
-    "description": "Evidence-driven Azure Private Link, Private Endpoint, Private DNS, hybrid DNS, routing and NSG diagnostics with Terraform and Bicep remediation scaffolds.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "azure-trustops",
     "public": true,
-    "fork": false,
-    "description": "Evidence-first agentic security engineering for Microsoft Sentinel and Azure, with reproducible evaluations and verified portal proof.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "azure-well-architected-ai-reviewer",
     "public": true,
-    "fork": false,
-    "description": "AI-powered Azure architecture reviews for Terraform, OpenTofu and Bicep with SARIF, FinOps, reliability, networking and deterministic release gates.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "belief-graph",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Market Perception, Bayesian Belief Network & Narrative Defense Swarm. Tracks semantic sentiment manifolds, detects synthetic astroturfing FUD attacks, and synthesizes authoritative counter-narratives to protect enterprise brand equity.",
-    "topics": [
-      "astroturf-detection",
-      "bayesian-belief-networks",
-      "brand-protection",
-      "computational-social-science",
-      "counter-narrative",
-      "market-perception",
-      "narrative-intelligence",
-      "pr-ai",
-      "semantic-graph",
-      "sentiment-analysis"
-    ]
+    "fork": false
   },
   {
     "name": "bft-agent-consensus",
     "public": true,
-    "fork": false,
-    "description": "The Practical Byzantine Fault Tolerance (PBFT) & Quorum State Engine for Multi-Agent AI Swarms",
-    "topics": []
+    "fork": false
   },
   {
     "name": "biophysical-assurance-commons",
     "public": true,
-    "fork": false,
-    "description": "Inspectable synthetic assurance contracts, replay, and evidence for physical and biological AI governance.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "bonding-curve",
     "public": true,
-    "fork": false,
-    "description": "Algorithmic Attention Liquidity & Dynamic Referral Tokenomics Engine. Implements continuous automated market maker (AMM) bonding curves and anti-sybil proof-of-advocacy to power programmatic viral growth incentives.",
-    "topics": [
-      "anti-sybil",
-      "attention-economy",
-      "automated-market-maker",
-      "bonding-curve",
-      "continuous-capital",
-      "decentralized-growth",
-      "incentive-design",
-      "referral-mechanisms",
-      "tokenomics",
-      "viral-growth"
-    ]
+    "fork": false
   },
   {
     "name": "CakeWallet-Analysis",
     "public": true,
-    "fork": false,
-    "description": "Behind the Scenes of the Android App of the latest portable and vulnerable BTC/Monero Wallet",
-    "topics": []
+    "fork": false
   },
   {
     "name": "causal-attribution",
     "public": true,
-    "fork": false,
-    "description": "Game-Theoretic Causal Attribution & Multi-Touch Budget Allocation Engine. Cooperative Shapley values, Doubly Robust ATE causal lift, and KKT convex budget optimizer equalizing marginal ROAS.",
-    "topics": [
-      "adtech",
-      "algorithmic-marketing",
-      "budget-allocation",
-      "causal-inference",
-      "counterfactual-reasoning",
-      "econometrics",
-      "game-theory",
-      "marketing-mix-modeling",
-      "multi-touch-attribution",
-      "roas-optimization",
-      "shapley-value"
-    ]
+    "fork": false
   },
   {
     "name": "ChatFlux_Task3",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "chrono-arbitrage",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Real-Time Narrative Intelligence & Liquidity Arbitrage Swarm for Prediction Markets (Polymarket/Kalshi) and the Attention Economy.",
-    "topics": [
-      "ai-agents",
-      "algorithmic-trading",
-      "arbitrage",
-      "attention-economy",
-      "brier-score",
-      "data-flywheel",
-      "event-contracts",
-      "evidence-scoring",
-      "fintech",
-      "information-arbitrage",
-      "kalshi",
-      "kelly-criterion",
-      "market-microstructure",
-      "narrative-intelligence",
-      "polymarket",
-      "prediction-markets",
-      "quant",
-      "swarm-intelligence"
-    ]
+    "fork": false
   },
   {
     "name": "chrono-twin",
     "public": true,
-    "fork": false,
-    "description": "Deterministic Real-Time 3D Digital Twin & Autonomous Programmatic Video Engine (WebGPU + Remotion/Hyperframes Core).",
-    "topics": [
-      "3d-rendering",
-      "attention-economy",
-      "autonomous-vehicles",
-      "black-box",
-      "digital-twin",
-      "drone-autopilot",
-      "ed25519",
-      "faa-part-107",
-      "forensics",
-      "grc",
-      "hyperframes",
-      "iso26262",
-      "programmatic-video",
-      "real-time",
-      "remotion",
-      "robotics",
-      "synthetic-data",
-      "teleoperation",
-      "threejs",
-      "webgpu"
-    ]
+    "fork": false
   },
   {
     "name": "churn-inversion",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Negative Net Churn, Survival Hazard Modeling & Proactive Expansion Engine. Employs continuous-time Cox proportional hazards and Bellman stochastic dynamic programming to transform latent customer churn into compounding net expansion.",
-    "topics": [
-      "b2b-saas",
-      "churn-prediction",
-      "clv-optimization",
-      "cox-proportional-hazards",
-      "customer-retention",
-      "negative-churn",
-      "net-revenue-retention",
-      "proactive-retention",
-      "saas-expansion",
-      "survival-analysis"
-    ]
+    "fork": false
   },
   {
     "name": "ciso-assistant-ai-agent-security-connector",
     "public": true,
-    "fork": false,
-    "description": "Independent CISO Assistant connector for AI agent security evidence, AgentProof passports, AgentReady benchmarks, GRC findings, KPIs, and unit economics.",
-    "topics": [
-      "ai-agent-security",
-      "ai-governance",
-      "ciso-assistant",
-      "compliance-automation",
-      "continuous-evidence",
-      "grc-automation",
-      "mcp-security",
-      "security-metrics"
-    ]
+    "fork": false
   },
   {
     "name": "ciso-assistant-aws-compliance-automation",
     "public": true,
-    "fork": false,
-    "description": "AWS Security Hub, AWS Config and Terraform evidence automation bridge for CISO Assistant.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "ciso-assistant-azure-compliance-automation",
     "public": true,
-    "fork": false,
-    "description": "Azure Policy and Terraform evidence automation bridge for CISO Assistant with deterministic compliance evaluation and review-gated remediation.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "ciso-assistant-gcp-compliance-automation",
     "public": true,
-    "fork": false,
-    "description": "GCP Security Command Center, Cloud Asset Inventory and Terraform evidence automation bridge for CISO Assistant.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "cloud-cost-optimization-github-action",
     "public": true,
-    "fork": false,
-    "description": "GitHub Action for FinOps automation, multi-cloud billing reconciliation, SLO-safe optimization and verified cloud savings.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "cloud-infrastructure-knowledge-graph",
     "public": true,
-    "fork": false,
-    "description": "Multi-cloud infrastructure knowledge graph and digital twin for Azure, Kubernetes, Terraform, OpenTelemetry, AIOps and FinOps.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "cloud-resilience-disaster-recovery-platform",
     "public": true,
-    "fork": false,
-    "description": "Cloud disaster recovery, business continuity, RTO/RPO, ransomware recovery, chaos engineering and multi-region Azure validation.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "cloudfusion-assurance-fabric",
     "public": true,
-    "fork": false,
-    "description": "Fail-closed multi-cloud network and SOC integration assurance for acquisitions and migrations",
-    "topics": []
+    "fork": false
   },
   {
     "name": "commerce-incident-network",
     "public": true,
-    "fork": false,
-    "description": "Read-only commerce channel incident detection and resolution observation",
-    "topics": []
+    "fork": false
   },
   {
     "name": "compoundcloud-ai-delivery-fabric",
     "public": true,
-    "fork": false,
-    "description": "Multicloud AI delivery fabric with architecture compilation, failure recovery, capacity planning and unit economics.",
-    "topics": [
-      "ai-infrastructure",
-      "aws",
-      "azure",
-      "finops",
-      "gcp",
-      "infrastructure-as-code",
-      "kubernetes",
-      "multicloud",
-      "platform-engineering"
-    ]
+    "fork": false
   },
   {
     "name": "context-graph-compact",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "creative-evolution",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Creative Mutation Swarm & Narrative Latent Space Optimizer. Modular chromosome genetic algorithm, Shannon narrative entropy guard, and exponential decay half-life modeling evading ad fatigue.",
-    "topics": [
-      "ad-creative-automation",
-      "adtech-ai",
-      "creative-optimization",
-      "evolutionary-algorithms",
-      "generative-engine-optimization",
-      "genetic-algorithm",
-      "growth-hacking",
-      "narrative-intelligence",
-      "semantic-embeddings",
-      "viral-marketing-ai"
-    ]
+    "fork": false
   },
   {
     "name": "cyborg-bench",
     "public": true,
-    "fork": false,
-    "description": "The Apex Benchmark Suite & Verification Harness for Physical AI, Humanoid Robotics, BCIs & Cyborg Cybernetics",
-    "topics": []
+    "fork": false
   },
   {
     "name": "cyborg-reflex",
     "public": true,
-    "fork": false,
-    "description": "Sub-Millisecond Bio-Kinematic Control Barrier Interceptor & Neural Stimulation Governor. Enforces anatomical joint constraints, Shannon-Lilly electrochemical limits, and FDA Class III tamper-evident Merkle flight recorders.",
-    "topics": [
-      "biokinematics",
-      "bionic-limbs",
-      "control-barrier-functions",
-      "cyborg-safety",
-      "deep-brain-stimulation",
-      "fda-class-iii",
-      "medical-device-safety",
-      "physical-ai",
-      "real-time-safety",
-      "reflex-interlock"
-    ]
+    "fork": false
   },
   {
     "name": "decision-world",
     "public": true,
-    "fork": false,
-    "description": "Constrained intervention planning across demand, inventory, service capacity, and business economics",
-    "topics": []
+    "fork": false
   },
   {
     "name": "edge-vision-mesh",
     "public": true,
-    "fork": false,
-    "description": "Decentralized P2P Edge-NPU Multi-Camera Re-Identification Swarm with Zero Cloud Bandwidth Egress.",
-    "topics": [
-      "decentralized-reid",
-      "edge-ai-surveillance",
-      "edge-computing-surveillance",
-      "edge-npu-inference",
-      "jetson-swarm",
-      "mesh-vision-network",
-      "multi-camera-tracking",
-      "p2p-surveillance",
-      "person-reidentification",
-      "private-cctv-mesh",
-      "zero-bandwidth-video"
-    ]
+    "fork": false
   },
   {
     "name": "egypt-digital-trust-map",
     "public": true,
-    "fork": false,
-    "description": "Inspectable benchmark and KPI baseline for Egypt's IAM, PAM, PKI, cybersecurity and AI governance ecosystem",
-    "topics": []
+    "fork": false
   },
   {
     "name": "elasticity-engine",
     "public": true,
-    "fork": false,
-    "description": "Bayesian Customer Lifetime Value Survival & Real-Time Price Elasticity Co-Optimizer. Contextual Thompson Sampling over pricing frontiers coupled with Weibull/Pareto-NBD churn hazard models to maximize enterprise Net Present Value (NPV).",
-    "topics": [
-      "bayesian-inference",
-      "clv-prediction",
-      "customer-lifetime-value",
-      "dynamic-pricing",
-      "econometrics",
-      "fintech",
-      "pareto-nbd",
-      "price-elasticity",
-      "revenue-management",
-      "saas-pricing",
-      "survival-analysis"
-    ]
+    "fork": false
   },
   {
     "name": "enterprise-ai-integration-platform",
     "public": true,
-    "fork": false,
-    "description": "Enterprise AI integration across SAP, Salesforce, Oracle, payments and logistics with durable workflows, replay and unit economics.",
-    "topics": [
-      "agentic-ai",
-      "azure",
-      "enterprise-ai",
-      "event-driven-architecture",
-      "oracle",
-      "salesforce",
-      "sap",
-      "system-integration",
-      "workflow-automation"
-    ]
+    "fork": false
   },
   {
     "name": "enterprise-ai-production-control-plane",
     "public": true,
-    "fork": false,
-    "description": "Enterprise AI control plane for Kubernetes GPU FinOps, LLM observability, agent reliability, multicloud inference and business outcomes.",
-    "topics": [
-      "agentic-ai",
-      "ai-infrastructure",
-      "azure-ai",
-      "forward-deployed-engineer",
-      "gpu-finops",
-      "kubernetes",
-      "llm-observability",
-      "llmops",
-      "multicloud",
-      "nvidia-nim",
-      "opentelemetry",
-      "platform-engineering"
-    ]
+    "fork": false
   },
   {
     "name": "entity-continuity",
     "public": true,
-    "fork": false,
-    "description": "Inspectable entity lifecycle, obligation, authority, and evidence reference engine",
-    "topics": []
+    "fork": false
   },
   {
     "name": "eval-lake",
     "public": true,
-    "fork": false,
-    "description": "The Open-Source GenAI Evaluation, DuckDB-powered ETL, and Cryptographic GRC Governance Lakehouse",
-    "topics": []
+    "fork": false
   },
   {
     "name": "fde-bounty-snr",
     "public": true,
-    "fork": false,
-    "description": "AI Forward Deployed Engineering, Production Debt Remediation & Cryptographic ActionLedger",
-    "topics": []
+    "fork": false
   },
   {
     "name": "flywheel-engine",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Compounding Flywheel Dynamics & Counterfactual Policy Simulator. Solves continuous-time Forrester system dynamics and Monte Carlo Tree Search (MCTS) POMDP planning to optimize non-linear compounding growth loops.",
-    "topics": [
-      "agentic-marketing",
-      "counterfactual-simulation",
-      "exponential-growth",
-      "growth-flywheel",
-      "marketing-physics",
-      "mcts-planning",
-      "pomdp",
-      "reinforcement-learning",
-      "saas-growth-engine",
-      "system-dynamics"
-    ]
+    "fork": false
   },
   {
     "name": "generative-plg",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Product-Led Growth (PLG) & In-Session Dynamic Feature Synthesis Engine. Monitors in-product telemetry graphs, predicts user drop-off friction, and dynamically synthesizes bespoke micro-workflows, schema adapters, and interactive Generative UIs at runtime.",
-    "topics": [
-      "activation-engine",
-      "agentic-plg",
-      "conversion-optimization",
-      "generative-ui",
-      "in-app-personalization",
-      "product-led-growth",
-      "runtime-synthesis",
-      "saas-onboarding",
-      "semi-markov-processes",
-      "time-to-value"
-    ]
+    "fork": false
   },
   {
     "name": "geo-engine",
     "public": true,
-    "fork": false,
-    "description": "Autonomous LLM Citation Graph & Generative Engine Optimization (GEO) Arbitrage Engine. Reverse-engineers Perplexity, ChatGPT Search, and Gemini RAG retrieval topologies via semantic entity triplification and eigenvector citation centrality.",
-    "topics": [
-      "ai-search",
-      "answer-engine-optimization",
-      "generative-engine-optimization",
-      "geo",
-      "knowledge-graph",
-      "llm-search",
-      "perplexity-seo",
-      "rag-optimization",
-      "search-engine-optimization",
-      "semantic-search"
-    ]
+    "fork": false
   },
   {
     "name": "ghost-fork",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "gitleaks",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "gpu-cloud-cost-calculator",
     "public": true,
-    "fork": false,
-    "description": "Interactive GPU cloud cost calculator for NVIDIA, Azure, AWS, GCP, Kubernetes, vLLM and managed LLM API economics.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "gpu-cluster-mesh",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "gpu-inference-platform",
     "public": true,
-    "fork": false,
-    "description": "Production multi-cloud GPU inference platform with Kubernetes, NVIDIA NIM, vLLM, LLMOps, FinOps and auditable unit economics.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "graph-rag-guard",
     "public": true,
-    "fork": false,
-    "description": "The Knowledge Graph Integrity & Multi-Hop RAG Poisoning Defense Firewall for Autonomous AI Agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "grc-automation-cyber-risk-quantification-platform",
     "public": true,
-    "fork": false,
-    "description": "Agentic AI GRC automation, cyber risk quantification, 150+ framework cross-mapping, evidence qualification, board decision packs and revenue enablement economics.",
-    "topics": [
-      "agentic-ai",
-      "ai-governance",
-      "aws-security",
-      "board-reporting",
-      "ciso",
-      "ciso-assistant",
-      "compliance-automation",
-      "cyber-risk-quantification",
-      "evidence-automation",
-      "grc",
-      "grc-automation",
-      "iso-27001",
-      "kubernetes-security",
-      "nist-csf",
-      "nist-oscal",
-      "risk-management",
-      "soc-2"
-    ]
+    "fork": false
   },
   {
     "name": "GRC_Claw",
     "public": true,
-    "fork": false,
-    "description": "\"The OSS chassis for ISO 42001-compliant agentic AI  Swarm Harness, Anti-Swarm WAF, MAVLink & UAS compliance, a2zsoc.com bridge\"",
-    "topics": []
+    "fork": false
   },
   {
     "name": "green-inference",
     "public": true,
-    "fork": false,
-    "description": "Sub-Watt Saccadic Vision & Power-Aware KV-Cache Engine for Hyperscale Agent Data Centers (70%+ Energy Reduction).",
-    "topics": [
-      "carbon-aware-computing",
-      "datacenter-power-optimization",
-      "edge-ai-power",
-      "energy-efficient-ai",
-      "gpu-power-capping",
-      "green-ai",
-      "kv-cache-compression",
-      "llm-energy-efficiency",
-      "pue-optimization",
-      "saccadic-vision",
-      "thermal-aware-scheduling",
-      "vlm-inference-optimization"
-    ]
+    "fork": false
   },
   {
     "name": "growth-bandit",
     "public": true,
-    "fork": false,
-    "description": "Apex Contextual Multi-Armed Bandit Funnel & Real-Time Dynamic DOM Synthesizer. Disjoint LinUCB, Bayesian Thompson Sampling, sub-linear regret O(sqrt(dT logT)), and sub-millisecond dynamic CRO compilation.",
-    "topics": [
-      "adtech",
-      "contextual-bandits",
-      "conversion-rate-optimization",
-      "cro",
-      "dynamic-pricing",
-      "growth-engineering",
-      "linucb",
-      "marketing-automation",
-      "multi-armed-bandits",
-      "reinforcement-learning",
-      "thompson-sampling"
-    ]
+    "fork": false
   },
   {
     "name": "growth-syndicate",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Multi-Enterprise Co-Marketing, Dynamic Bundling & Cooperative Profit-Sharing Swarm. Uses Gale-Shapley stable matching and cooperative Shapley value game theory to engineer cross-ecosystem distribution alliances and fair revenue clearing.",
-    "topics": [
-      "b2b-syndicate",
-      "co-marketing-automation",
-      "cooperative-game-theory",
-      "dynamic-bundling",
-      "ecosystem-growth",
-      "gale-shapley",
-      "partnership-marketing",
-      "revenue-sharing",
-      "shapley-value",
-      "stable-matching"
-    ]
+    "fork": false
   },
   {
     "name": "hyper-agent-os",
     "public": true,
-    "fork": false,
-    "description": "Next-Generation Distributed Multi-Agent Runtime & Swarm Substrate uniting Super-Memory, Cyclical Swarms, 24/7 Durable Daemons, Multimodal Streaming, VLA Safety Governors, and Benchmark Evaluators.",
-    "topics": [
-      "ai-agents",
-      "autonomous-agents",
-      "bi-temporal-memory",
-      "control-barrier-functions",
-      "crewai",
-      "devin-alternative",
-      "durable-execution",
-      "graphrag",
-      "knowledge-graph",
-      "langgraph",
-      "mcp",
-      "mle-bench",
-      "model-context-protocol",
-      "post-quantum",
-      "rag",
-      "robotics",
-      "swarm-intelligence",
-      "swe-bench",
-      "vla",
-      "voice-agent"
-    ]
+    "fork": false
   },
   {
     "name": "identity-fabric-benchmarks",
     "public": true,
-    "fork": false,
-    "description": "Vendor-neutral adversarial benchmarks for human, workload, AI-agent and physical-machine identity",
-    "topics": []
+    "fork": false
   },
   {
     "name": "intel-pulse",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "kernel-agent-ebpf",
     "public": true,
-    "fork": false,
-    "description": "The Linux Kernel eBPF Telemetry Probe & Ring-0 Sandbox Guard for Autonomous AI Agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "killchain-engine",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Dark-Funnel Breach-Arbitrage & B2B Deal Execution Engine. Operationalizes a2zsoc.com marketing kill chains by tracking regulatory clocks, SEC 8-K cyber disclosures, and CVE spikes, autonomously synthesizing board-ready GRC dossiers and closing enterprise deals.",
-    "topics": [
-      "b2b-growth",
-      "breach-intelligence",
-      "dark-funnel",
-      "deal-execution",
-      "demand-capture",
-      "grc-automation",
-      "intent-data",
-      "pomdp",
-      "regulatory-compliance",
-      "sec-8k"
-    ]
+    "fork": false
   },
   {
     "name": "kinetic-guard",
     "public": true,
-    "fork": false,
-    "description": "Deterministic Control Barrier Function (CBF) Safety Kernel & Reflex Middleware for Physical AI & Humanoid Robotics",
-    "topics": []
+    "fork": false
   },
   {
     "name": "kubernetes-ai-agent-operator",
     "public": true,
-    "fork": false,
-    "description": "Kubernetes operator for AI agents, MCP, Agent Sandbox, Azure AKS, policy-bound approvals, evidence receipts and AI FinOps.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "kubernetes-ai-finops-autopilot",
     "public": true,
-    "fork": false,
-    "description": "Kubernetes AI FinOps and GPU inference optimization for AKS, NVIDIA NIM, OpenCost and OpenTelemetry with evidence-driven GitOps proposals.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "kubernetes-ai-sre-platform",
     "public": true,
-    "fork": false,
-    "description": "Open-source AWS Kubernetes AI SRE platform for EKS incident response, continuous compliance, Elasticsearch-to-VictoriaLogs migration, OpenTelemetry, security KPIs, and cloud unit economics.",
-    "topics": [
-      "ai-sre",
-      "aws-eks",
-      "continuous-compliance",
-      "elasticsearch",
-      "finops",
-      "incident-response",
-      "kubernetes",
-      "observability",
-      "opentelemetry",
-      "victorialogs"
-    ]
+    "fork": false
   },
   {
     "name": "kv-compress-x",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "llm-inference-benchmark",
     "public": true,
-    "fork": false,
-    "description": "Vendor-neutral LLM inference benchmark for NVIDIA NIM, vLLM, Kubernetes, GPU cloud, LLMOps and auditable AI infrastructure economics.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "llm-inference-optimization-platform",
     "public": true,
-    "fork": false,
-    "description": "LLM inference optimization with AI gateway contracts, model routing, NVIDIA NIM, vLLM, Azure, Kubernetes GPU and AI FinOps.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "llm-monopoly",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Generative Answer Engine Probing & Competitive Displacement Mesh. Continuously probes Perplexity, ChatGPT Search, Claude, and Gemini across GRC and PE queries, measures brand citation share, and injects authoritative semantic knowledge graphs to guarantee top-1 AI recommendations.",
-    "topics": [
-      "ai-search",
-      "chatgpt-search",
-      "citation-monopoly",
-      "competitive-displacement",
-      "generative-engine-optimization",
-      "geo",
-      "knowledge-graph",
-      "llm-probing",
-      "perplexity-seo",
-      "semantic-authority"
-    ]
+    "fork": false
   },
   {
     "name": "m-a-technology-integration-factory",
     "public": true,
-    "fork": false,
-    "description": "M&A IT integration and carve-out factory for technology due diligence, Day-1 readiness, TSA exit, identity separation and deal economics.",
-    "topics": [
-      "agentic-ai",
-      "azure",
-      "carve-out",
-      "cloud-migration",
-      "cybersecurity",
-      "day-one-readiness",
-      "deal-economics",
-      "erp",
-      "finops",
-      "identity-migration",
-      "mergers-and-acquisitions",
-      "post-merger-integration",
-      "private-equity",
-      "technology-due-diligence",
-      "tsa-exit"
-    ]
+    "fork": false
   },
   {
     "name": "mcp-redteam",
     "public": true,
-    "fork": false,
-    "description": "Adversarial scenario runner for MCP servers: tool-description rug-pulls, unannotated destructive tools, and oversized-payload handling",
-    "topics": [
-      "agentic-ai",
-      "ai-security",
-      "mcp",
-      "model-context-protocol",
-      "red-team",
-      "security"
-    ]
+    "fork": false
   },
   {
     "name": "mcp-shield",
     "public": true,
-    "fork": false,
-    "description": "The Zero-Trust Runtime Firebox & Self-Evolving Invariant Mesh for Model Context Protocol (MCP)",
-    "topics": []
+    "fork": false
   },
   {
     "name": "merchant-profit-os",
     "public": true,
-    "fork": false,
-    "description": "Local-first merchant catalog readiness, contribution economics, and cash-reconciliation action queue.",
-    "topics": [
-      "agentic-commerce",
-      "ecommerce-analytics",
-      "payment-reconciliation",
-      "profit-analytics"
-    ]
+    "fork": false
   },
   {
     "name": "MetaMask-APK-Analysis",
     "public": true,
-    "fork": false,
-    "description": "Quark Engine Report/Crime Classification score And Google Play Data Safety Info.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "millionready",
     "public": true,
-    "fork": false,
-    "description": "Evidence-backed production readiness proofs for fast-moving applications",
-    "topics": []
+    "fork": false
   },
   {
     "name": "multi-cloud-finops-data-quality-platform",
     "public": true,
-    "fork": false,
-    "description": "Open-source multi-cloud FinOps data quality, FOCUS validation, billing reconciliation, lineage and financial-close readiness.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "multicloud-infrastructure-control-loop",
     "public": true,
-    "fork": false,
-    "description": "Cost-aware, blast-radius-scored remediation compiler for Azure, AWS, GCP, Kubernetes and Infrastructure as Code.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "narrative-surge",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Trend-Velocity Arbitrage & Preemptive Asset Compiler. Detects macro information entropy gradients across global discourse streams and autonomously compiles authoritative technical documentation, benchmarks, and citation graphs in <30 seconds.",
-    "topics": [
-      "high-frequency-growth",
-      "knowledge-graph",
-      "narrative-intelligence",
-      "newsjacking-ai",
-      "optimal-stopping",
-      "preemptive-content",
-      "real-time-marketing",
-      "semantic-velocity",
-      "snell-envelope",
-      "trend-arbitrage"
-    ]
+    "fork": false
   },
   {
     "name": "network-change-intelligence-twin",
     "public": true,
-    "fork": false,
-    "description": "Network change assurance with digital-twin replay, BGP intent validation, revenue exposure, Ansible automation and Azure evidence.",
-    "topics": [
-      "ansible",
-      "azure",
-      "bgp",
-      "digital-twin",
-      "infrastructure-as-code",
-      "network-automation",
-      "network-engineering",
-      "site-reliability-engineering"
-    ]
+    "fork": false
   },
   {
     "name": "neuro-manifold",
     "public": true,
-    "fork": false,
-    "description": "Non-Stationary BCI Neural Drift Inversion & Zero-Knowledge Neuro-Privacy Engine. Unsupervised Riemannian manifold alignment (AIRM Procrustes), Kalman decoding, and Colorado Neurodata Act compliant ZK intent proofs.",
-    "topics": [
-      "bci-decoding",
-      "bio-signal-processing",
-      "brain-computer-interface",
-      "eeg-signal-processing",
-      "neural-drift-compensation",
-      "neuralink",
-      "neurodata-privacy",
-      "prosthetics",
-      "riemannian-geometry",
-      "zero-knowledge-proofs"
-    ]
+    "fork": false
   },
   {
     "name": "neuro-spatial",
     "public": true,
-    "fork": false,
-    "description": "Neuromorphic Event-Camera & Continuous-Time Neural-ODE World Model for High-Speed Robotic Perception (<1ms).",
-    "topics": [
-      "continuous-time-ai",
-      "dvs",
-      "dynamic-vision-sensor",
-      "event-camera",
-      "extreme-hdr",
-      "high-speed-tracking",
-      "neural-ode",
-      "neuromorphic-vision",
-      "prophesee",
-      "robotics-perception",
-      "spatial-intelligence",
-      "sub-millisecond-latency"
-    ]
+    "fork": false
   },
   {
     "name": "neuromuscular-pll",
     "public": true,
-    "fork": false,
-    "description": "Neuromuscular Phase-Locked Loop & Biomimetic Afferent Sensory Transduction Engine. Eliminates actuator-muscle phase delay (<2ms), emulates SA-I/FA-I/FA-II mechanoreceptors, and enforces autonomous slip-reflex gripping.",
-    "topics": [
-      "biomedical-engineering",
-      "bionics",
-      "exoskeleton",
-      "mechanoreceptors",
-      "neuromuscular",
-      "phase-locked-loop",
-      "physical-ai",
-      "prosthetics",
-      "sensory-feedback",
-      "slip-reflex"
-    ]
+    "fork": false
   },
   {
     "name": "neurospark-rt",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "nvidia-ai-factory-deployment-automation",
     "public": true,
-    "fork": false,
-    "description": "NVIDIA AI Factory deployment automation for GPU clusters, NCCL, RoCE, Kubernetes, Slurm, Azure and GPU FinOps.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "nvidia-ai-factory-reliability-platform",
     "public": true,
-    "fork": false,
-    "description": "Topology-aware NVIDIA NIM, GPU cluster, Kubernetes, inference, network-fabric and AI-factory reliability reference platform.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "open-agent-reliability-fabric",
     "public": true,
-    "fork": false,
-    "description": "Runtime authorization, tamper-evident evidence, replay, containment, and unit economics for production AI agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "openai-to-vllm-nvidia-nim-migration",
     "public": true,
-    "fork": false,
-    "description": "Evidence-driven OpenAI, Azure AI Foundry, NVIDIA NIM and vLLM migration with shadow traffic, canary gates, rollback and AI FinOps.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "opensearch-sovereign-vciso-control-plane",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "opentelemetry-ai-valueops-collector",
     "public": true,
-    "fork": false,
-    "description": "OpenTelemetry AI unit economics for Azure, NVIDIA NIM, vLLM, Kubernetes and agentic workflows.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "opentelemetry-infrastructure-graph-collector",
     "public": true,
-    "fork": false,
-    "description": "OpenTelemetry infrastructure graph collector for Azure, Kubernetes, Terraform, OpenCost, AIOps, FinOps and CloudGraph.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "otel-agent-core",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "otforge",
     "public": true,
-    "fork": false,
-    "description": "OT/ICS detection-engineering pipeline: protocol-accurate synthetic telemetry (Modbus/DNP3/BACnet), detection synthesis, and false-positive validation.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "outcome-fabric",
     "public": true,
-    "fork": false,
-    "description": "Agentic AI platform reference kernel for AI infrastructure planning, AI FinOps, and governance evidence.",
-    "topics": [
-      "agentic-ai",
-      "ai-agent-evaluation",
-      "ai-governance",
-      "ai-infrastructure",
-      "finops"
-    ]
+    "fork": false
   },
   {
     "name": "permissioned-contributor-agent",
     "public": true,
-    "fork": false,
-    "description": "Open-source AI agent governance and evaluation: consent, human approval, LangGraph loops, graph-assisted retrieval, and a read-only GitHub pilot.",
-    "topics": [
-      "ai-agent-evaluation",
-      "ai-agents",
-      "ai-governance",
-      "consent-management",
-      "due-diligence",
-      "graphrag",
-      "human-in-the-loop",
-      "langgraph",
-      "mcp-security",
-      "python",
-      "retrieval-augmented-generation"
-    ]
+    "fork": false
   },
   {
     "name": "physical-ai-governor",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Physical AI, Humanoid (GR00T) & Drone Swarm GRC Assurance Engine. Enforces continuous Control Barrier Functions (CBF) over streaming ROS 2, MAVLink, and VLA joint trajectories, notarizing tamper-evident black-box Merkle ledgers and compliance passports for FAA Part 89 and EU AI Act Annex III.",
-    "topics": [
-      "black-box-telemetry",
-      "control-barrier-functions",
-      "drone-fleet-governance",
-      "eu-ai-act-annex-iii",
-      "faa-part-89",
-      "humanoid-robotics",
-      "mavlink",
-      "physical-ai",
-      "robot-safety",
-      "ros2"
-    ]
+    "fork": false
   },
   {
     "name": "portfolio-growth-engine",
     "public": true,
-    "fork": false,
-    "description": "Autonomous PE Value-at-Risk Inversion & Cross-Portfolio Revenue Mesh. Connects investor due-diligence telemetry from Investor OS to maximum bipartite network flows for zero-CAC co-selling, and translates security risk remediation directly into EBITDA multiple expansion.",
-    "topics": [
-      "bipartite-matching",
-      "cross-portfolio-growth",
-      "diligence-automation",
-      "ebitda-expansion",
-      "fintech-ai",
-      "portfolio-operations",
-      "private-equity",
-      "risk-to-revenue",
-      "value-at-risk",
-      "value-creation"
-    ]
+    "fork": false
   },
   {
     "name": "pqattest",
     "public": true,
-    "fork": false,
-    "description": "Post-quantum-signed, hash-chained provenance for AI agent actions (ML-DSA-65 / FIPS 204)",
-    "topics": [
-      "ai-agents",
-      "attestation",
-      "dilithium",
-      "fips-204",
-      "mcp",
-      "ml-dsa",
-      "nist",
-      "post-quantum-cryptography",
-      "provenance",
-      "supply-chain-security"
-    ]
+    "fork": false
   },
   {
     "name": "pqc-enclave",
     "public": true,
-    "fork": false,
-    "description": "Zero-Allocation Post-Quantum Cryptographic Root-of-Trust & Microsecond Key Exchange for Autonomous Fleets (NIST FIPS 203/204).",
-    "topics": [
-      "cnsa-2-0",
-      "defense-cryptography",
-      "dilithium",
-      "fips-203",
-      "fips-204",
-      "kyber",
-      "lattice-based-cryptography",
-      "ml-dsa",
-      "ml-kem",
-      "ntt-accelerator",
-      "post-quantum-cryptography",
-      "pqc",
-      "quantum-safe-vpn",
-      "zero-allocation-crypto"
-    ]
+    "fork": false
   },
   {
     "name": "project-atlas-due-diligence",
     "public": true,
-    "fork": false,
-    "description": "Synthetic AI infrastructure M&A VDR teaching lab: reconciled ledgers, evidence updates, privacy fixtures and diligence evaluation.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "PythonDeFi_Challenge",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "real-time-ai-data-platform",
     "public": true,
-    "fork": false,
-    "description": "Real-time data engineering, Microsoft Fabric, Power BI, Databricks, predictive analytics, prescriptive analytics, Kafka, lakehouse and AI unit economics.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "real-time-payment-fraud-platform",
     "public": true,
-    "fork": false,
-    "description": "Real-time payment fraud detection with streaming risk APIs, graph signals, false-decline economics and Azure architecture.",
-    "topics": [
-      "azure",
-      "cybersecurity",
-      "fintech",
-      "fraud-detection",
-      "graph-analytics",
-      "machine-learning",
-      "real-time-analytics",
-      "stream-processing"
-    ]
+    "fork": false
   },
   {
     "name": "robot-black-box",
     "public": true,
-    "fork": false,
-    "description": "Verifiable incident evidence for physical AI and agent workflows, powered by GRC Claw.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "rtb-arbitrage",
     "public": true,
-    "fork": false,
-    "description": "High-Frequency Real-Time Bidding (RTB) Auction Shading & Stochastic Budget Pacing Engine. Uses Myerson first-price auction game theory and Hamilton-Jacobi-Bellman stochastic control to maximize ad surplus in sub-millisecond auctions.",
-    "topics": [
-      "ad-auction",
-      "adtech",
-      "auction-theory",
-      "bid-shading",
-      "budget-pacing",
-      "dsp-engine",
-      "myerson-auction",
-      "programmatic-advertising",
-      "real-time-bidding",
-      "rtb",
-      "stochastic-control"
-    ]
+    "fork": false
   },
   {
     "name": "runproof",
     "public": true,
-    "fork": false,
-    "description": "Evidence-labeled AI model deployment passports",
-    "topics": []
+    "fork": false
   },
   {
     "name": "sap-s4hana-azure-ai-transformation-factory",
     "public": true,
-    "fork": false,
-    "description": "SAP S/4HANA and Azure AI transformation factory for migration readiness, data reconciliation, integration testing, clean core, FinOps and value realization.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "self-hosted-ai-agent-infrastructure-platform",
     "public": true,
-    "fork": false,
-    "description": "Secure self-hosted AI agent orchestration with isolation policy, durable workflow contracts, continuous evaluation and cost-per-successful-outcome economics.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "sky-sentinel",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Counter-UAS, Electronic Warfare RF/GPS Spoofing Detector & Airspace Forensic Interceptor.",
-    "topics": [
-      "airspace-security",
-      "anti-drone-system",
-      "c-uas",
-      "counter-uas",
-      "defense",
-      "defense-tech",
-      "dji-ocusync",
-      "drone-detection",
-      "electronic-warfare",
-      "gnss-spoofing",
-      "kalman-filter",
-      "mavlink",
-      "rf-fingerprinting",
-      "sdr"
-    ]
+    "fork": false
   },
   {
     "name": "strategy-genome",
     "public": true,
-    "fork": false,
-    "description": "Quality-Diversity (QD) MAP-Elites Evolutionary Growth Playbook Discovery Swarm. Illuminates multi-dimensional archives of phenotypic marketing elites to discover non-intuitive, high-performing compounding growth strategies.",
-    "topics": [
-      "compounding-growth",
-      "evolutionary-ai",
-      "genetic-algorithm",
-      "growth-playbook",
-      "map-elites",
-      "marketing-automation",
-      "neuroevolution",
-      "qd-algorithm",
-      "quality-diversity",
-      "strategy-discovery"
-    ]
+    "fork": false
   },
   {
     "name": "stream-fusion",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "supply-chain-digital-twin",
     "public": true,
-    "fork": false,
-    "description": "AI supply chain digital twin for demand forecasting, inventory optimization, disruption response, Microsoft Fabric and working-capital economics.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "swarm-eval-harness",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Multi-Turn Agentic Metamorphic Fuzzer & Swarm Consensus Stress-Testing Engine. Formulates Martingale context drift estimators, metamorphic execution DAGs, and Sybil groupthink inoculation filters.",
-    "topics": [
-      "agentic-evaluation",
-      "ai-safety",
-      "automated-testing",
-      "byzantine-fault-tolerance",
-      "context-drift",
-      "llm-benchmarks",
-      "metamorphic-testing",
-      "multi-agent-systems",
-      "red-teaming",
-      "swarm-intelligence"
-    ]
+    "fork": false
   },
   {
     "name": "swarm-substrate",
     "public": true,
-    "fork": false,
-    "description": "Reference implementation of the trust substrate underneath multi-agent swarm orchestration: integrity, PQ-signed provenance, Byzantine quorum consensus, out-of-band kill-switch, and independent adversarial verification \u2014 composed and running end to end.",
-    "topics": [
-      "agentic-ai",
-      "ai-agents",
-      "ai-safety",
-      "byzantine-fault-tolerance",
-      "consensus",
-      "kill-switch",
-      "mcp",
-      "multi-agent",
-      "post-quantum-cryptography",
-      "provenance"
-    ]
+    "fork": false
   },
   {
     "name": "swarm-sync",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "tensor-forge",
     "public": true,
-    "fork": false,
-    "description": "Bare-Metal Deep-Kernel Fused JIT & Memory Bandwidth Optimizer for Frontier AI Accelerators (Tenstorrent, Triton, CUDA, Apple Silicon).",
-    "topics": [
-      "apple-silicon-mlx",
-      "compiler-optimization",
-      "cuda",
-      "deep-learning-compiler",
-      "flash-attention",
-      "fp8-quantization",
-      "kernel-fusion",
-      "logaddexp-overflow",
-      "memory-bandwidth-optimization",
-      "quantization",
-      "riscv-vector",
-      "roofline-model",
-      "tenstorrent",
-      "triton-kernels"
-    ]
+    "fork": false
   },
   {
     "name": "trust-loop",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Supply-Chain Trust Badge & Downstream Buyer Viral Loop Mesh. Transforms static compliance badges into zero-knowledge interactive verification widgets that passively scan inspecting enterprise buyers, driving compounding viral customer acquisition across B2B supply chains.",
-    "topics": [
-      "b2b-growth",
-      "compliance-verification",
-      "ed25519-notary",
-      "edge-diagnostics",
-      "grc-automation",
-      "product-led-growth",
-      "supply-chain-security",
-      "trust-badge",
-      "viral-loops",
-      "zero-knowledge-proofs"
-    ]
+    "fork": false
   },
   {
     "name": "Trust-Wallet-APK-Analysis",
     "public": true,
-    "fork": false,
-    "description": "Quark Engine Report/Crime Classification score And Google Play Data Safety Info.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "trusted-community-marketplace",
     "public": true,
-    "fork": false,
-    "description": "Permissioned professional services marketplace reference: community governance, human approval, isolated engagements and synthetic evaluation.",
-    "topics": [
-      "ai-governance",
-      "community-management",
-      "human-in-the-loop",
-      "marketplace",
-      "procurement",
-      "python"
-    ]
+    "fork": false
   },
   {
     "name": "vdr-synthesizer",
     "public": true,
-    "fork": false,
-    "description": "Autonomous Multi-Agent Virtual Data Room & Cross-Domain Diligence Arbitrage Swarm. Ingests raw M&A data rooms across financial, cyber, legal, and engineering domains, executing PBFT multi-agent consensus to uncover cross-domain EBITDA traps and synthesize board-ready diligence memos in <45s.",
-    "topics": [
-      "causal-triangulation",
-      "deal-risk",
-      "due-diligence",
-      "ebitda-arbitrage",
-      "fintech-ai",
-      "m-and-a",
-      "multi-agent-consensus",
-      "pbft-consensus",
-      "private-equity",
-      "virtual-data-room"
-    ]
+    "fork": false
   },
   {
     "name": "vector-index-sanitizer",
     "public": true,
-    "fork": false,
-    "description": "The Sub-Millisecond Vector Database Index Poisoning & Synthetic Contamination Firewall for Enterprise RAG",
-    "topics": []
+    "fork": false
   },
   {
     "name": "vendor-assurance",
     "public": true,
-    "fork": false,
-    "description": "Evidence-linked vendor risk assessment and human-reviewed renewal briefs. Offline OSS reference with synthetic evaluation.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "verified-effects-runtime",
     "public": true,
-    "fork": false,
-    "description": "Verified effect convergence for AI agents that move money, mutate infrastructure, and operate production systems.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "veritas-tee",
     "public": true,
-    "fork": false,
-    "description": "Confidential AI Agent Enclave & Cryptographically Verifiable Execution Attestation (AMD SEV-SNP / NVIDIA H100 TEE).",
-    "topics": [
-      "amd-sev-snp",
-      "confidential-agents",
-      "confidential-computing",
-      "intel-tdx",
-      "mcp-enclave-security",
-      "nvidia-confidential-computing",
-      "pcr-registers",
-      "remote-attestation",
-      "tee",
-      "trusted-execution-environment",
-      "verifiable-ai",
-      "zk-inference"
-    ]
+    "fork": false
   },
   {
     "name": "vibeguard",
     "public": true,
-    "fork": false,
-    "description": "Static analysis for missing timeouts and N+1 queries \u2014 the concurrency/resilience bugs invisible in a demo, catastrophic at scale. Real AST parsing, not AI, no fabricated claims.",
-    "topics": [
-      "ast",
-      "code-quality",
-      "developer-tools",
-      "javascript",
-      "n-plus-one",
-      "production-readiness",
-      "resilience",
-      "static-analysis",
-      "typescript"
-    ]
+    "fork": false
   },
   {
     "name": "video-template-system",
     "public": true,
-    "fork": false,
-    "description": "A TypeScript-based video template system for creating social media videos with similar structure to Cursor AI promotional content",
-    "topics": []
+    "fork": false
   },
   {
     "name": "viral-cascade",
     "public": true,
-    "fork": false,
-    "description": "Hawkes Self-Exciting Point Process & Information Cascade Diffusion Engine. Continuous-time stochastic point-process optimizer modeling viral branching factors (\u03b7 = \u03b1/\u03b2) and timing narrative releases to trigger compound organic cascades.",
-    "topics": [
-      "adtech",
-      "algorithmic-marketing",
-      "computational-social-science",
-      "epidemic-modeling",
-      "hawkes-process",
-      "information-cascades",
-      "network-diffusion",
-      "point-processes",
-      "stochastic-modeling",
-      "viral-marketing"
-    ]
+    "fork": false
   },
   {
     "name": "vuln-triage",
     "public": true,
-    "fork": false,
-    "description": "Exploit-aware vulnerability triage. Stop scanning, start deciding. Prioritizes CVEs by real-world exploitation (CISA KEV + FIRST EPSS), not CVSS alone, with a board-ready decision memo.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "VulnTruth",
     "public": true,
-    "fork": false,
-    "description": "Scanner-neutral vulnerability disagreement and decision evidence engine. Compare Trivy, Grype, and OSV results, expose conflicting assumptions, enrich with CISA KEV, and produce reproducible remediation evidence.",
-    "topics": []
+    "fork": false
   },
   {
     "name": "wazuh-elastic-sovereign-vciso-control-plane",
     "public": true,
-    "fork": false,
-    "description": "",
-    "topics": []
+    "fork": false
   },
   {
     "name": "worldops",
     "public": true,
-    "fork": false,
-    "description": "Inspectable infrastructure world model and placement benchmark for AI factories",
-    "topics": []
+    "fork": false
   },
   {
     "name": "zero-leak-dlp",
     "public": true,
-    "fork": false,
-    "description": "The Zero-Trust Data Loss Prevention (DLP) & Secret Exfiltration Firewall for Autonomous AI Agents",
-    "topics": []
+    "fork": false
   },
   {
     "name": "zero-shot-bci",
     "public": true,
-    "fork": false,
-    "description": "Zero-Shot Cross-Subject BCI Foundation Transport & Continuous Multi-Modal Biometric Liveness Mesh. Gromov-Wasserstein manifold alignment, sub-15mW spike sparsification, and P300/optical jitter anti-spoofing.",
-    "topics": [
-      "anti-spoofing",
-      "biometrics",
-      "brain-computer-interface",
-      "gromov-wasserstein",
-      "liveness-detection",
-      "neural-decoding",
-      "neuromorphic",
-      "neurotech",
-      "optimal-transport",
-      "zero-shot-learning"
-    ]
+    "fork": false
   },
   {
     "name": "zk-biometrics",
     "public": true,
-    "fork": false,
-    "description": "Zero-Knowledge Cancelable Biometrics & Fully Homomorphic Encrypted Vector Search (BIPA/GDPR/EU AI Act Compliant).",
-    "topics": [
-      "biometric-encryption",
-      "bipa-compliance",
-      "cancelable-biometrics",
-      "encrypted-vector-search",
-      "eu-ai-act-biometrics",
-      "gdpr-article-9",
-      "homomorphic-encryption",
-      "privacy-enhancing-technologies",
-      "privacy-preserving-face-recognition",
-      "secure-enclave-biometrics",
-      "zero-knowledge-biometrics",
-      "zk-snarks-identity"
-    ]
+    "fork": false
   },
   {
     "name": "zk-cleanroom",
     "public": true,
-    "fork": false,
-    "description": "Zero-Knowledge Private Set Intersection & Homomorphic Lookalike Audience Mesh. Enables cross-enterprise swarms to discover shared high-propensity buyer intents and collaborative lookalikes without exposing raw PII, customer graphs, or competitive secrets.",
-    "topics": [
-      "cryptography",
-      "data-clean-room",
-      "enterprise-data-mesh",
-      "gdpr-compliant-ai",
-      "homomorphic-encryption",
-      "lookalike-audience",
-      "privacy-preserving-marketing",
-      "private-set-intersection",
-      "smpc",
-      "zero-knowledge-proofs"
-    ]
+    "fork": false
   }
 ]

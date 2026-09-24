@@ -14,19 +14,19 @@ SNAPSHOT = ROOT / "data" / "public-original-repositories.json"
 OUTPUT = ROOT / "PORTFOLIO.md"
 
 GROUPS = [
-    ("Commerce, revenue, and customer operations", r"commerce|merchant|order-to-cash|payment-fraud|resolution|liveops|implementation-exchange|agent-hire|entity-continuity|vendor-assurance|trusted-community|auto.?parts|chatflux"),
-    ("AI agent security, identity, and governance", r"agent|aegis|grc|compliance|trust|identity|mcp|effect|vuln|security|redteam|killchain|veritas|pqc|pqattest|postquantum|zero-leak|gitleaks|vdr|evidence|permissioned|graph-rag-guard|bft|kernel"),
-    ("Cloud, platform engineering, and reliability", r"azure|cloud|infrastructure|kubernetes|network|devops|sre|aiops|multicloud|platform|autoprod|millionready|ghost-fork|vibeguard|otforge|fde-bounty|resilience|sap|m-a-technology"),
-    ("GPU, model serving, and AI economics", r"gpu|inference|nvidia|vllm|llm|runproof|worldops|tensor|kv-compress|green-inference|scale-ai|stream-fusion|neurospark|data-platform|eval-lake"),
-    ("Marketing, audiences, and growth", r"audience|attention|growth|viral|geo-engine|creative|causal|rtb|bonding|churn|flywheel|belief|narrative|strategy|elasticity|portfolio|generative-plg|zk-cleanroom|chrono-arbitrage"),
-    ("Physical AI, robotics, and biometrics", r"physical|robot|cyborg|bio|neuro|kinetic|fleet|sky|edge-vision|chrono-twin|industrial|supply-chain|zero-shot|ieee11073"),
-    ("Data, simulation, and decision systems", r"data|decision|swarm|context|hyper|project-atlas|due-diligence|outcome|real-time|video-template|pythondefi|metamask|cakewallet|trust-wallet"),
+    ("Commerce, revenue, and customer operations", r"commerce|merchant|order-to-cash|payment-fraud|resolution|liveops|implementation-exchange|agent-hire|entity-continuity|vendor-assurance|trusted-community|auto.?parts|chatflux", "Shopify and merchant operations, order-to-cash reconciliation, customer support automation, and revenue assurance."),
+    ("Cloud, platform engineering, and reliability", r"azure|cloud|infrastructure|kubernetes|network|devops|sre|aiops|multicloud|platform|autoprod|millionready|ghost-fork|vibeguard|otforge|fde-bounty|resilience|sap|m-a-technology", "Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering."),
+    ("GPU, model serving, and AI economics", r"gpu|inference|nvidia|vllm|llm|runproof|worldops|tensor|kv-compress|green-inference|scale-ai|stream-fusion|neurospark|data-platform|eval-lake", "LLM inference benchmarking, GPU cost estimation, model serving, AI factory capacity, and deployment economics."),
+    ("Marketing, audiences, and growth", r"audience|attention|growth|viral|geo-engine|creative|causal|rtb|bonding|churn|flywheel|belief|narrative|strategy|elasticity|portfolio|generative-plg|zk-cleanroom|chrono-arbitrage", "Marketing measurement, incrementality testing, synthetic audiences, recommendations, customer retention, and growth experiments."),
+    ("Physical AI, robotics, and biometrics", r"physical|robot|cyborg|bio|neuro|kinetic|fleet|sky|edge-vision|chrono-twin|industrial|supply-chain|zero-shot|ieee11073", "Robot evaluation, physical AI black boxes, digital twins, biometric privacy, and industrial simulation."),
+    ("AI agents: runtime, security, identity, and governance", r"agent|aegis|grc|compliance|trust|identity|mcp|effect|vuln|security|redteam|killchain|veritas|pqc|pqattest|postquantum|zero-leak|gitleaks|vdr|evidence|permissioned|graph-rag-guard|bft|kernel", "AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence."),
+    ("Data, simulation, and decision systems", r"data|decision|swarm|context|hyper|project-atlas|due-diligence|outcome|real-time|video-template|pythondefi|metamask|cakewallet|trust-wallet", "Data engineering, simulation, decision support, business outcomes, and technical research."),
 ]
 
 
 def group_for(name: str) -> str:
     lower = name.lower()
-    for group, pattern in GROUPS:
+    for group, pattern, _ in GROUPS:
         if re.search(pattern, lower):
             return group
     return "Other original projects"
@@ -50,11 +50,11 @@ def main() -> None:
         "[Start with the flagship systems](README.md#start-here) · [Explore A2Z SOC](https://a2zsoc.com)",
         "",
     ]
-    for group, _ in GROUPS:
+    for group, _, description in GROUPS:
         items = sorted(grouped.pop(group, []), key=lambda r: r["name"].lower())
         if not items:
             continue
-        lines += [f"## {group} ({len(items)})", ""]
+        lines += [f"## {group} ({len(items)})", "", description, ""]
         for repo in items:
             name = repo["name"]
             lines.append(f"- [{name}](https://github.com/AAH20/{name})")
