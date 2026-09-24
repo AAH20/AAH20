@@ -1,4 +1,4 @@
-# Ahmed Hassan · Open systems across infrastructure, intelligence, and operations
+# Ahmed Hassan · Inspectable systems across infrastructure, intelligence, and operations with the Apex of International Standards and GRC
 
 I build distinct open-source systems for cloud and network operations, GPU/model economics, agent security and identity, commerce operations, physical AI, data/decision systems, and marketing measurement. Each domain has its own technical objective, benchmark units, and evidence boundary.
 
