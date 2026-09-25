@@ -6,15 +6,15 @@ I build distinct systems for cloud and network operations, GPU/model economics, 
 
 [Sponsor the work](https://github.com/sponsors/AAH20) · [Maintenance record](MAINTENANCE.md) · [Sponsorship program and ten levels](SPONSORSHIP.md) · [Browse every public original repository](PORTFOLIO.md) · [Benchmark protocols](BENCHMARKS.md) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
 
-## What support sustains
-
-The [live GitHub Sponsors page](https://github.com/sponsors/AAH20) offers nine monthly tiers from **$10 to $8,000**, each with a tier-specific welcome message. Sponsorship funds public maintenance, reproducible tests, documentation, issue triage, and independently reported limitations for the three focus projects. [The dated record](MAINTENANCE.md) shows the starting state and will record subsequent work. [The program terms](SPONSORSHIP.md) describe a tenth, **$20,000/month** strategic level arranged under a separate agreement because GitHub caps a monthly tier at $12,000. Funding never buys benchmark results, a reference-list position, or control of technical conclusions.
-
 ## Live GitHub portfolio telemetry
 
 ![Live counts of public original repositories, repositories pushed in the past 30 days, stars, and forks](assets/profile/overview.svg)
 
 The cards below refresh daily from GitHub's public repository API. Counts exclude forks and private repositories. A push is repository activity, not a deployment or customer adoption. Stars and forks are GitHub attention, not revenue or independent validation. [Inspect the machine-readable snapshot and definitions](data/profile-metrics.json).
+
+## What support sustains
+
+The [live GitHub Sponsors page](https://github.com/sponsors/AAH20) offers nine monthly tiers from **$10 to $8,000**, each with a tier-specific welcome message. Sponsorship funds public maintenance, reproducible tests, documentation, issue triage, and independently reported limitations for the three focus projects. [The dated record](MAINTENANCE.md) shows the starting state and will record subsequent work. [The program terms](SPONSORSHIP.md) describe a tenth, **$20,000/month** strategic level arranged under a separate agreement because GitHub caps a monthly tier at $12,000. Funding never buys benchmark results, a reference-list position, or control of technical conclusions.
 
 ## Engineering domains and benchmark axes
 
