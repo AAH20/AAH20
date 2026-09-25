@@ -1,8 +1,8 @@
 # Sponsorship program — ten levels
 
-**Program preview, published 2026-09-25.** Checkout is available only after GitHub Sponsors enrollment and tier publication. These levels describe funding for the three named [maintenance-focus projects](MAINTENANCE.md), while the [full portfolio](PORTFOLIO.md) retains separate domains and evidence standards. All prices are USD **per month**. Recognition is optional; anonymous sponsors receive the same technical reporting.
+**Live program, updated 2026-09-25.** Levels 1–9 are [published on GitHub Sponsors](https://github.com/sponsors/AAH20), each with a tier-specific welcome message. Level 10 is available only through a separate agreement. These levels describe funding for the three named [maintenance-focus projects](MAINTENANCE.md), while the [full portfolio](PORTFOLIO.md) retains separate domains and evidence standards. All prices are USD **per month**. Recognition is optional; anonymous sponsors receive the same technical reporting.
 
-GitHub permits up to ten monthly tiers but currently caps each at **$12,000/month**. Levels 1–9 below fit GitHub Sponsors. Level 10 is a separately contracted strategic stewardship agreement, not a GitHub checkout tier. [GitHub's tier rules](https://docs.github.com/en/sponsors/receiving-sponsorships-through-github-sponsors/managing-your-sponsorship-tiers) are authoritative if they change.
+GitHub permits up to ten monthly tiers but currently caps each at **$12,000/month**. Levels 1–9 below are live GitHub checkout tiers. Level 10 is a separately contracted strategic stewardship agreement, not a GitHub checkout tier. [GitHub's tier rules](https://docs.github.com/en/sponsors/receiving-sponsorships-through-github-sponsors/managing-your-sponsorship-tiers) are authoritative if they change.
 
 | Level | Monthly | Name | Incremental benefit beyond lower levels |
 | ---: | ---: | --- | --- |

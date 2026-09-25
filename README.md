@@ -4,11 +4,11 @@ I build distinct systems for cloud and network operations, GPU/model economics, 
 
 **Current maintenance focus:** [GRC Claw](https://github.com/AAH20/GRC_Claw) · [Multi-Cloud Infrastructure Control Loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) · [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin). This names a bounded stewardship focus; it does not collapse the other domains or claim every repository is maintained at the same cadence.
 
-[Maintenance record](MAINTENANCE.md) · [Sponsorship program and ten levels](SPONSORSHIP.md) · [Browse every public original repository](PORTFOLIO.md) · [Benchmark protocols](BENCHMARKS.md) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
+[Sponsor the work](https://github.com/sponsors/AAH20) · [Maintenance record](MAINTENANCE.md) · [Sponsorship program and ten levels](SPONSORSHIP.md) · [Browse every public original repository](PORTFOLIO.md) · [Benchmark protocols](BENCHMARKS.md) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
 
 ## What support sustains
 
-The proposed sponsorship program funds public maintenance, reproducible tests, documentation, issue triage, and independently reported limitations for the three focus projects. [The dated record](MAINTENANCE.md) shows the starting state and will record subsequent work. [The program terms](SPONSORSHIP.md) specify benefits from **$10 to $20,000/month**, with the $20,000 strategic level arranged separately because GitHub caps a monthly tier at $12,000. Funding never buys benchmark results, a reference-list position, or control of technical conclusions. Enrollment and checkout availability depend on GitHub Sponsors setup; the program document is published for review in the meantime.
+The [live GitHub Sponsors page](https://github.com/sponsors/AAH20) offers nine monthly tiers from **$10 to $8,000**, each with a tier-specific welcome message. Sponsorship funds public maintenance, reproducible tests, documentation, issue triage, and independently reported limitations for the three focus projects. [The dated record](MAINTENANCE.md) shows the starting state and will record subsequent work. [The program terms](SPONSORSHIP.md) describe a tenth, **$20,000/month** strategic level arranged under a separate agreement because GitHub caps a monthly tier at $12,000. Funding never buys benchmark results, a reference-list position, or control of technical conclusions.
 
 ## Live GitHub portfolio telemetry
 
