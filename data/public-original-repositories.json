@@ -360,6 +360,11 @@
     "fork": false
   },
   {
+    "name": "awesome-computer-science-systems",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "az104-enterprise-azure-operations-lab",
     "public": true,
     "fork": false
@@ -655,6 +660,11 @@
     "fork": false
   },
   {
+    "name": "growth-decision-engine",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "growth-syndicate",
     "public": true,
     "fork": false
@@ -931,6 +941,11 @@
   },
   {
     "name": "supply-chain-digital-twin",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "Swarm-Context-Commander",
     "public": true,
     "fork": false
   },

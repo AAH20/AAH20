@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-24T20:52:46Z",
+  "generated_at_utc": "2026-09-25T10:11:32Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,8 +7,8 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 210,
-  "pushed_30d": 154,
+  "total": 213,
+  "pushed_30d": 157,
   "stars": 8,
   "forks": 1,
   "domains": [
@@ -44,8 +44,8 @@
     },
     {
       "name": "Marketing, audiences, and growth",
-      "count": 21,
-      "pushed_30d": 21,
+      "count": 22,
+      "pushed_30d": 22,
       "stars": 0,
       "kpis": [
         "Incremental contribution / $ spent",
@@ -74,8 +74,8 @@
     },
     {
       "name": "Data, simulation, and decision systems",
-      "count": 12,
-      "pushed_30d": 5,
+      "count": 13,
+      "pushed_30d": 6,
       "stars": 3,
       "kpis": [
         "Data freshness lag p95 (s)",
@@ -84,8 +84,8 @@
     },
     {
       "name": "Other original projects",
-      "count": 1,
-      "pushed_30d": 1,
+      "count": 2,
+      "pushed_30d": 2,
       "stars": 0,
       "kpis": [
         "Project-specific protocol",

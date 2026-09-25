@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **210 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-09-24. Forks and private repositories are excluded.
+This directory covers **213 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-09-25. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -113,7 +113,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Marketing, audiences, and growth
 
-**21 repositories.** Marketing measurement, incrementality testing, synthetic audiences, recommendations, customer retention, and growth experiments.
+**22 repositories.** Marketing measurement, incrementality testing, synthetic audiences, recommendations, customer retention, and growth experiments.
 
 - [attentionos-bench](https://github.com/AAH20/attentionos-bench)
 - [audience-swarm-lab](https://github.com/AAH20/audience-swarm-lab)
@@ -129,6 +129,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [generative-plg](https://github.com/AAH20/generative-plg)
 - [geo-engine](https://github.com/AAH20/geo-engine)
 - [growth-bandit](https://github.com/AAH20/growth-bandit)
+- [growth-decision-engine](https://github.com/AAH20/growth-decision-engine)
 - [growth-syndicate](https://github.com/AAH20/growth-syndicate)
 - [narrative-surge](https://github.com/AAH20/narrative-surge)
 - [portfolio-growth-engine](https://github.com/AAH20/portfolio-growth-engine)
@@ -235,7 +236,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Data, simulation, and decision systems
 
-**12 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
+**13 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
 
 - [CakeWallet-Analysis](https://github.com/AAH20/CakeWallet-Analysis)
 - [context-graph-compact](https://github.com/AAH20/context-graph-compact)
@@ -245,6 +246,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [outcome-fabric](https://github.com/AAH20/outcome-fabric)
 - [project-atlas-due-diligence](https://github.com/AAH20/project-atlas-due-diligence)
 - [PythonDeFi_Challenge](https://github.com/AAH20/PythonDeFi_Challenge)
+- [Swarm-Context-Commander](https://github.com/AAH20/Swarm-Context-Commander)
 - [swarm-eval-harness](https://github.com/AAH20/swarm-eval-harness)
 - [swarm-substrate](https://github.com/AAH20/swarm-substrate)
 - [swarm-sync](https://github.com/AAH20/swarm-sync)
@@ -252,6 +254,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Other original projects
 
-**1 repositories.**
+**2 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
+- [awesome-computer-science-systems](https://github.com/AAH20/awesome-computer-science-systems)
