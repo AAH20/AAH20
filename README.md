@@ -1,8 +1,14 @@
-# Inspectable systems across infrastructure, intelligence, and operations with the Apex of International Standards and GRC
+# Ahmed Hassan — inspectable cloud, network, and AI systems
 
-I build distinct open-source systems for cloud and network operations, GPU/model economics, agent security and identity, commerce operations, physical AI, data/decision systems, and marketing measurement. Each domain has its own technical objective, benchmark units, and evidence boundary.
+I build distinct systems for cloud and network operations, GPU/model economics, agent security and identity, commerce operations, physical AI, data/decision systems, and marketing measurement. Each domain has its own technical objective, benchmark units, and evidence boundary.
 
-[Browse every public original repository](PORTFOLIO.md) · [Read the benchmark protocols](BENCHMARKS.md) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
+**Current maintenance focus:** [GRC Claw](https://github.com/AAH20/GRC_Claw) · [Multi-Cloud Infrastructure Control Loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) · [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin). This names a bounded stewardship focus; it does not collapse the other domains or claim every repository is maintained at the same cadence.
+
+[Maintenance record](MAINTENANCE.md) · [Sponsorship program and ten levels](SPONSORSHIP.md) · [Browse every public original repository](PORTFOLIO.md) · [Benchmark protocols](BENCHMARKS.md) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
+
+## What support sustains
+
+The proposed sponsorship program funds public maintenance, reproducible tests, documentation, issue triage, and independently reported limitations for the three focus projects. [The dated record](MAINTENANCE.md) shows the starting state and will record subsequent work. [The program terms](SPONSORSHIP.md) specify benefits from **$10 to $20,000/month**, with the $20,000 strategic level arranged separately because GitHub caps a monthly tier at $12,000. Funding never buys benchmark results, a reference-list position, or control of technical conclusions. Enrollment and checkout availability depend on GitHub Sponsors setup; the program document is published for review in the meantime.
 
 ## Live GitHub portfolio telemetry
 
