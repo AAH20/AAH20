@@ -45,6 +45,16 @@
     "fork": false
   },
   {
+    "name": "abliteration-benchmarks",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "adaptive-throttle",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "adversarial-nexus",
     "public": true,
     "fork": false
@@ -100,6 +110,16 @@
     "fork": false
   },
   {
+    "name": "agent-blackbox",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agent-capability-foundry",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "agent-commerce",
     "public": true,
     "fork": false
@@ -120,7 +140,27 @@
     "fork": false
   },
   {
+    "name": "agent-credit-exchange",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "agent-dag-lock",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agent-darwin",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agent-diff",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agent-escrow",
     "public": true,
     "fork": false
   },
@@ -135,7 +175,17 @@
     "fork": false
   },
   {
+    "name": "agent-hypervisor",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "agent-immune-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agent-jailbreak-firewall",
     "public": true,
     "fork": false
   },
@@ -146,6 +196,11 @@
   },
   {
     "name": "agent-kill-switch",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agent-mesh",
     "public": true,
     "fork": false
   },
@@ -170,12 +225,32 @@
     "fork": false
   },
   {
+    "name": "agent-telepathy-bus",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "agent-trust-fabric",
     "public": true,
     "fork": false
   },
   {
+    "name": "agent-undo",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "agent-wal",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agent-webrtc-stream",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agentic-3ds-router",
     "public": true,
     "fork": false
   },
@@ -195,7 +270,22 @@
     "fork": false
   },
   {
+    "name": "agentic-conformance-eval",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "agentic-devops-sre-skill-registry",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agentic-fintech-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agentic-grc-fintech",
     "public": true,
     "fork": false
   },
@@ -211,6 +301,16 @@
   },
   {
     "name": "agentic-infrastructure-delivery-factory",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agentic-pci-dss",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agentic-threat-matrix",
     "public": true,
     "fork": false
   },
@@ -325,6 +425,36 @@
     "fork": false
   },
   {
+    "name": "airgap-audit-breaker",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "aml-smurf-radar",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "api-beacon-radar",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "app-fraud-sentinel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "arena-redteam",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "ast-cadence",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "attentionos-bench",
     "public": true,
     "fork": false
@@ -350,6 +480,26 @@
     "fork": false
   },
   {
+    "name": "autonomous-sovereignty-engine",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "autonomous-spend-guard",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "autonomous-tactical-ontology",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "autonomous-turnaround-logistics",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "AutoPartsInventoryManagement",
     "public": true,
     "fork": false
@@ -361,6 +511,11 @@
   },
   {
     "name": "awesome-computer-science-systems",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "ax-context-gateway",
     "public": true,
     "fork": false
   },
@@ -430,6 +585,16 @@
     "fork": false
   },
   {
+    "name": "baas-breach-simulator",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "baas-ledger-sentinel",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "belief-graph",
     "public": true,
     "fork": false
@@ -445,7 +610,32 @@
     "fork": false
   },
   {
+    "name": "blind-tokens",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "bonding-curve",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "byzantine-lease",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "byzantine-mesh-arbiter",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "byzantine-swarm-sentinel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "cache-forge",
     "public": true,
     "fork": false
   },
@@ -455,7 +645,17 @@
     "fork": false
   },
   {
+    "name": "canary-mcp",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "causal-attribution",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "cfpb-1033-fdx-gateway",
     "public": true,
     "fork": false
   },
@@ -505,6 +705,11 @@
     "fork": false
   },
   {
+    "name": "cloud-grc-harvester",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "cloud-infrastructure-knowledge-graph",
     "public": true,
     "fork": false
@@ -520,6 +725,16 @@
     "fork": false
   },
   {
+    "name": "cognitive-spectrum-stackelberg",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "combinatorial-salvo-allocator",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "commerce-incident-network",
     "public": true,
     "fork": false
@@ -530,12 +745,32 @@
     "fork": false
   },
   {
+    "name": "context-checkpoint",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "context-graph-compact",
     "public": true,
     "fork": false
   },
   {
+    "name": "crash-replay",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "creative-evolution",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "cross-border-pvp-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "cross-rail-contagion-sentinel",
     "public": true,
     "fork": false
   },
@@ -551,6 +786,31 @@
   },
   {
     "name": "decision-world",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "deterministic-avionic-scheduler",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "dispute-evidence-engine",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "distributed-covariance-fusion",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "distributed-track-fusion-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "durbin-rail-optimizer",
     "public": true,
     "fork": false
   },
@@ -580,6 +840,11 @@
     "fork": false
   },
   {
+    "name": "enterprise-mcp-firewall",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "entity-continuity",
     "public": true,
     "fork": false
@@ -595,7 +860,17 @@
     "fork": false
   },
   {
+    "name": "fintech-c2-matrix",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "flywheel-engine",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "formal-guard",
     "public": true,
     "fork": false
   },
@@ -610,7 +885,27 @@
     "fork": false
   },
   {
+    "name": "ghost-desktop",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "ghost-fork",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "ghost-grounding",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "ghost-witness",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "git-arbiter",
     "public": true,
     "fork": false
   },
@@ -670,7 +965,17 @@
     "fork": false
   },
   {
+    "name": "honey-agent",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "hyper-agent-os",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "hyper-mesh",
     "public": true,
     "fork": false
   },
@@ -680,7 +985,17 @@
     "fork": false
   },
   {
+    "name": "instant-ewa-liquidity-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "intel-pulse",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "intraday-liquidity-orchestrator",
     "public": true,
     "fork": false
   },
@@ -695,7 +1010,17 @@
     "fork": false
   },
   {
+    "name": "kinematic-4d-swarm-deconfliction",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "kinetic-guard",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "kinetic-swarm-consensus",
     "public": true,
     "fork": false
   },
@@ -740,6 +1065,26 @@
     "fork": false
   },
   {
+    "name": "ma-vdr-diligence-os",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "mcp-box",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "mcp-compatibility",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "mcp-healer",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "mcp-redteam",
     "public": true,
     "fork": false
@@ -750,12 +1095,32 @@
     "fork": false
   },
   {
+    "name": "mem-quarantine",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "merchant-profit-os",
     "public": true,
     "fork": false
   },
   {
+    "name": "meta-synthesizer",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "MetaMask-APK-Analysis",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "mica-stablecoin-reserve-auditor",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "microsecond-kill-chain-dag",
     "public": true,
     "fork": false
   },
@@ -775,12 +1140,27 @@
     "fork": false
   },
   {
+    "name": "mutation-sentinel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "nacha-return-risk-oracle",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "narrative-surge",
     "public": true,
     "fork": false
   },
   {
     "name": "network-change-intelligence-twin",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "neuro-debugger",
     "public": true,
     "fork": false
   },
@@ -811,6 +1191,11 @@
   },
   {
     "name": "nvidia-ai-factory-reliability-platform",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "ofac-sanctions-graph-sentinel",
     "public": true,
     "fork": false
   },
@@ -860,7 +1245,22 @@
     "fork": false
   },
   {
+    "name": "phantom-v8",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "phased-aperture-orchestrator",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "physical-ai-governor",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "poly-bench",
     "public": true,
     "fork": false
   },
@@ -885,7 +1285,17 @@
     "fork": false
   },
   {
+    "name": "puf-ephemeral-zeroize",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "PythonDeFi_Challenge",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "quantum-pki-fintech-gateway",
     "public": true,
     "fork": false
   },
@@ -930,6 +1340,26 @@
     "fork": false
   },
   {
+    "name": "sovereign-ai-enclave",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "spec-to-swarm",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "speculative-gui-fork",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "speculative-swarm",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "strategy-genome",
     "public": true,
     "fork": false
@@ -945,12 +1375,32 @@
     "fork": false
   },
   {
+    "name": "surcharge-matrix-sentinel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "swarm-as-mcp",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "Swarm-Context-Commander",
     "public": true,
     "fork": false
   },
   {
+    "name": "swarm-desktop-os",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "swarm-eval-harness",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "swarm-market-wta",
     "public": true,
     "fork": false
   },
@@ -965,7 +1415,52 @@
     "fork": false
   },
   {
+    "name": "swarm-synthetic-lead",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "synthetic-identity-radar",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "synthetic-swarm-detonator",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "tech-balance-sheet",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "temporal-hypergraph-synthesizer",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "tensor-forge",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "tensor-immunity",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "thought-flame",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "tool-foundry",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "topological-vision-guard",
     "public": true,
     "fork": false
   },
@@ -1025,6 +1520,16 @@
     "fork": false
   },
   {
+    "name": "volumetric-art-gallery-siting",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "voronoi-swarm-morph",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "vuln-triage",
     "public": true,
     "fork": false
@@ -1040,6 +1545,16 @@
     "fork": false
   },
   {
+    "name": "wire-to-mcp",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "workflow-twin",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "worldops",
     "public": true,
     "fork": false
@@ -1051,6 +1566,11 @@
   },
   {
     "name": "zero-shot-bci",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "zk-agent-escrow",
     "public": true,
     "fork": false
   },

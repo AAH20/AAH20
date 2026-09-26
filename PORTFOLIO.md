@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **213 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-09-25. Forks and private repositories are excluded.
+This directory covers **317 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-09-26. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -29,7 +29,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## GPU, model serving, and AI economics
 
-**21 repositories.** LLM inference benchmarking, GPU cost estimation, model serving, AI factory capacity, and deployment economics.
+**22 repositories.** LLM inference benchmarking, GPU cost estimation, model serving, AI factory capacity, and deployment economics.
 
 - [ai-factory-revenue-twin](https://github.com/AAH20/ai-factory-revenue-twin)
 - [ai-inference-price-performance-index](https://github.com/AAH20/ai-inference-price-performance-index)
@@ -51,11 +51,12 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [runproof](https://github.com/AAH20/runproof)
 - [stream-fusion](https://github.com/AAH20/stream-fusion)
 - [tensor-forge](https://github.com/AAH20/tensor-forge)
+- [tensor-immunity](https://github.com/AAH20/tensor-immunity)
 - [worldops](https://github.com/AAH20/worldops)
 
 ## Cloud, platform engineering, and reliability
 
-**53 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
+**54 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
 
 - [agentic-ai-infrastructure-data-engine](https://github.com/AAH20/agentic-ai-infrastructure-data-engine)
 - [agentic-cloud-solution-engineering-factory](https://github.com/AAH20/agentic-cloud-solution-engineering-factory)
@@ -88,6 +89,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [azure-well-architected-ai-reviewer](https://github.com/AAH20/azure-well-architected-ai-reviewer)
 - [ciso-assistant-azure-compliance-automation](https://github.com/AAH20/ciso-assistant-azure-compliance-automation)
 - [cloud-cost-optimization-github-action](https://github.com/AAH20/cloud-cost-optimization-github-action)
+- [cloud-grc-harvester](https://github.com/AAH20/cloud-grc-harvester)
 - [cloud-infrastructure-knowledge-graph](https://github.com/AAH20/cloud-infrastructure-knowledge-graph)
 - [cloud-resilience-disaster-recovery-platform](https://github.com/AAH20/cloud-resilience-disaster-recovery-platform)
 - [cloudfusion-assurance-fabric](https://github.com/AAH20/cloudfusion-assurance-fabric)
@@ -140,7 +142,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Physical AI, robotics, and biometrics
 
-**19 repositories.** Robot evaluation, physical AI black boxes, digital twins, biometric privacy, and industrial simulation.
+**21 repositories.** Robot evaluation, physical AI black boxes, digital twins, biometric privacy, and industrial simulation.
 
 - [aegis-fleet](https://github.com/AAH20/aegis-fleet)
 - [Aegis-IEEE11073-Scanner](https://github.com/AAH20/Aegis-IEEE11073-Scanner)
@@ -152,6 +154,8 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [cyborg-reflex](https://github.com/AAH20/cyborg-reflex)
 - [edge-vision-mesh](https://github.com/AAH20/edge-vision-mesh)
 - [kinetic-guard](https://github.com/AAH20/kinetic-guard)
+- [kinetic-swarm-consensus](https://github.com/AAH20/kinetic-swarm-consensus)
+- [neuro-debugger](https://github.com/AAH20/neuro-debugger)
 - [neuro-manifold](https://github.com/AAH20/neuro-manifold)
 - [neuro-spatial](https://github.com/AAH20/neuro-spatial)
 - [neuromuscular-pll](https://github.com/AAH20/neuromuscular-pll)
@@ -164,7 +168,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## AI agents: runtime, security, identity, and governance
 
-**67 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
+**101 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
 
 - [a2z-agent-app-factory](https://github.com/AAH20/a2z-agent-app-factory)
 - [AAH_PostQuantum_Cryptography](https://github.com/AAH20/AAH_PostQuantum_Cryptography)
@@ -176,22 +180,40 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [Aegis_CM_Swarm2](https://github.com/AAH20/Aegis_CM_Swarm2)
 - [Aegis_Q_Cognitive](https://github.com/AAH20/Aegis_Q_Cognitive)
 - [agent-action-gate](https://github.com/AAH20/agent-action-gate)
+- [agent-blackbox](https://github.com/AAH20/agent-blackbox)
+- [agent-capability-foundry](https://github.com/AAH20/agent-capability-foundry)
 - [agent-context-compactor](https://github.com/AAH20/agent-context-compactor)
 - [agent-control-standard-conformance](https://github.com/AAH20/agent-control-standard-conformance)
 - [agent-cost-cascade](https://github.com/AAH20/agent-cost-cascade)
+- [agent-credit-exchange](https://github.com/AAH20/agent-credit-exchange)
 - [agent-dag-lock](https://github.com/AAH20/agent-dag-lock)
+- [agent-darwin](https://github.com/AAH20/agent-darwin)
+- [agent-diff](https://github.com/AAH20/agent-diff)
+- [agent-escrow](https://github.com/AAH20/agent-escrow)
 - [agent-eval-guard](https://github.com/AAH20/agent-eval-guard)
 - [agent-finops](https://github.com/AAH20/agent-finops)
+- [agent-hypervisor](https://github.com/AAH20/agent-hypervisor)
 - [agent-immune-kernel](https://github.com/AAH20/agent-immune-kernel)
+- [agent-jailbreak-firewall](https://github.com/AAH20/agent-jailbreak-firewall)
 - [agent-jit-iam](https://github.com/AAH20/agent-jit-iam)
 - [agent-kill-switch](https://github.com/AAH20/agent-kill-switch)
+- [agent-mesh](https://github.com/AAH20/agent-mesh)
 - [agent-mesh-sidecar](https://github.com/AAH20/agent-mesh-sidecar)
 - [agent-redteam-harness](https://github.com/AAH20/agent-redteam-harness)
 - [agent-schema-firewall](https://github.com/AAH20/agent-schema-firewall)
 - [agent-sleep-consolidator](https://github.com/AAH20/agent-sleep-consolidator)
+- [agent-telepathy-bus](https://github.com/AAH20/agent-telepathy-bus)
 - [agent-trust-fabric](https://github.com/AAH20/agent-trust-fabric)
+- [agent-undo](https://github.com/AAH20/agent-undo)
 - [agent-wal](https://github.com/AAH20/agent-wal)
+- [agent-webrtc-stream](https://github.com/AAH20/agent-webrtc-stream)
+- [agentic-3ds-router](https://github.com/AAH20/agentic-3ds-router)
 - [agentic-ai-threat-intelligence](https://github.com/AAH20/agentic-ai-threat-intelligence)
+- [agentic-conformance-eval](https://github.com/AAH20/agentic-conformance-eval)
+- [agentic-fintech-kernel](https://github.com/AAH20/agentic-fintech-kernel)
+- [agentic-grc-fintech](https://github.com/AAH20/agentic-grc-fintech)
+- [agentic-pci-dss](https://github.com/AAH20/agentic-pci-dss)
+- [agentic-threat-matrix](https://github.com/AAH20/agentic-threat-matrix)
 - [agentproof-ai-security-scanner](https://github.com/AAH20/agentproof-ai-security-scanner)
 - [agentrelease-authority](https://github.com/AAH20/agentrelease-authority)
 - [ai-agent-identity-authorization-security](https://github.com/AAH20/ai-agent-identity-authorization-security)
@@ -202,19 +224,31 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [ai-governance-evidence-graph](https://github.com/AAH20/ai-governance-evidence-graph)
 - [ai-grc-automation-benchmark](https://github.com/AAH20/ai-grc-automation-benchmark)
 - [ai-security-posture-management](https://github.com/AAH20/ai-security-posture-management)
+- [arena-redteam](https://github.com/AAH20/arena-redteam)
 - [bft-agent-consensus](https://github.com/AAH20/bft-agent-consensus)
+- [canary-mcp](https://github.com/AAH20/canary-mcp)
 - [ciso-assistant-ai-agent-security-connector](https://github.com/AAH20/ciso-assistant-ai-agent-security-connector)
 - [ciso-assistant-aws-compliance-automation](https://github.com/AAH20/ciso-assistant-aws-compliance-automation)
 - [ciso-assistant-gcp-compliance-automation](https://github.com/AAH20/ciso-assistant-gcp-compliance-automation)
+- [cross-border-pvp-kernel](https://github.com/AAH20/cross-border-pvp-kernel)
+- [dispute-evidence-engine](https://github.com/AAH20/dispute-evidence-engine)
+- [distributed-track-fusion-kernel](https://github.com/AAH20/distributed-track-fusion-kernel)
 - [egypt-digital-trust-map](https://github.com/AAH20/egypt-digital-trust-map)
+- [enterprise-mcp-firewall](https://github.com/AAH20/enterprise-mcp-firewall)
 - [gitleaks](https://github.com/AAH20/gitleaks)
 - [graph-rag-guard](https://github.com/AAH20/graph-rag-guard)
 - [GRC_Claw](https://github.com/AAH20/GRC_Claw)
+- [honey-agent](https://github.com/AAH20/honey-agent)
 - [hyper-agent-os](https://github.com/AAH20/hyper-agent-os)
 - [identity-fabric-benchmarks](https://github.com/AAH20/identity-fabric-benchmarks)
+- [instant-ewa-liquidity-kernel](https://github.com/AAH20/instant-ewa-liquidity-kernel)
 - [intel-pulse](https://github.com/AAH20/intel-pulse)
 - [kernel-agent-ebpf](https://github.com/AAH20/kernel-agent-ebpf)
 - [killchain-engine](https://github.com/AAH20/killchain-engine)
+- [ma-vdr-diligence-os](https://github.com/AAH20/ma-vdr-diligence-os)
+- [mcp-box](https://github.com/AAH20/mcp-box)
+- [mcp-compatibility](https://github.com/AAH20/mcp-compatibility)
+- [mcp-healer](https://github.com/AAH20/mcp-healer)
 - [mcp-redteam](https://github.com/AAH20/mcp-redteam)
 - [mcp-shield](https://github.com/AAH20/mcp-shield)
 - [open-agent-reliability-fabric](https://github.com/AAH20/open-agent-reliability-fabric)
@@ -223,6 +257,8 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [permissioned-contributor-agent](https://github.com/AAH20/permissioned-contributor-agent)
 - [pqattest](https://github.com/AAH20/pqattest)
 - [pqc-enclave](https://github.com/AAH20/pqc-enclave)
+- [swarm-as-mcp](https://github.com/AAH20/swarm-as-mcp)
+- [synthetic-identity-radar](https://github.com/AAH20/synthetic-identity-radar)
 - [trust-loop](https://github.com/AAH20/trust-loop)
 - [Trust-Wallet-APK-Analysis](https://github.com/AAH20/Trust-Wallet-APK-Analysis)
 - [vdr-synthesizer](https://github.com/AAH20/vdr-synthesizer)
@@ -232,29 +268,97 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [vuln-triage](https://github.com/AAH20/vuln-triage)
 - [VulnTruth](https://github.com/AAH20/VulnTruth)
 - [wazuh-elastic-sovereign-vciso-control-plane](https://github.com/AAH20/wazuh-elastic-sovereign-vciso-control-plane)
+- [wire-to-mcp](https://github.com/AAH20/wire-to-mcp)
 - [zero-leak-dlp](https://github.com/AAH20/zero-leak-dlp)
+- [zk-agent-escrow](https://github.com/AAH20/zk-agent-escrow)
 
 ## Data, simulation, and decision systems
 
-**13 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
+**26 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
 
+- [ax-context-gateway](https://github.com/AAH20/ax-context-gateway)
+- [byzantine-swarm-sentinel](https://github.com/AAH20/byzantine-swarm-sentinel)
 - [CakeWallet-Analysis](https://github.com/AAH20/CakeWallet-Analysis)
+- [context-checkpoint](https://github.com/AAH20/context-checkpoint)
 - [context-graph-compact](https://github.com/AAH20/context-graph-compact)
 - [decision-world](https://github.com/AAH20/decision-world)
+- [hyper-mesh](https://github.com/AAH20/hyper-mesh)
+- [kinematic-4d-swarm-deconfliction](https://github.com/AAH20/kinematic-4d-swarm-deconfliction)
 - [MetaMask-APK-Analysis](https://github.com/AAH20/MetaMask-APK-Analysis)
 - [opentelemetry-ai-valueops-collector](https://github.com/AAH20/opentelemetry-ai-valueops-collector)
 - [outcome-fabric](https://github.com/AAH20/outcome-fabric)
 - [project-atlas-due-diligence](https://github.com/AAH20/project-atlas-due-diligence)
 - [PythonDeFi_Challenge](https://github.com/AAH20/PythonDeFi_Challenge)
+- [spec-to-swarm](https://github.com/AAH20/spec-to-swarm)
+- [speculative-swarm](https://github.com/AAH20/speculative-swarm)
 - [Swarm-Context-Commander](https://github.com/AAH20/Swarm-Context-Commander)
+- [swarm-desktop-os](https://github.com/AAH20/swarm-desktop-os)
 - [swarm-eval-harness](https://github.com/AAH20/swarm-eval-harness)
+- [swarm-market-wta](https://github.com/AAH20/swarm-market-wta)
 - [swarm-substrate](https://github.com/AAH20/swarm-substrate)
 - [swarm-sync](https://github.com/AAH20/swarm-sync)
+- [swarm-synthetic-lead](https://github.com/AAH20/swarm-synthetic-lead)
+- [synthetic-swarm-detonator](https://github.com/AAH20/synthetic-swarm-detonator)
+- [temporal-hypergraph-synthesizer](https://github.com/AAH20/temporal-hypergraph-synthesizer)
 - [video-template-system](https://github.com/AAH20/video-template-system)
+- [voronoi-swarm-morph](https://github.com/AAH20/voronoi-swarm-morph)
 
 ## Other original projects
 
-**2 repositories.**
+**55 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
+- [abliteration-benchmarks](https://github.com/AAH20/abliteration-benchmarks)
+- [adaptive-throttle](https://github.com/AAH20/adaptive-throttle)
+- [airgap-audit-breaker](https://github.com/AAH20/airgap-audit-breaker)
+- [aml-smurf-radar](https://github.com/AAH20/aml-smurf-radar)
+- [api-beacon-radar](https://github.com/AAH20/api-beacon-radar)
+- [app-fraud-sentinel](https://github.com/AAH20/app-fraud-sentinel)
+- [ast-cadence](https://github.com/AAH20/ast-cadence)
+- [autonomous-sovereignty-engine](https://github.com/AAH20/autonomous-sovereignty-engine)
+- [autonomous-spend-guard](https://github.com/AAH20/autonomous-spend-guard)
+- [autonomous-tactical-ontology](https://github.com/AAH20/autonomous-tactical-ontology)
+- [autonomous-turnaround-logistics](https://github.com/AAH20/autonomous-turnaround-logistics)
 - [awesome-computer-science-systems](https://github.com/AAH20/awesome-computer-science-systems)
+- [baas-breach-simulator](https://github.com/AAH20/baas-breach-simulator)
+- [baas-ledger-sentinel](https://github.com/AAH20/baas-ledger-sentinel)
+- [blind-tokens](https://github.com/AAH20/blind-tokens)
+- [byzantine-lease](https://github.com/AAH20/byzantine-lease)
+- [byzantine-mesh-arbiter](https://github.com/AAH20/byzantine-mesh-arbiter)
+- [cache-forge](https://github.com/AAH20/cache-forge)
+- [cfpb-1033-fdx-gateway](https://github.com/AAH20/cfpb-1033-fdx-gateway)
+- [cognitive-spectrum-stackelberg](https://github.com/AAH20/cognitive-spectrum-stackelberg)
+- [combinatorial-salvo-allocator](https://github.com/AAH20/combinatorial-salvo-allocator)
+- [crash-replay](https://github.com/AAH20/crash-replay)
+- [cross-rail-contagion-sentinel](https://github.com/AAH20/cross-rail-contagion-sentinel)
+- [deterministic-avionic-scheduler](https://github.com/AAH20/deterministic-avionic-scheduler)
+- [distributed-covariance-fusion](https://github.com/AAH20/distributed-covariance-fusion)
+- [durbin-rail-optimizer](https://github.com/AAH20/durbin-rail-optimizer)
+- [fintech-c2-matrix](https://github.com/AAH20/fintech-c2-matrix)
+- [formal-guard](https://github.com/AAH20/formal-guard)
+- [ghost-desktop](https://github.com/AAH20/ghost-desktop)
+- [ghost-grounding](https://github.com/AAH20/ghost-grounding)
+- [ghost-witness](https://github.com/AAH20/ghost-witness)
+- [git-arbiter](https://github.com/AAH20/git-arbiter)
+- [intraday-liquidity-orchestrator](https://github.com/AAH20/intraday-liquidity-orchestrator)
+- [mem-quarantine](https://github.com/AAH20/mem-quarantine)
+- [meta-synthesizer](https://github.com/AAH20/meta-synthesizer)
+- [mica-stablecoin-reserve-auditor](https://github.com/AAH20/mica-stablecoin-reserve-auditor)
+- [microsecond-kill-chain-dag](https://github.com/AAH20/microsecond-kill-chain-dag)
+- [mutation-sentinel](https://github.com/AAH20/mutation-sentinel)
+- [nacha-return-risk-oracle](https://github.com/AAH20/nacha-return-risk-oracle)
+- [ofac-sanctions-graph-sentinel](https://github.com/AAH20/ofac-sanctions-graph-sentinel)
+- [phantom-v8](https://github.com/AAH20/phantom-v8)
+- [phased-aperture-orchestrator](https://github.com/AAH20/phased-aperture-orchestrator)
+- [poly-bench](https://github.com/AAH20/poly-bench)
+- [puf-ephemeral-zeroize](https://github.com/AAH20/puf-ephemeral-zeroize)
+- [quantum-pki-fintech-gateway](https://github.com/AAH20/quantum-pki-fintech-gateway)
+- [sovereign-ai-enclave](https://github.com/AAH20/sovereign-ai-enclave)
+- [speculative-gui-fork](https://github.com/AAH20/speculative-gui-fork)
+- [surcharge-matrix-sentinel](https://github.com/AAH20/surcharge-matrix-sentinel)
+- [tech-balance-sheet](https://github.com/AAH20/tech-balance-sheet)
+- [thought-flame](https://github.com/AAH20/thought-flame)
+- [tool-foundry](https://github.com/AAH20/tool-foundry)
+- [topological-vision-guard](https://github.com/AAH20/topological-vision-guard)
+- [volumetric-art-gallery-siting](https://github.com/AAH20/volumetric-art-gallery-siting)
+- [workflow-twin](https://github.com/AAH20/workflow-twin)
