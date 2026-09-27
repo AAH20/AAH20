@@ -285,6 +285,11 @@
     "fork": false
   },
   {
+    "name": "agentic-graph-swarm-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "agentic-grc-fintech",
     "public": true,
     "fork": false
@@ -301,6 +306,11 @@
   },
   {
     "name": "agentic-infrastructure-delivery-factory",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "agentic-np-hard-kernel",
     "public": true,
     "fork": false
   },
@@ -435,6 +445,11 @@
     "fork": false
   },
   {
+    "name": "ApexGraphSwarm",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "api-beacon-radar",
     "public": true,
     "fork": false
@@ -471,6 +486,11 @@
   },
   {
     "name": "autonomous-cloud-modernization-factory",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "autonomous-cyber-defense-kernel",
     "public": true,
     "fork": false
   },
@@ -745,6 +765,11 @@
     "fork": false
   },
   {
+    "name": "consular-np-hard-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "context-checkpoint",
     "public": true,
     "fork": false
@@ -781,6 +806,11 @@
   },
   {
     "name": "cyborg-reflex",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "datacenter-np-hard-kernel",
     "public": true,
     "fork": false
   },
@@ -875,12 +905,22 @@
     "fork": false
   },
   {
+    "name": "frontier-ai-compiler-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "generative-plg",
     "public": true,
     "fork": false
   },
   {
     "name": "geo-engine",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "geospatial-np-hard-kernel",
     "public": true,
     "fork": false
   },
@@ -935,6 +975,11 @@
     "fork": false
   },
   {
+    "name": "graph-rag-np-hard-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "grc-automation-cyber-risk-quantification-platform",
     "public": true,
     "fork": false
@@ -965,7 +1010,17 @@
     "fork": false
   },
   {
+    "name": "hft-microstructure-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "honey-agent",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "humanoid-swarm-robotics-kernel",
     "public": true,
     "fork": false
   },
@@ -1045,6 +1100,11 @@
     "fork": false
   },
   {
+    "name": "leo-satellite-constellation-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "llm-inference-benchmark",
     "public": true,
     "fork": false
@@ -1076,6 +1136,11 @@
   },
   {
     "name": "mcp-compatibility",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "mcp-gateway-inference-router-kernel",
     "public": true,
     "fork": false
   },
@@ -1126,6 +1191,11 @@
   },
   {
     "name": "millionready",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "mirofish-swarm-optimizer",
     "public": true,
     "fork": false
   },
@@ -1260,6 +1330,11 @@
     "fork": false
   },
   {
+    "name": "play-anything",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "poly-bench",
     "public": true,
     "fork": false
@@ -1340,7 +1415,17 @@
     "fork": false
   },
   {
+    "name": "smart-grid-fusion-vpp-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "sovereign-ai-enclave",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "spatial-intelligence-3dgs-kernel",
     "public": true,
     "fork": false
   },
@@ -1451,6 +1536,11 @@
   },
   {
     "name": "thought-flame",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "tier1-isp-np-hard-kernel",
     "public": true,
     "fork": false
   },
