@@ -93,6 +93,74 @@ def summarize(repos: list[dict], now: datetime) -> dict:
     return result
 
 
+
+FLAGSHIP_REPOSITORIES = {
+    "apex-swarm-orchestrator-kernel",
+    "apex-mcp-gateway-kernel",
+    "frontier-ai-compiler-kernel",
+    "apex-infrastructure-killswitch-kernel",
+    "gigawatt-ride-through-amm-kernel",
+    "apex-quant-whale-kernel",
+    "agentic-fintech-kernel",
+    "autonomous-cyber-defense-kernel",
+    "humanoid-swarm-robotics-kernel",
+    "microsecond-kill-chain-dag",
+}
+MAINTENANCE_FOCUS = {"grc_claw", "multicloud-infrastructure-control-loop", "network-change-intelligence-twin"}
+RELATIONSHIPS = [
+    ("ApexGraphSwarm", "graph-rag-np-hard-kernel", "retrieval_adapter"),
+    ("graph-rag-np-hard-kernel", "agentic-graph-swarm-kernel", "task_context"),
+    ("agentic-graph-swarm-kernel", "mirofish-swarm-optimizer", "workload_adapter"),
+    ("agentic-graph-swarm-kernel", "swarm-eval-harness", "evaluation_traces"),
+]
+
+
+def portfolio_index(repos: list[dict], summary: dict) -> dict:
+    entries = []
+    for repo in sorted(repos, key=lambda item: item["name"].lower()):
+        name = repo["name"]
+        key = name.lower()
+        roles = ["catalog"]
+        if key in FLAGSHIP_REPOSITORIES:
+            roles.append("flagship")
+        if key in MAINTENANCE_FOCUS:
+            roles.append("maintenance_focus")
+        entries.append({
+            "name": name,
+            "url": f"https://github.com/AAH20/{name}",
+            "pillar": group_for(name),
+            "portfolio_roles": roles,
+            "evidence_source": f"{name}/README.md",
+            "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims.",
+        })
+    names = {entry["name"].lower() for entry in entries}
+    links = []
+    for source, target, relation in RELATIONSHIPS:
+        if source.lower() not in names or target.lower() not in names:
+            raise ValueError(f"Portfolio relationship references an unknown repository: {source} -> {target}")
+        links.append({
+            "from": source,
+            "to": target,
+            "type": relation,
+            "status": "candidate",
+            "evidence": "README graph and swarm engineering diagram",
+        })
+    return {
+        "schema_version": "1.0.0",
+        "generated_at_utc": summary["generated_at_utc"],
+        "schema": "data/portfolio-index.schema.json",
+        "source_inventory": {
+            "path": "data/public-original-repositories.json",
+            "refreshed_on": summary["generated_at_utc"][:10],
+            "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded.",
+        },
+        "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
+        "portfolio_count": len(entries),
+        "repositories": entries,
+        "relationships": links,
+    }
+
+
 def svg(width: int, height: int, content: str) -> str:
     return (
         f'<svg xmlns="http://www.w3.org/2000/svg" width="{width}" height="{height}" '
@@ -146,6 +214,8 @@ def write_outputs(repos: list[dict], summary: dict) -> None:
     inventory = [{"name": r["name"], "public": True, "fork": False} for r in sorted(repos, key=lambda r: r["name"].lower())]
     (ROOT / "data/public-original-repositories.json").write_text(json.dumps(inventory, indent=2) + "\n")
     (ROOT / "data/profile-metrics.json").write_text(json.dumps(summary, indent=2) + "\n")
+    index = portfolio_index(repos, summary)
+    (ROOT / "data/portfolio-index.json").write_text(json.dumps(index, indent=2) + "\n")
     (ASSETS / "overview.svg").write_text(render_overview(summary))
     for domain in summary["domains"]:
         (ASSETS / f'{slug(domain["name"])}.svg').write_text(render_domain(domain, summary["generated_at_utc"]))
