@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-27T10:33:15Z",
+  "generated_at_utc": "2026-09-28T11:41:05Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,9 +7,9 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 335,
-  "pushed_30d": 277,
-  "stars": 8,
+  "total": 344,
+  "pushed_30d": 283,
+  "stars": 36,
   "forks": 2,
   "domains": [
     {
@@ -26,7 +26,7 @@
       "name": "GPU, model serving, and AI economics",
       "count": 23,
       "pushed_30d": 19,
-      "stars": 0,
+      "stars": 1,
       "kpis": [
         "p95 first-token latency (ms)",
         "Cost / 1M accepted tokens (USD)"
@@ -34,9 +34,9 @@
     },
     {
       "name": "Cloud, platform engineering, and reliability",
-      "count": 54,
+      "count": 55,
       "pushed_30d": 45,
-      "stars": 1,
+      "stars": 4,
       "kpis": [
         "Unsafe-change escape rate (%)",
         "Verified rollback time (min)"
@@ -56,7 +56,7 @@
       "name": "Physical AI, robotics, and biometrics",
       "count": 22,
       "pushed_30d": 20,
-      "stars": 1,
+      "stars": 2,
       "kpis": [
         "Missed unsafe action rate (%)",
         "Evidence loss rate (%)"
@@ -64,9 +64,9 @@
     },
     {
       "name": "AI agents: runtime, security, identity, and governance",
-      "count": 114,
-      "pushed_30d": 80,
-      "stars": 3,
+      "count": 121,
+      "pushed_30d": 85,
+      "stars": 20,
       "kpis": [
         "Unauthorized action pass rate (%)",
         "False-denial rate (%)"
@@ -74,9 +74,9 @@
     },
     {
       "name": "Data, simulation, and decision systems",
-      "count": 28,
-      "pushed_30d": 21,
-      "stars": 3,
+      "count": 29,
+      "pushed_30d": 22,
+      "stars": 7,
       "kpis": [
         "Data freshness lag p95 (s)",
         "Decision regret vs baseline (%)"
@@ -86,7 +86,7 @@
       "name": "Other original projects",
       "count": 56,
       "pushed_30d": 56,
-      "stars": 0,
+      "stars": 2,
       "kpis": [
         "Project-specific protocol",
         "Linked source evidence"

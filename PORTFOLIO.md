@@ -1,10 +1,10 @@
 # Public original project directory
 
-This directory covers **340 public original repositories** from the 554-repository inventory refreshed on 2026-09-28: 370 originals, 184 forks, and 30 private repositories. Private repositories and forks are excluded from this directory.
+This directory covers **344 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-09-28. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
-[Profile README and architecture maps](README.md#project-architecture) · [Benchmark protocols](BENCHMARKS.md)
+[Profile and live portfolio stats](README.md#live-github-portfolio-telemetry) · [Benchmark protocols](BENCHMARKS.md)
 
 ## Commerce, revenue, and customer operations
 
@@ -29,7 +29,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## GPU, model serving, and AI economics
 
-**24 repositories.** LLM inference benchmarking, GPU cost estimation, model serving, AI factory capacity, and deployment economics.
+**23 repositories.** LLM inference benchmarking, GPU cost estimation, model serving, AI factory capacity, and deployment economics.
 
 - [ai-factory-revenue-twin](https://github.com/AAH20/ai-factory-revenue-twin)
 - [ai-inference-price-performance-index](https://github.com/AAH20/ai-inference-price-performance-index)
@@ -37,7 +37,6 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [eval-lake](https://github.com/AAH20/eval-lake)
 - [gpu-cloud-cost-calculator](https://github.com/AAH20/gpu-cloud-cost-calculator)
 - [gpu-cluster-mesh](https://github.com/AAH20/gpu-cluster-mesh)
-- [gigawatt-ride-through-amm-kernel](https://github.com/AAH20/gigawatt-ride-through-amm-kernel)
 - [gpu-inference-platform](https://github.com/AAH20/gpu-inference-platform)
 - [green-inference](https://github.com/AAH20/green-inference)
 - [kv-compress-x](https://github.com/AAH20/kv-compress-x)
@@ -172,7 +171,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## AI agents: runtime, security, identity, and governance
 
-**116 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
+**121 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
 
 - [a2z-agent-app-factory](https://github.com/AAH20/a2z-agent-app-factory)
 - [AAH_PostQuantum_Cryptography](https://github.com/AAH20/AAH_PostQuantum_Cryptography)
@@ -183,8 +182,6 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [Aegis_CM_Swarm](https://github.com/AAH20/Aegis_CM_Swarm)
 - [Aegis_CM_Swarm2](https://github.com/AAH20/Aegis_CM_Swarm2)
 - [Aegis_Q_Cognitive](https://github.com/AAH20/Aegis_Q_Cognitive)
-- [apex-mcp-gateway-kernel](https://github.com/AAH20/apex-mcp-gateway-kernel)
-- [apex-swarm-orchestrator-kernel](https://github.com/AAH20/apex-swarm-orchestrator-kernel)
 - [agent-action-gate](https://github.com/AAH20/agent-action-gate)
 - [agent-blackbox](https://github.com/AAH20/agent-blackbox)
 - [agent-capability-foundry](https://github.com/AAH20/agent-capability-foundry)
@@ -219,6 +216,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [agentic-fintech-kernel](https://github.com/AAH20/agentic-fintech-kernel)
 - [agentic-graph-swarm-kernel](https://github.com/AAH20/agentic-graph-swarm-kernel)
 - [agentic-grc-fintech](https://github.com/AAH20/agentic-grc-fintech)
+- [agentic-iot-command](https://github.com/AAH20/agentic-iot-command)
 - [agentic-np-hard-kernel](https://github.com/AAH20/agentic-np-hard-kernel)
 - [agentic-pci-dss](https://github.com/AAH20/agentic-pci-dss)
 - [agentic-threat-matrix](https://github.com/AAH20/agentic-threat-matrix)
@@ -232,6 +230,11 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [ai-governance-evidence-graph](https://github.com/AAH20/ai-governance-evidence-graph)
 - [ai-grc-automation-benchmark](https://github.com/AAH20/ai-grc-automation-benchmark)
 - [ai-security-posture-management](https://github.com/AAH20/ai-security-posture-management)
+- [apex-kernel-mesh](https://github.com/AAH20/apex-kernel-mesh)
+- [apex-mcp-foundry](https://github.com/AAH20/apex-mcp-foundry)
+- [apex-mcp-gateway-kernel](https://github.com/AAH20/apex-mcp-gateway-kernel)
+- [apex-quant-whale-kernel](https://github.com/AAH20/apex-quant-whale-kernel)
+- [apex-swarm-orchestrator-kernel](https://github.com/AAH20/apex-swarm-orchestrator-kernel)
 - [arena-redteam](https://github.com/AAH20/arena-redteam)
 - [autonomous-cyber-defense-kernel](https://github.com/AAH20/autonomous-cyber-defense-kernel)
 - [bft-agent-consensus](https://github.com/AAH20/bft-agent-consensus)
@@ -248,6 +251,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [enterprise-mcp-firewall](https://github.com/AAH20/enterprise-mcp-firewall)
 - [frontier-ai-compiler-kernel](https://github.com/AAH20/frontier-ai-compiler-kernel)
 - [geospatial-np-hard-kernel](https://github.com/AAH20/geospatial-np-hard-kernel)
+- [gigawatt-ride-through-amm-kernel](https://github.com/AAH20/gigawatt-ride-through-amm-kernel)
 - [gitleaks](https://github.com/AAH20/gitleaks)
 - [graph-rag-guard](https://github.com/AAH20/graph-rag-guard)
 - [graph-rag-np-hard-kernel](https://github.com/AAH20/graph-rag-np-hard-kernel)
@@ -296,12 +300,12 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 **29 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
 
 - [ApexGraphSwarm](https://github.com/AAH20/ApexGraphSwarm)
-- [apex-quant-whale-kernel](https://github.com/AAH20/apex-quant-whale-kernel)
 - [ax-context-gateway](https://github.com/AAH20/ax-context-gateway)
 - [byzantine-swarm-sentinel](https://github.com/AAH20/byzantine-swarm-sentinel)
 - [CakeWallet-Analysis](https://github.com/AAH20/CakeWallet-Analysis)
 - [context-checkpoint](https://github.com/AAH20/context-checkpoint)
 - [context-graph-compact](https://github.com/AAH20/context-graph-compact)
+- [data-center-commander](https://github.com/AAH20/data-center-commander)
 - [decision-world](https://github.com/AAH20/decision-world)
 - [hyper-mesh](https://github.com/AAH20/hyper-mesh)
 - [kinematic-4d-swarm-deconfliction](https://github.com/AAH20/kinematic-4d-swarm-deconfliction)

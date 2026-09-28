@@ -35,12 +35,12 @@
     "fork": false
   },
   {
-    "name": "AAH_PostQuantum_Cryptography",
+    "name": "AAH20",
     "public": true,
     "fork": false
   },
   {
-    "name": "AAH20",
+    "name": "AAH_PostQuantum_Cryptography",
     "public": true,
     "fork": false
   },
@@ -56,21 +56,6 @@
   },
   {
     "name": "adversarial-nexus",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "Aegis_CM_Swarm",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "Aegis_CM_Swarm2",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "Aegis_Q_Cognitive",
     "public": true,
     "fork": false
   },
@@ -101,6 +86,21 @@
   },
   {
     "name": "aegis-runtime",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "Aegis_CM_Swarm",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "Aegis_CM_Swarm2",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "Aegis_Q_Cognitive",
     "public": true,
     "fork": false
   },
@@ -310,6 +310,11 @@
     "fork": false
   },
   {
+    "name": "agentic-iot-command",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "agentic-np-hard-kernel",
     "public": true,
     "fork": false
@@ -446,6 +451,16 @@
   },
   {
     "name": "apex-infrastructure-killswitch-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-kernel-mesh",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-mcp-foundry",
     "public": true,
     "fork": false
   },
@@ -830,6 +845,11 @@
     "fork": false
   },
   {
+    "name": "data-center-commander",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "datacenter-np-hard-kernel",
     "public": true,
     "fork": false
@@ -1005,12 +1025,12 @@
     "fork": false
   },
   {
-    "name": "GRC_Claw",
+    "name": "grc-automation-cyber-risk-quantification-platform",
     "public": true,
     "fork": false
   },
   {
-    "name": "grc-automation-cyber-risk-quantification-platform",
+    "name": "GRC_Claw",
     "public": true,
     "fork": false
   },
