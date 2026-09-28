@@ -1,0 +1,133 @@
+{
+  "$schema": "https://json-schema.org/draft/2020-12/schema",
+  "$id": "https://github.com/AAH20/AAH20/blob/main/data/portfolio-index.schema.json",
+  "title": "AAH20 Public Portfolio Index",
+  "type": "object",
+  "additionalProperties": false,
+  "required": [
+    "schema_version",
+    "generated_at_utc",
+    "schema",
+    "source_inventory",
+    "catalog_policy",
+    "portfolio_count",
+    "repositories",
+    "relationships"
+  ],
+  "properties": {
+    "schema_version": {
+      "const": "1.0.0"
+    },
+    "generated_at_utc": {
+      "type": "string",
+      "format": "date-time"
+    },
+    "schema": {
+      "const": "data/portfolio-index.schema.json"
+    },
+    "source_inventory": {
+      "type": "object",
+      "required": [
+        "path",
+        "refreshed_on",
+        "selection_rule"
+      ],
+      "properties": {
+        "path": {
+          "const": "data/public-original-repositories.json"
+        },
+        "refreshed_on": {
+          "type": "string",
+          "format": "date"
+        },
+        "selection_rule": {
+          "type": "string"
+        }
+      }
+    },
+    "catalog_policy": {
+      "type": "string"
+    },
+    "portfolio_count": {
+      "type": "integer",
+      "minimum": 0
+    },
+    "repositories": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "name",
+          "url",
+          "pillar",
+          "portfolio_roles",
+          "evidence_source",
+          "assessment_boundary"
+        ],
+        "properties": {
+          "name": {
+            "type": "string"
+          },
+          "url": {
+            "type": "string",
+            "format": "uri",
+            "pattern": "^https://github\\.com/AAH20/"
+          },
+          "pillar": {
+            "type": "string"
+          },
+          "portfolio_roles": {
+            "type": "array",
+            "items": {
+              "enum": [
+                "catalog",
+                "flagship",
+                "maintenance_focus"
+              ]
+            }
+          },
+          "evidence_source": {
+            "type": "string"
+          },
+          "assessment_boundary": {
+            "type": "string"
+          }
+        }
+      }
+    },
+    "relationships": {
+      "type": "array",
+      "items": {
+        "type": "object",
+        "required": [
+          "from",
+          "to",
+          "type",
+          "status",
+          "evidence"
+        ],
+        "properties": {
+          "from": {
+            "type": "string"
+          },
+          "to": {
+            "type": "string"
+          },
+          "type": {
+            "type": "string"
+          },
+          "status": {
+            "enum": [
+              "candidate",
+              "documented_adapter",
+              "implemented"
+            ]
+          },
+          "evidence": {
+            "type": "string"
+          }
+        }
+      }
+    }
+  }
+}
