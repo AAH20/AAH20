@@ -1,6 +1,6 @@
 # Sponsorship program — ten levels
 
-**Live program, updated 2026-09-25.** Levels 1–9 are [published on GitHub Sponsors](https://github.com/sponsors/AAH20), each with a tier-specific welcome message. Level 10 is available only through a separate agreement. These levels describe funding for the three named [maintenance-focus projects](MAINTENANCE.md), while the [full portfolio](PORTFOLIO.md) retains separate domains and evidence standards. All prices are USD **per month**. Recognition is optional; anonymous sponsors receive the same technical reporting.
+**Live program, updated 2026-09-25.** Levels 1–9 are [published on GitHub Sponsors](https://github.com/sponsors/AAH20), each with a tier-specific welcome message. Level 10 is available only through a separate agreement. Levels 1–6 sustain the three named [maintenance-focus projects](MAINTENANCE.md). Levels 7–9 may underwrite a separately scoped, evidence-led pilot from the project lanes below, subject to capacity. The [full portfolio](PORTFOLIO.md) retains each project's distinct domain and evidence standards. All prices are USD **per month**. Recognition is optional; anonymous sponsors receive the same technical reporting.
 
 GitHub permits up to ten monthly tiers but currently caps each at **$12,000/month**. Levels 1–9 below are live GitHub checkout tiers. Level 10 is a separately contracted strategic stewardship agreement, not a GitHub checkout tier. [GitHub's tier rules](https://docs.github.com/en/sponsors/receiving-sponsorships-through-github-sponsors/managing-your-sponsorship-tiers) are authoritative if they change.
 
@@ -24,6 +24,26 @@ Benefits are cumulative where applicable. The monthly digest, quarterly briefing
 For levels 7–9, the sponsor may nominate a problem or workload, but the maintainer chooses the protocol and publishes the acceptance criteria **before** execution. An underwritten package is a bounded attempt with full results, including failed or inconclusive results; it is not a promise that a product will pass. A quarter's scope must name the repository, workload, deliverables, reviewer, compute limit, publication rights, and substitution procedure if a prerequisite fails. Prospective sponsors should contact the maintainer through the [profile's existing contact route](https://a2zsoc.com/contact?topic=oss-stewardship&utm_source=github&utm_medium=profile) before selecting level 7–9 so scope and capacity can be confirmed. A2Z SOC is a separate services site used here only as a contact route.
 
 Level 10 requires a separate statement of work and procurement process. It can cover a dedicated public maintenance stream or a distinct private service, but the agreement must separate those budgets and deliverables. Nothing paid privately changes the public benchmark, reference or security findings. Large organizations needing invoices, regional tax documents, or custom contracting can use the contact route before commitment.
+
+## Project lanes and tier allocation
+
+The projects named here remain separate systems with their own theses, owners, tests, and evidence. Sponsor attribution selects a reporting lane; it does **not** ring-fence cash unless the accounting record explicitly does so. Levels 1–4 support the shared maintenance work across the core trio, not a guaranteed equal split or private engineering hours.
+
+| Tier range | Default project lane | What the report should show |
+| --- | --- | --- |
+| $10–$300 | [GRC Claw](https://github.com/AAH20/GRC_Claw), [Multi-Cloud Infrastructure Control Loop](https://github.com/AAH20/multicloud-infrastructure-control-loop), and [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin) | Maintenance activity, tests, regressions, deferred work, and evidence boundaries across the declared core. |
+| $500 | One of the same three projects, selected as a **reporting attribution** | A quarterly health note for the selected lane. It does not purchase roadmap control or restricted accounting. |
+| $1,000 | Core regression work; an additional pilot only after its scope is accepted | Test coverage added, failures reproduced, fixes, unresolved limitations, and exact project/revision tested. |
+| $3,000 | One benchmark or reproduction candidate: [ApexGraphSwarm](https://github.com/AAH20/ApexGraphSwarm), [Agentic Graph Swarm Kernel](https://github.com/AAH20/agentic-graph-swarm-kernel), [GraphRAG NP-Hard Kernel](https://github.com/AAH20/graph-rag-np-hard-kernel), or [Swarm Eval Harness](https://github.com/AAH20/swarm-eval-harness) | A named workload, baseline, pinned revisions, protocol, acceptance criteria, compute ceiling, result artifacts, and negative results. Selection follows feasibility and reviewer capacity, not repo popularity. |
+| $5,000 | One named interoperability pair, agreed before work: ApexGraphSwarm ↔ Agentic Graph Swarm Kernel; GRC Claw ↔ [Agent JIT IAM](https://github.com/AAH20/agent-jit-iam); or the Control Loop ↔ one named cloud adapter | A bounded reference integration with tests, compatibility limits, docs, and a named maintenance owner. No claim of universal compatibility. |
+| $8,000 | One program lane with two milestones, normally within one project or a tightly coupled pair | Milestone acceptance, monthly progress, risks, compute and reviewer cost, and an annual independent reproduction review. This remains within the one-new-work-package quarterly capacity cap. |
+| Separate agreement | A specifically contracted public workstream or private service | Distinct scope, budget, data/IP terms, capacity, review cadence, publication rights, and deliverables. Private service work does not change public evidence or conclusions. |
+
+These are project-fit options, not a claim that each candidate is currently maintained at the same cadence as the core trio. Before a level 7–9 checkout, publish the accepted project, workload, baseline, owner, reviewer, limit, and deliverables. If no candidate meets those conditions, do not sell that scope that quarter.
+
+### Optional one-time support design
+
+GitHub supports one-time tiers separately from monthly tiers. A low-friction design to consider is **$10 Thanks**, **$100 Reproduction Support**, and **$500 Benchmark Pool**. Keep each one-time benefit to public acknowledgment if opted into, transparent use-of-funds reporting, or a shared public result; promise no private consulting, priority access, or guaranteed benchmark outcome. These are recommendations for the account dashboard, not a statement that one-time tiers are currently published.
 
 ## Editorial and security independence
 
