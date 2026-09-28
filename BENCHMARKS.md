@@ -1,6 +1,6 @@
 # Domain benchmark protocols
 
-These are measurement specifications for the seven independent engineering domains in the [profile](README.md). The profile cards show live **GitHub repository counts**, not benchmark scores. No customer outcome, production certification, or cross-project ranking is implied by a card.
+These are measurement specifications for the seven independent engineering domains mapped in the [profile architecture](README.md). The map shows project families and measurement boundaries, not a deployed cross-project platform or benchmark result. No customer outcome, production certification, or cross-project ranking is implied.
 
 Publish a numeric benchmark only with a pinned code revision, workload and denominator, input provenance, environment specification, baseline, raw results, calculation script, and the known failure cases. Mark synthetic, mocked, lab, and authorized production runs separately. Do not combine them into a single score.
 
