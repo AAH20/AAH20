@@ -15,30 +15,19 @@ The [live GitHub Sponsors page](https://github.com/sponsors/AAH20) offers nine m
 This portfolio is a set of independent projects organized around distinct engineering pillars. The diagram shows how the work can compose; it is **not** a claim that every repository is wired into one platform. Dotted links are candidate reuse or integration paths. Each repository retains its own implementation, benchmark, release cadence, and evidence.
 
 ```mermaid
-flowchart LR
-  subgraph P1["Optimization and graph methods"]
-    G["Graph engineering and GraphRAG"]
-    K["Deterministic NP-hard kernels"]
-    H["Temporal and higher-order graphs"]
-  end
-  subgraph P2["Agent systems and authority"]
-    S["Swarm and orchestration systems"]
-    I["Identity, permissions, and governance"]
-  end
-  subgraph P3["Operational and domain systems"]
-    C["Cloud, network, and GPU infrastructure"]
-    B["Commerce, finance, and decision systems"]
-    R["Robotics and Physical AI"]
-  end
-  V["Evaluation, reproducibility, and unit economics"]
-  G -. "candidate algorithm reuse" .-> S
-  K -. "candidate optimization reuse" .-> C
-  H -. "candidate relationship model reuse" .-> B
-  S -. "candidate governed execution" .-> I
-  C -. "domain-specific measures" .-> V
-  B -. "domain-specific measures" .-> V
-  R -. "domain-specific measures" .-> V
-  I -. "security and authority tests" .-> V
+flowchart TB
+  Opt["Optimization methods<br/>GraphRAG · NP-hard solvers"]
+  Agents["Agent systems<br/>Orchestration · identity"]
+  Infra["Operational systems<br/>Cloud · network · GPU"]
+  Domains["Domain products<br/>Commerce · finance · Physical AI"]
+  Eval["Evaluation<br/>Baselines · reproducibility · unit economics"]
+  Opt -. "candidate method reuse" .-> Agents
+  Agents -. "candidate governed operation" .-> Infra
+  Infra -. "validated domain integrations" .-> Domains
+  Opt -. "protocol-driven evaluation" .-> Eval
+  Agents -.-> Eval
+  Infra -.-> Eval
+  Domains -.-> Eval
 ```
 
 ### Graph and swarm engineering
