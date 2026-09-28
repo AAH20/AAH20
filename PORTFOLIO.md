@@ -1,10 +1,10 @@
 # Public original project directory
 
-This directory covers **335 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-09-27. Forks and private repositories are excluded.
+This directory covers **340 public original repositories** from the 554-repository inventory refreshed on 2026-09-28: 370 originals, 184 forks, and 30 private repositories. Private repositories and forks are excluded from this directory.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
-[Profile and live portfolio stats](README.md#live-github-portfolio-telemetry) · [Benchmark protocols](BENCHMARKS.md)
+[Profile README and architecture maps](README.md#project-architecture) · [Benchmark protocols](BENCHMARKS.md)
 
 ## Commerce, revenue, and customer operations
 
@@ -29,7 +29,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## GPU, model serving, and AI economics
 
-**23 repositories.** LLM inference benchmarking, GPU cost estimation, model serving, AI factory capacity, and deployment economics.
+**24 repositories.** LLM inference benchmarking, GPU cost estimation, model serving, AI factory capacity, and deployment economics.
 
 - [ai-factory-revenue-twin](https://github.com/AAH20/ai-factory-revenue-twin)
 - [ai-inference-price-performance-index](https://github.com/AAH20/ai-inference-price-performance-index)
@@ -37,6 +37,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [eval-lake](https://github.com/AAH20/eval-lake)
 - [gpu-cloud-cost-calculator](https://github.com/AAH20/gpu-cloud-cost-calculator)
 - [gpu-cluster-mesh](https://github.com/AAH20/gpu-cluster-mesh)
+- [gigawatt-ride-through-amm-kernel](https://github.com/AAH20/gigawatt-ride-through-amm-kernel)
 - [gpu-inference-platform](https://github.com/AAH20/gpu-inference-platform)
 - [green-inference](https://github.com/AAH20/green-inference)
 - [kv-compress-x](https://github.com/AAH20/kv-compress-x)
@@ -57,7 +58,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Cloud, platform engineering, and reliability
 
-**54 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
+**55 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
 
 - [agentic-ai-infrastructure-data-engine](https://github.com/AAH20/agentic-ai-infrastructure-data-engine)
 - [agentic-cloud-solution-engineering-factory](https://github.com/AAH20/agentic-cloud-solution-engineering-factory)
@@ -73,6 +74,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [ai-infrastructure-pull-request-reviewer](https://github.com/AAH20/ai-infrastructure-pull-request-reviewer)
 - [ai-native-internal-developer-platform](https://github.com/AAH20/ai-native-internal-developer-platform)
 - [aiops-observability-platform](https://github.com/AAH20/aiops-observability-platform)
+- [apex-infrastructure-killswitch-kernel](https://github.com/AAH20/apex-infrastructure-killswitch-kernel)
 - [autonomous-cloud-modernization-factory](https://github.com/AAH20/autonomous-cloud-modernization-factory)
 - [autoprod](https://github.com/AAH20/autoprod)
 - [az104-enterprise-azure-operations-lab](https://github.com/AAH20/az104-enterprise-azure-operations-lab)
@@ -170,7 +172,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## AI agents: runtime, security, identity, and governance
 
-**114 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
+**116 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
 
 - [a2z-agent-app-factory](https://github.com/AAH20/a2z-agent-app-factory)
 - [AAH_PostQuantum_Cryptography](https://github.com/AAH20/AAH_PostQuantum_Cryptography)
@@ -181,6 +183,8 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [Aegis_CM_Swarm](https://github.com/AAH20/Aegis_CM_Swarm)
 - [Aegis_CM_Swarm2](https://github.com/AAH20/Aegis_CM_Swarm2)
 - [Aegis_Q_Cognitive](https://github.com/AAH20/Aegis_Q_Cognitive)
+- [apex-mcp-gateway-kernel](https://github.com/AAH20/apex-mcp-gateway-kernel)
+- [apex-swarm-orchestrator-kernel](https://github.com/AAH20/apex-swarm-orchestrator-kernel)
 - [agent-action-gate](https://github.com/AAH20/agent-action-gate)
 - [agent-blackbox](https://github.com/AAH20/agent-blackbox)
 - [agent-capability-foundry](https://github.com/AAH20/agent-capability-foundry)
@@ -289,9 +293,10 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Data, simulation, and decision systems
 
-**28 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
+**29 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
 
 - [ApexGraphSwarm](https://github.com/AAH20/ApexGraphSwarm)
+- [apex-quant-whale-kernel](https://github.com/AAH20/apex-quant-whale-kernel)
 - [ax-context-gateway](https://github.com/AAH20/ax-context-gateway)
 - [byzantine-swarm-sentinel](https://github.com/AAH20/byzantine-swarm-sentinel)
 - [CakeWallet-Analysis](https://github.com/AAH20/CakeWallet-Analysis)
