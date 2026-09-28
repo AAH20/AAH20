@@ -131,9 +131,7 @@ The portfolio spans more than the three maintenance-focus projects above. The sy
 | [Geospatial NP-Hard Kernel](https://github.com/AAH20/geospatial-np-hard-kernel) | Geospatial siting, coverage, labeling, routing, and allocation problems. |
 | [Consular NP-Hard Kernel](https://github.com/AAH20/consular-np-hard-kernel) | Appointment allocation, constrained routing, dossier/resource packing, and related consular workflow optimization. |
 | [HFT Microstructure Kernel](https://github.com/AAH20/hft-microstructure-kernel) | Market-microstructure and order-matching simulation with explicit attention to execution constraints; simulation results are not live trading performance. |
-| [Humanoid Swarm Robotics Kernel](https://github.com/AAH20/humanoid-swarm-robotics-kernel) | Optimization models for humanoid motion, multi-robot coordination, and constrained factory logistics. |
 | [Physical AI Governor](https://github.com/AAH20/physical-ai-governor) | Synthetic assurance testbed for physical-AI governance contracts, trajectory checks, and auditable safety evidence. |
-| [Agentic FinTech Kernel](https://github.com/AAH20/agentic-fintech-kernel) | A distinct payment and settlement architecture exploring agent mandates, rail workflows, and transaction invariants; provider integration and certification status belong to the project evidence, not this profile summary. |
 | [Cross-Border PvP Kernel](https://github.com/AAH20/cross-border-pvp-kernel) | Payment-versus-payment workflow and allocation logic for cross-border settlement scenarios. |
 
 ### Agent authority, security, and operating platforms
