@@ -105,9 +105,29 @@ flowchart LR
 
 [Benchmark definitions and evidence requirements](BENCHMARKS.md) specify workloads, denominators, and limits. The full [public original-project directory](PORTFOLIO.md) is the catalog; this profile highlights engineering theses and proof boundaries rather than repository counts.
 
-## Distinct systems and individual project theses
+## Ten flagship systems
 
-The portfolio spans more than the three maintenance-focus projects above. The systems below are separate repositories with separate problem statements and release/evidence boundaries. The links lead to each project’s own documentation; this index describes scope, not a blanket claim of production readiness or measured performance.
+These ten projects are the prioritized showcase from the 554-repository inventory. “Flagship” means portfolio priority, not a verified performance ranking, production deployment, or certification. Each keeps its own technical thesis and evidence boundary.
+
+| Project | Distinct problem and technical thesis |
+|---|---|
+| [Apex Swarm Orchestrator Kernel](https://github.com/AAH20/apex-swarm-orchestrator-kernel) | Hierarchical delegation, latency-aware graph clustering, specialist leader selection, quality-diversity evolution, and Byzantine quorum design for coordinated agent systems. |
+| [Apex MCP Gateway Kernel](https://github.com/AAH20/apex-mcp-gateway-kernel) | MCP tool/schema selection, context and prefix-cache management, inference routing, and deadlock avoidance at the gateway boundary. |
+| [Frontier AI Compiler Kernel](https://github.com/AAH20/frontier-ai-compiler-kernel) | Combinatorial scheduling and optimization across distributed training, GPU memory tiling, and compiler execution paths. |
+| [Apex Infrastructure Kill-Switch Kernel](https://github.com/AAH20/apex-infrastructure-killswitch-kernel) | Modeling protection coordination and coupled datacenter power/compute constraints, with high-consequence control claims kept within each repo’s evidence limits. |
+| [Gigawatt Ride-Through AMM Kernel](https://github.com/AAH20/gigawatt-ride-through-amm-kernel) | Joint energy-storage, grid ride-through, and compute-response optimization as a distinct energy-economics system. |
+| [Apex Quant Whale Kernel](https://github.com/AAH20/apex-quant-whale-kernel) | Market-microstructure, order allocation, and execution-routing optimization; simulations do not establish live trading performance. |
+| [Agentic FinTech Kernel](https://github.com/AAH20/agentic-fintech-kernel) | Agent authority, payment-rail workflows, and settlement invariants; provider connectivity and compliance status require project-specific verification. |
+| [Autonomous Cyber Defense Kernel](https://github.com/AAH20/autonomous-cyber-defense-kernel) | Defensive attack-graph isolation, response prioritization, and patch-verification research; benchmark fixtures do not establish operational SOC outcomes. |
+| [Humanoid Swarm Robotics Kernel](https://github.com/AAH20/humanoid-swarm-robotics-kernel) | Humanoid balance and manipulation constraints, multi-robot path planning, and fleet/logistics scheduling. |
+| [Microsecond Kill-Chain DAG](https://github.com/AAH20/microsecond-kill-chain-dag) | Deterministic event sequencing and release-authorization logic for high-consequence response systems; timing claims remain tied to the repository’s declared test environment. |
+
+The [full public original-project directory](PORTFOLIO.md) retains the rest of the portfolio by domain. The diagrams above show possible integration seams; dashed links are proposals, and no integration is implied unless a repository documents and tests it.
+
+## Additional systems and individual project theses
+
+The systems below preserve distinct problem statements, architectures, and release/evidence boundaries. Each link leads to the project's own documentation; this index summarizes scope and does not assert production readiness or measured performance.
+
 
 ### Graph engineering, GraphRAG, agentic reasoning, and swarm systems
 
