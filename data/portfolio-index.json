@@ -1,0 +1,3457 @@
+{
+  "schema_version": "1.0.0",
+  "generated_at_utc": "2026-09-28T00:00:00Z",
+  "schema": "data/portfolio-index.schema.json",
+  "source_inventory": {
+    "path": "data/public-original-repositories.json",
+    "refreshed_on": "2026-09-28",
+    "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
+  },
+  "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Validate claims in the target repository.",
+  "portfolio_count": 340,
+  "repositories": [
+    {
+      "name": "a2z-agent-app-factory",
+      "url": "https://github.com/AAH20/a2z-agent-app-factory",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "a2z-agent-app-factory/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "a2z-agent-hire",
+      "url": "https://github.com/AAH20/a2z-agent-hire",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "a2z-agent-hire/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "a2z-commerce-cash-control",
+      "url": "https://github.com/AAH20/a2z-commerce-cash-control",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "a2z-commerce-cash-control/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "a2z-implementation-exchange",
+      "url": "https://github.com/AAH20/a2z-implementation-exchange",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "a2z-implementation-exchange/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "a2z-liveops-hub",
+      "url": "https://github.com/AAH20/a2z-liveops-hub",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "a2z-liveops-hub/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "a2z-resolution-engine",
+      "url": "https://github.com/AAH20/a2z-resolution-engine",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "a2z-resolution-engine/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "a2z-resolution-network",
+      "url": "https://github.com/AAH20/a2z-resolution-network",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "a2z-resolution-network/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "AAH_PostQuantum_Cryptography",
+      "url": "https://github.com/AAH20/AAH_PostQuantum_Cryptography",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "AAH_PostQuantum_Cryptography/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "AAH20",
+      "url": "https://github.com/AAH20/AAH20",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "AAH20/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "abliteration-benchmarks",
+      "url": "https://github.com/AAH20/abliteration-benchmarks",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "abliteration-benchmarks/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "adaptive-throttle",
+      "url": "https://github.com/AAH20/adaptive-throttle",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "adaptive-throttle/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "adversarial-nexus",
+      "url": "https://github.com/AAH20/adversarial-nexus",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "adversarial-nexus/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "Aegis_CM_Swarm",
+      "url": "https://github.com/AAH20/Aegis_CM_Swarm",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Aegis_CM_Swarm/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "Aegis_CM_Swarm2",
+      "url": "https://github.com/AAH20/Aegis_CM_Swarm2",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Aegis_CM_Swarm2/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "Aegis_Q_Cognitive",
+      "url": "https://github.com/AAH20/Aegis_Q_Cognitive",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Aegis_Q_Cognitive/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "aegis-decision-fabric",
+      "url": "https://github.com/AAH20/aegis-decision-fabric",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "aegis-decision-fabric/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "aegis-effectproof",
+      "url": "https://github.com/AAH20/aegis-effectproof",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "aegis-effectproof/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "aegis-fleet",
+      "url": "https://github.com/AAH20/aegis-fleet",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "aegis-fleet/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "Aegis-IEEE11073-Scanner",
+      "url": "https://github.com/AAH20/Aegis-IEEE11073-Scanner",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Aegis-IEEE11073-Scanner/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "Aegis-Neuro-Biometric-Simulator",
+      "url": "https://github.com/AAH20/Aegis-Neuro-Biometric-Simulator",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Aegis-Neuro-Biometric-Simulator/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "aegis-runtime",
+      "url": "https://github.com/AAH20/aegis-runtime",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "aegis-runtime/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-action-gate",
+      "url": "https://github.com/AAH20/agent-action-gate",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-action-gate/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-blackbox",
+      "url": "https://github.com/AAH20/agent-blackbox",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-blackbox/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-capability-foundry",
+      "url": "https://github.com/AAH20/agent-capability-foundry",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-capability-foundry/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-commerce",
+      "url": "https://github.com/AAH20/agent-commerce",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-commerce/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-context-compactor",
+      "url": "https://github.com/AAH20/agent-context-compactor",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-context-compactor/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-control-standard-conformance",
+      "url": "https://github.com/AAH20/agent-control-standard-conformance",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-control-standard-conformance/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-cost-cascade",
+      "url": "https://github.com/AAH20/agent-cost-cascade",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-cost-cascade/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-credit-exchange",
+      "url": "https://github.com/AAH20/agent-credit-exchange",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-credit-exchange/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-dag-lock",
+      "url": "https://github.com/AAH20/agent-dag-lock",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-dag-lock/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-darwin",
+      "url": "https://github.com/AAH20/agent-darwin",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-darwin/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-diff",
+      "url": "https://github.com/AAH20/agent-diff",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-diff/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-escrow",
+      "url": "https://github.com/AAH20/agent-escrow",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-escrow/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-eval-guard",
+      "url": "https://github.com/AAH20/agent-eval-guard",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-eval-guard/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-finops",
+      "url": "https://github.com/AAH20/agent-finops",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-finops/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-hypervisor",
+      "url": "https://github.com/AAH20/agent-hypervisor",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-hypervisor/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-immune-kernel",
+      "url": "https://github.com/AAH20/agent-immune-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-immune-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-jailbreak-firewall",
+      "url": "https://github.com/AAH20/agent-jailbreak-firewall",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-jailbreak-firewall/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-jit-iam",
+      "url": "https://github.com/AAH20/agent-jit-iam",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-jit-iam/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-kill-switch",
+      "url": "https://github.com/AAH20/agent-kill-switch",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-kill-switch/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-mesh",
+      "url": "https://github.com/AAH20/agent-mesh",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-mesh/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-mesh-sidecar",
+      "url": "https://github.com/AAH20/agent-mesh-sidecar",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-mesh-sidecar/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-redteam-harness",
+      "url": "https://github.com/AAH20/agent-redteam-harness",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-redteam-harness/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-schema-firewall",
+      "url": "https://github.com/AAH20/agent-schema-firewall",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-schema-firewall/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-sleep-consolidator",
+      "url": "https://github.com/AAH20/agent-sleep-consolidator",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-sleep-consolidator/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-telepathy-bus",
+      "url": "https://github.com/AAH20/agent-telepathy-bus",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-telepathy-bus/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-trust-fabric",
+      "url": "https://github.com/AAH20/agent-trust-fabric",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-trust-fabric/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-undo",
+      "url": "https://github.com/AAH20/agent-undo",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-undo/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-wal",
+      "url": "https://github.com/AAH20/agent-wal",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-wal/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agent-webrtc-stream",
+      "url": "https://github.com/AAH20/agent-webrtc-stream",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agent-webrtc-stream/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-3ds-router",
+      "url": "https://github.com/AAH20/agentic-3ds-router",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-3ds-router/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-ai-infrastructure-data-engine",
+      "url": "https://github.com/AAH20/agentic-ai-infrastructure-data-engine",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-ai-infrastructure-data-engine/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-ai-threat-intelligence",
+      "url": "https://github.com/AAH20/agentic-ai-threat-intelligence",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-ai-threat-intelligence/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-cloud-solution-engineering-factory",
+      "url": "https://github.com/AAH20/agentic-cloud-solution-engineering-factory",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-cloud-solution-engineering-factory/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-conformance-eval",
+      "url": "https://github.com/AAH20/agentic-conformance-eval",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-conformance-eval/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-devops-sre-skill-registry",
+      "url": "https://github.com/AAH20/agentic-devops-sre-skill-registry",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-devops-sre-skill-registry/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-fintech-kernel",
+      "url": "https://github.com/AAH20/agentic-fintech-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog",
+        "flagship"
+      ],
+      "evidence_source": "agentic-fintech-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-graph-swarm-kernel",
+      "url": "https://github.com/AAH20/agentic-graph-swarm-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-graph-swarm-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-grc-fintech",
+      "url": "https://github.com/AAH20/agentic-grc-fintech",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-grc-fintech/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-industrial-delivery-fabric",
+      "url": "https://github.com/AAH20/agentic-industrial-delivery-fabric",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-industrial-delivery-fabric/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-infrastructure-change-benchmark",
+      "url": "https://github.com/AAH20/agentic-infrastructure-change-benchmark",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-infrastructure-change-benchmark/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-infrastructure-delivery-factory",
+      "url": "https://github.com/AAH20/agentic-infrastructure-delivery-factory",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-infrastructure-delivery-factory/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-np-hard-kernel",
+      "url": "https://github.com/AAH20/agentic-np-hard-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-np-hard-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-pci-dss",
+      "url": "https://github.com/AAH20/agentic-pci-dss",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-pci-dss/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentic-threat-matrix",
+      "url": "https://github.com/AAH20/agentic-threat-matrix",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentic-threat-matrix/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentproof-ai-security-scanner",
+      "url": "https://github.com/AAH20/agentproof-ai-security-scanner",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentproof-ai-security-scanner/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "agentrelease-authority",
+      "url": "https://github.com/AAH20/agentrelease-authority",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agentrelease-authority/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-agent-identity-authorization-security",
+      "url": "https://github.com/AAH20/ai-agent-identity-authorization-security",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-agent-identity-authorization-security/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-agent-infrastructure-benchmark",
+      "url": "https://github.com/AAH20/ai-agent-infrastructure-benchmark",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-agent-infrastructure-benchmark/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-agent-mcp-security-scorecard",
+      "url": "https://github.com/AAH20/ai-agent-mcp-security-scorecard",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-agent-mcp-security-scorecard/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-agent-reliability-resilience",
+      "url": "https://github.com/AAH20/ai-agent-reliability-resilience",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-agent-reliability-resilience/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-agent-runtime-gateway",
+      "url": "https://github.com/AAH20/ai-agent-runtime-gateway",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-agent-runtime-gateway/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-agent-security-telemetry-incident-response",
+      "url": "https://github.com/AAH20/ai-agent-security-telemetry-incident-response",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-agent-security-telemetry-incident-response/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-agent-security-trust-center",
+      "url": "https://github.com/AAH20/ai-agent-security-trust-center",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-agent-security-trust-center/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-cloud-cost-optimization-platform",
+      "url": "https://github.com/AAH20/ai-cloud-cost-optimization-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-cloud-cost-optimization-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-cloud-infrastructure-code-review-platform",
+      "url": "https://github.com/AAH20/ai-cloud-infrastructure-code-review-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-cloud-infrastructure-code-review-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-continuous-compliance-evidence-reliability-platform",
+      "url": "https://github.com/AAH20/ai-continuous-compliance-evidence-reliability-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-continuous-compliance-evidence-reliability-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-factory-revenue-twin",
+      "url": "https://github.com/AAH20/ai-factory-revenue-twin",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-factory-revenue-twin/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-governance-evidence-graph",
+      "url": "https://github.com/AAH20/ai-governance-evidence-graph",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-governance-evidence-graph/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-grc-automation-benchmark",
+      "url": "https://github.com/AAH20/ai-grc-automation-benchmark",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-grc-automation-benchmark/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-inference-price-performance-index",
+      "url": "https://github.com/AAH20/ai-inference-price-performance-index",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-inference-price-performance-index/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-infrastructure-procurement-platform",
+      "url": "https://github.com/AAH20/ai-infrastructure-procurement-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-infrastructure-procurement-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-infrastructure-pull-request-reviewer",
+      "url": "https://github.com/AAH20/ai-infrastructure-pull-request-reviewer",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-infrastructure-pull-request-reviewer/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-native-internal-developer-platform",
+      "url": "https://github.com/AAH20/ai-native-internal-developer-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-native-internal-developer-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-ran-profitability-autopilot",
+      "url": "https://github.com/AAH20/ai-ran-profitability-autopilot",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-ran-profitability-autopilot/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ai-security-posture-management",
+      "url": "https://github.com/AAH20/ai-security-posture-management",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ai-security-posture-management/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "aiops-observability-platform",
+      "url": "https://github.com/AAH20/aiops-observability-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "aiops-observability-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "airgap-audit-breaker",
+      "url": "https://github.com/AAH20/airgap-audit-breaker",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "airgap-audit-breaker/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "aml-smurf-radar",
+      "url": "https://github.com/AAH20/aml-smurf-radar",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "aml-smurf-radar/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "apex-infrastructure-killswitch-kernel",
+      "url": "https://github.com/AAH20/apex-infrastructure-killswitch-kernel",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog",
+        "flagship"
+      ],
+      "evidence_source": "apex-infrastructure-killswitch-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "apex-mcp-gateway-kernel",
+      "url": "https://github.com/AAH20/apex-mcp-gateway-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog",
+        "flagship"
+      ],
+      "evidence_source": "apex-mcp-gateway-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "apex-quant-whale-kernel",
+      "url": "https://github.com/AAH20/apex-quant-whale-kernel",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog",
+        "flagship"
+      ],
+      "evidence_source": "apex-quant-whale-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "apex-swarm-orchestrator-kernel",
+      "url": "https://github.com/AAH20/apex-swarm-orchestrator-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog",
+        "flagship"
+      ],
+      "evidence_source": "apex-swarm-orchestrator-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ApexGraphSwarm",
+      "url": "https://github.com/AAH20/ApexGraphSwarm",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ApexGraphSwarm/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "api-beacon-radar",
+      "url": "https://github.com/AAH20/api-beacon-radar",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "api-beacon-radar/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "app-fraud-sentinel",
+      "url": "https://github.com/AAH20/app-fraud-sentinel",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "app-fraud-sentinel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "arena-redteam",
+      "url": "https://github.com/AAH20/arena-redteam",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "arena-redteam/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ast-cadence",
+      "url": "https://github.com/AAH20/ast-cadence",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ast-cadence/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "attentionos-bench",
+      "url": "https://github.com/AAH20/attentionos-bench",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "attentionos-bench/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "audience-swarm-lab",
+      "url": "https://github.com/AAH20/audience-swarm-lab",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "audience-swarm-lab/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "audience-twin",
+      "url": "https://github.com/AAH20/audience-twin",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "audience-twin/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "autonomous-cloud-modernization-factory",
+      "url": "https://github.com/AAH20/autonomous-cloud-modernization-factory",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "autonomous-cloud-modernization-factory/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "autonomous-cyber-defense-kernel",
+      "url": "https://github.com/AAH20/autonomous-cyber-defense-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog",
+        "flagship"
+      ],
+      "evidence_source": "autonomous-cyber-defense-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "autonomous-order-to-cash-revenue-assurance",
+      "url": "https://github.com/AAH20/autonomous-order-to-cash-revenue-assurance",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "autonomous-order-to-cash-revenue-assurance/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "autonomous-sovereignty-engine",
+      "url": "https://github.com/AAH20/autonomous-sovereignty-engine",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "autonomous-sovereignty-engine/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "autonomous-spend-guard",
+      "url": "https://github.com/AAH20/autonomous-spend-guard",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "autonomous-spend-guard/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "autonomous-tactical-ontology",
+      "url": "https://github.com/AAH20/autonomous-tactical-ontology",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "autonomous-tactical-ontology/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "autonomous-turnaround-logistics",
+      "url": "https://github.com/AAH20/autonomous-turnaround-logistics",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "autonomous-turnaround-logistics/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "AutoPartsInventoryManagement",
+      "url": "https://github.com/AAH20/AutoPartsInventoryManagement",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "AutoPartsInventoryManagement/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "autoprod",
+      "url": "https://github.com/AAH20/autoprod",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "autoprod/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "awesome-computer-science-systems",
+      "url": "https://github.com/AAH20/awesome-computer-science-systems",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "awesome-computer-science-systems/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ax-context-gateway",
+      "url": "https://github.com/AAH20/ax-context-gateway",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ax-context-gateway/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "az104-enterprise-azure-operations-lab",
+      "url": "https://github.com/AAH20/az104-enterprise-azure-operations-lab",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "az104-enterprise-azure-operations-lab/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "azure-agentic-economics-authority",
+      "url": "https://github.com/AAH20/azure-agentic-economics-authority",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "azure-agentic-economics-authority/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "azure-agentic-trust-plane",
+      "url": "https://github.com/AAH20/azure-agentic-trust-plane",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "azure-agentic-trust-plane/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "azure-ai-cloud-modernization-platform-engineering",
+      "url": "https://github.com/AAH20/azure-ai-cloud-modernization-platform-engineering",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "azure-ai-cloud-modernization-platform-engineering/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "azure-brownfield-to-iac",
+      "url": "https://github.com/AAH20/azure-brownfield-to-iac",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "azure-brownfield-to-iac/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "azure-change-impact-compiler",
+      "url": "https://github.com/AAH20/azure-change-impact-compiler",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "azure-change-impact-compiler/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "azure-cloud-migration-modernization-platform",
+      "url": "https://github.com/AAH20/azure-cloud-migration-modernization-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "azure-cloud-migration-modernization-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "azure-enterprise-landing-zone-operations-factory",
+      "url": "https://github.com/AAH20/azure-enterprise-landing-zone-operations-factory",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "azure-enterprise-landing-zone-operations-factory/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "azure-infrastructure-agent-benchmark",
+      "url": "https://github.com/AAH20/azure-infrastructure-agent-benchmark",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "azure-infrastructure-agent-benchmark/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "azure-managed-services-platform",
+      "url": "https://github.com/AAH20/azure-managed-services-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "azure-managed-services-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "azure-private-link-doctor",
+      "url": "https://github.com/AAH20/azure-private-link-doctor",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "azure-private-link-doctor/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "azure-trustops",
+      "url": "https://github.com/AAH20/azure-trustops",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "azure-trustops/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "azure-well-architected-ai-reviewer",
+      "url": "https://github.com/AAH20/azure-well-architected-ai-reviewer",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "azure-well-architected-ai-reviewer/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "baas-breach-simulator",
+      "url": "https://github.com/AAH20/baas-breach-simulator",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "baas-breach-simulator/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "baas-ledger-sentinel",
+      "url": "https://github.com/AAH20/baas-ledger-sentinel",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "baas-ledger-sentinel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "belief-graph",
+      "url": "https://github.com/AAH20/belief-graph",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "belief-graph/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "bft-agent-consensus",
+      "url": "https://github.com/AAH20/bft-agent-consensus",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "bft-agent-consensus/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "biophysical-assurance-commons",
+      "url": "https://github.com/AAH20/biophysical-assurance-commons",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "biophysical-assurance-commons/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "blind-tokens",
+      "url": "https://github.com/AAH20/blind-tokens",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "blind-tokens/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "bonding-curve",
+      "url": "https://github.com/AAH20/bonding-curve",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "bonding-curve/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "byzantine-lease",
+      "url": "https://github.com/AAH20/byzantine-lease",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "byzantine-lease/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "byzantine-mesh-arbiter",
+      "url": "https://github.com/AAH20/byzantine-mesh-arbiter",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "byzantine-mesh-arbiter/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "byzantine-swarm-sentinel",
+      "url": "https://github.com/AAH20/byzantine-swarm-sentinel",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "byzantine-swarm-sentinel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "cache-forge",
+      "url": "https://github.com/AAH20/cache-forge",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "cache-forge/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "CakeWallet-Analysis",
+      "url": "https://github.com/AAH20/CakeWallet-Analysis",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "CakeWallet-Analysis/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "canary-mcp",
+      "url": "https://github.com/AAH20/canary-mcp",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "canary-mcp/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "causal-attribution",
+      "url": "https://github.com/AAH20/causal-attribution",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "causal-attribution/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "cfpb-1033-fdx-gateway",
+      "url": "https://github.com/AAH20/cfpb-1033-fdx-gateway",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "cfpb-1033-fdx-gateway/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ChatFlux_Task3",
+      "url": "https://github.com/AAH20/ChatFlux_Task3",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ChatFlux_Task3/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "chrono-arbitrage",
+      "url": "https://github.com/AAH20/chrono-arbitrage",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "chrono-arbitrage/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "chrono-twin",
+      "url": "https://github.com/AAH20/chrono-twin",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "chrono-twin/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "churn-inversion",
+      "url": "https://github.com/AAH20/churn-inversion",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "churn-inversion/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ciso-assistant-ai-agent-security-connector",
+      "url": "https://github.com/AAH20/ciso-assistant-ai-agent-security-connector",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ciso-assistant-ai-agent-security-connector/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ciso-assistant-aws-compliance-automation",
+      "url": "https://github.com/AAH20/ciso-assistant-aws-compliance-automation",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ciso-assistant-aws-compliance-automation/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ciso-assistant-azure-compliance-automation",
+      "url": "https://github.com/AAH20/ciso-assistant-azure-compliance-automation",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ciso-assistant-azure-compliance-automation/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ciso-assistant-gcp-compliance-automation",
+      "url": "https://github.com/AAH20/ciso-assistant-gcp-compliance-automation",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ciso-assistant-gcp-compliance-automation/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "cloud-cost-optimization-github-action",
+      "url": "https://github.com/AAH20/cloud-cost-optimization-github-action",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "cloud-cost-optimization-github-action/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "cloud-grc-harvester",
+      "url": "https://github.com/AAH20/cloud-grc-harvester",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "cloud-grc-harvester/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "cloud-infrastructure-knowledge-graph",
+      "url": "https://github.com/AAH20/cloud-infrastructure-knowledge-graph",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "cloud-infrastructure-knowledge-graph/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "cloud-resilience-disaster-recovery-platform",
+      "url": "https://github.com/AAH20/cloud-resilience-disaster-recovery-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "cloud-resilience-disaster-recovery-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "cloudfusion-assurance-fabric",
+      "url": "https://github.com/AAH20/cloudfusion-assurance-fabric",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "cloudfusion-assurance-fabric/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "cognitive-spectrum-stackelberg",
+      "url": "https://github.com/AAH20/cognitive-spectrum-stackelberg",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "cognitive-spectrum-stackelberg/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "combinatorial-salvo-allocator",
+      "url": "https://github.com/AAH20/combinatorial-salvo-allocator",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "combinatorial-salvo-allocator/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "commerce-incident-network",
+      "url": "https://github.com/AAH20/commerce-incident-network",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "commerce-incident-network/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "compoundcloud-ai-delivery-fabric",
+      "url": "https://github.com/AAH20/compoundcloud-ai-delivery-fabric",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "compoundcloud-ai-delivery-fabric/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "consular-np-hard-kernel",
+      "url": "https://github.com/AAH20/consular-np-hard-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "consular-np-hard-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "context-checkpoint",
+      "url": "https://github.com/AAH20/context-checkpoint",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "context-checkpoint/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "context-graph-compact",
+      "url": "https://github.com/AAH20/context-graph-compact",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "context-graph-compact/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "crash-replay",
+      "url": "https://github.com/AAH20/crash-replay",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "crash-replay/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "creative-evolution",
+      "url": "https://github.com/AAH20/creative-evolution",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "creative-evolution/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "cross-border-pvp-kernel",
+      "url": "https://github.com/AAH20/cross-border-pvp-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "cross-border-pvp-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "cross-rail-contagion-sentinel",
+      "url": "https://github.com/AAH20/cross-rail-contagion-sentinel",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "cross-rail-contagion-sentinel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "cyborg-bench",
+      "url": "https://github.com/AAH20/cyborg-bench",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "cyborg-bench/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "cyborg-reflex",
+      "url": "https://github.com/AAH20/cyborg-reflex",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "cyborg-reflex/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "datacenter-np-hard-kernel",
+      "url": "https://github.com/AAH20/datacenter-np-hard-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "datacenter-np-hard-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "decision-world",
+      "url": "https://github.com/AAH20/decision-world",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "decision-world/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "deterministic-avionic-scheduler",
+      "url": "https://github.com/AAH20/deterministic-avionic-scheduler",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "deterministic-avionic-scheduler/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "dispute-evidence-engine",
+      "url": "https://github.com/AAH20/dispute-evidence-engine",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "dispute-evidence-engine/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "distributed-covariance-fusion",
+      "url": "https://github.com/AAH20/distributed-covariance-fusion",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "distributed-covariance-fusion/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "distributed-track-fusion-kernel",
+      "url": "https://github.com/AAH20/distributed-track-fusion-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "distributed-track-fusion-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "durbin-rail-optimizer",
+      "url": "https://github.com/AAH20/durbin-rail-optimizer",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "durbin-rail-optimizer/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "edge-vision-mesh",
+      "url": "https://github.com/AAH20/edge-vision-mesh",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "edge-vision-mesh/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "egypt-digital-trust-map",
+      "url": "https://github.com/AAH20/egypt-digital-trust-map",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "egypt-digital-trust-map/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "elasticity-engine",
+      "url": "https://github.com/AAH20/elasticity-engine",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "elasticity-engine/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "enterprise-ai-integration-platform",
+      "url": "https://github.com/AAH20/enterprise-ai-integration-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "enterprise-ai-integration-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "enterprise-ai-production-control-plane",
+      "url": "https://github.com/AAH20/enterprise-ai-production-control-plane",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "enterprise-ai-production-control-plane/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "enterprise-mcp-firewall",
+      "url": "https://github.com/AAH20/enterprise-mcp-firewall",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "enterprise-mcp-firewall/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "entity-continuity",
+      "url": "https://github.com/AAH20/entity-continuity",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "entity-continuity/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "eval-lake",
+      "url": "https://github.com/AAH20/eval-lake",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "eval-lake/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "fde-bounty-snr",
+      "url": "https://github.com/AAH20/fde-bounty-snr",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "fde-bounty-snr/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "fintech-c2-matrix",
+      "url": "https://github.com/AAH20/fintech-c2-matrix",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "fintech-c2-matrix/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "flywheel-engine",
+      "url": "https://github.com/AAH20/flywheel-engine",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "flywheel-engine/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "formal-guard",
+      "url": "https://github.com/AAH20/formal-guard",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "formal-guard/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "frontier-ai-compiler-kernel",
+      "url": "https://github.com/AAH20/frontier-ai-compiler-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog",
+        "flagship"
+      ],
+      "evidence_source": "frontier-ai-compiler-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "generative-plg",
+      "url": "https://github.com/AAH20/generative-plg",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "generative-plg/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "geo-engine",
+      "url": "https://github.com/AAH20/geo-engine",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "geo-engine/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "geospatial-np-hard-kernel",
+      "url": "https://github.com/AAH20/geospatial-np-hard-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "geospatial-np-hard-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ghost-desktop",
+      "url": "https://github.com/AAH20/ghost-desktop",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ghost-desktop/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ghost-fork",
+      "url": "https://github.com/AAH20/ghost-fork",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ghost-fork/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ghost-grounding",
+      "url": "https://github.com/AAH20/ghost-grounding",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ghost-grounding/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ghost-witness",
+      "url": "https://github.com/AAH20/ghost-witness",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ghost-witness/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "gigawatt-ride-through-amm-kernel",
+      "url": "https://github.com/AAH20/gigawatt-ride-through-amm-kernel",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog",
+        "flagship"
+      ],
+      "evidence_source": "gigawatt-ride-through-amm-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "git-arbiter",
+      "url": "https://github.com/AAH20/git-arbiter",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "git-arbiter/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "gitleaks",
+      "url": "https://github.com/AAH20/gitleaks",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "gitleaks/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "gpu-cloud-cost-calculator",
+      "url": "https://github.com/AAH20/gpu-cloud-cost-calculator",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "gpu-cloud-cost-calculator/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "gpu-cluster-mesh",
+      "url": "https://github.com/AAH20/gpu-cluster-mesh",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "gpu-cluster-mesh/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "gpu-inference-platform",
+      "url": "https://github.com/AAH20/gpu-inference-platform",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "gpu-inference-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "graph-rag-guard",
+      "url": "https://github.com/AAH20/graph-rag-guard",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "graph-rag-guard/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "graph-rag-np-hard-kernel",
+      "url": "https://github.com/AAH20/graph-rag-np-hard-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "graph-rag-np-hard-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "GRC_Claw",
+      "url": "https://github.com/AAH20/GRC_Claw",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog",
+        "maintenance_focus"
+      ],
+      "evidence_source": "GRC_Claw/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "grc-automation-cyber-risk-quantification-platform",
+      "url": "https://github.com/AAH20/grc-automation-cyber-risk-quantification-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "grc-automation-cyber-risk-quantification-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "green-inference",
+      "url": "https://github.com/AAH20/green-inference",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "green-inference/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "growth-bandit",
+      "url": "https://github.com/AAH20/growth-bandit",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "growth-bandit/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "growth-decision-engine",
+      "url": "https://github.com/AAH20/growth-decision-engine",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "growth-decision-engine/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "growth-syndicate",
+      "url": "https://github.com/AAH20/growth-syndicate",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "growth-syndicate/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "hft-microstructure-kernel",
+      "url": "https://github.com/AAH20/hft-microstructure-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "hft-microstructure-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "honey-agent",
+      "url": "https://github.com/AAH20/honey-agent",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "honey-agent/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "humanoid-swarm-robotics-kernel",
+      "url": "https://github.com/AAH20/humanoid-swarm-robotics-kernel",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog",
+        "flagship"
+      ],
+      "evidence_source": "humanoid-swarm-robotics-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "hyper-agent-os",
+      "url": "https://github.com/AAH20/hyper-agent-os",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "hyper-agent-os/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "hyper-mesh",
+      "url": "https://github.com/AAH20/hyper-mesh",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "hyper-mesh/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "identity-fabric-benchmarks",
+      "url": "https://github.com/AAH20/identity-fabric-benchmarks",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "identity-fabric-benchmarks/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "instant-ewa-liquidity-kernel",
+      "url": "https://github.com/AAH20/instant-ewa-liquidity-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "instant-ewa-liquidity-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "intel-pulse",
+      "url": "https://github.com/AAH20/intel-pulse",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "intel-pulse/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "intraday-liquidity-orchestrator",
+      "url": "https://github.com/AAH20/intraday-liquidity-orchestrator",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "intraday-liquidity-orchestrator/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "kernel-agent-ebpf",
+      "url": "https://github.com/AAH20/kernel-agent-ebpf",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "kernel-agent-ebpf/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "killchain-engine",
+      "url": "https://github.com/AAH20/killchain-engine",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "killchain-engine/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "kinematic-4d-swarm-deconfliction",
+      "url": "https://github.com/AAH20/kinematic-4d-swarm-deconfliction",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "kinematic-4d-swarm-deconfliction/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "kinetic-guard",
+      "url": "https://github.com/AAH20/kinetic-guard",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "kinetic-guard/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "kinetic-swarm-consensus",
+      "url": "https://github.com/AAH20/kinetic-swarm-consensus",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "kinetic-swarm-consensus/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "kubernetes-ai-agent-operator",
+      "url": "https://github.com/AAH20/kubernetes-ai-agent-operator",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "kubernetes-ai-agent-operator/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "kubernetes-ai-finops-autopilot",
+      "url": "https://github.com/AAH20/kubernetes-ai-finops-autopilot",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "kubernetes-ai-finops-autopilot/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "kubernetes-ai-sre-platform",
+      "url": "https://github.com/AAH20/kubernetes-ai-sre-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "kubernetes-ai-sre-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "kv-compress-x",
+      "url": "https://github.com/AAH20/kv-compress-x",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "kv-compress-x/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "leo-satellite-constellation-kernel",
+      "url": "https://github.com/AAH20/leo-satellite-constellation-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "leo-satellite-constellation-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "llm-inference-benchmark",
+      "url": "https://github.com/AAH20/llm-inference-benchmark",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "llm-inference-benchmark/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "llm-inference-optimization-platform",
+      "url": "https://github.com/AAH20/llm-inference-optimization-platform",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "llm-inference-optimization-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "llm-monopoly",
+      "url": "https://github.com/AAH20/llm-monopoly",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "llm-monopoly/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "m-a-technology-integration-factory",
+      "url": "https://github.com/AAH20/m-a-technology-integration-factory",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "m-a-technology-integration-factory/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ma-vdr-diligence-os",
+      "url": "https://github.com/AAH20/ma-vdr-diligence-os",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ma-vdr-diligence-os/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "mcp-box",
+      "url": "https://github.com/AAH20/mcp-box",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "mcp-box/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "mcp-compatibility",
+      "url": "https://github.com/AAH20/mcp-compatibility",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "mcp-compatibility/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "mcp-gateway-inference-router-kernel",
+      "url": "https://github.com/AAH20/mcp-gateway-inference-router-kernel",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "mcp-gateway-inference-router-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "mcp-healer",
+      "url": "https://github.com/AAH20/mcp-healer",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "mcp-healer/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "mcp-redteam",
+      "url": "https://github.com/AAH20/mcp-redteam",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "mcp-redteam/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "mcp-shield",
+      "url": "https://github.com/AAH20/mcp-shield",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "mcp-shield/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "mem-quarantine",
+      "url": "https://github.com/AAH20/mem-quarantine",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "mem-quarantine/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "merchant-profit-os",
+      "url": "https://github.com/AAH20/merchant-profit-os",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "merchant-profit-os/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "meta-synthesizer",
+      "url": "https://github.com/AAH20/meta-synthesizer",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "meta-synthesizer/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "MetaMask-APK-Analysis",
+      "url": "https://github.com/AAH20/MetaMask-APK-Analysis",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "MetaMask-APK-Analysis/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "mica-stablecoin-reserve-auditor",
+      "url": "https://github.com/AAH20/mica-stablecoin-reserve-auditor",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "mica-stablecoin-reserve-auditor/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "microsecond-kill-chain-dag",
+      "url": "https://github.com/AAH20/microsecond-kill-chain-dag",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog",
+        "flagship"
+      ],
+      "evidence_source": "microsecond-kill-chain-dag/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "millionready",
+      "url": "https://github.com/AAH20/millionready",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "millionready/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "mirofish-swarm-optimizer",
+      "url": "https://github.com/AAH20/mirofish-swarm-optimizer",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "mirofish-swarm-optimizer/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "multi-cloud-finops-data-quality-platform",
+      "url": "https://github.com/AAH20/multi-cloud-finops-data-quality-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "multi-cloud-finops-data-quality-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "multicloud-infrastructure-control-loop",
+      "url": "https://github.com/AAH20/multicloud-infrastructure-control-loop",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog",
+        "maintenance_focus"
+      ],
+      "evidence_source": "multicloud-infrastructure-control-loop/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "mutation-sentinel",
+      "url": "https://github.com/AAH20/mutation-sentinel",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "mutation-sentinel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "nacha-return-risk-oracle",
+      "url": "https://github.com/AAH20/nacha-return-risk-oracle",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "nacha-return-risk-oracle/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "narrative-surge",
+      "url": "https://github.com/AAH20/narrative-surge",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "narrative-surge/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "network-change-intelligence-twin",
+      "url": "https://github.com/AAH20/network-change-intelligence-twin",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog",
+        "maintenance_focus"
+      ],
+      "evidence_source": "network-change-intelligence-twin/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "neuro-debugger",
+      "url": "https://github.com/AAH20/neuro-debugger",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "neuro-debugger/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "neuro-manifold",
+      "url": "https://github.com/AAH20/neuro-manifold",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "neuro-manifold/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "neuro-spatial",
+      "url": "https://github.com/AAH20/neuro-spatial",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "neuro-spatial/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "neuromuscular-pll",
+      "url": "https://github.com/AAH20/neuromuscular-pll",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "neuromuscular-pll/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "neurospark-rt",
+      "url": "https://github.com/AAH20/neurospark-rt",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "neurospark-rt/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "nvidia-ai-factory-deployment-automation",
+      "url": "https://github.com/AAH20/nvidia-ai-factory-deployment-automation",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "nvidia-ai-factory-deployment-automation/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "nvidia-ai-factory-reliability-platform",
+      "url": "https://github.com/AAH20/nvidia-ai-factory-reliability-platform",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "nvidia-ai-factory-reliability-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "ofac-sanctions-graph-sentinel",
+      "url": "https://github.com/AAH20/ofac-sanctions-graph-sentinel",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ofac-sanctions-graph-sentinel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "open-agent-reliability-fabric",
+      "url": "https://github.com/AAH20/open-agent-reliability-fabric",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "open-agent-reliability-fabric/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "openai-to-vllm-nvidia-nim-migration",
+      "url": "https://github.com/AAH20/openai-to-vllm-nvidia-nim-migration",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "openai-to-vllm-nvidia-nim-migration/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "opensearch-sovereign-vciso-control-plane",
+      "url": "https://github.com/AAH20/opensearch-sovereign-vciso-control-plane",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "opensearch-sovereign-vciso-control-plane/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "opentelemetry-ai-valueops-collector",
+      "url": "https://github.com/AAH20/opentelemetry-ai-valueops-collector",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "opentelemetry-ai-valueops-collector/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "opentelemetry-infrastructure-graph-collector",
+      "url": "https://github.com/AAH20/opentelemetry-infrastructure-graph-collector",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "opentelemetry-infrastructure-graph-collector/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "otel-agent-core",
+      "url": "https://github.com/AAH20/otel-agent-core",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "otel-agent-core/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "otforge",
+      "url": "https://github.com/AAH20/otforge",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "otforge/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "outcome-fabric",
+      "url": "https://github.com/AAH20/outcome-fabric",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "outcome-fabric/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "permissioned-contributor-agent",
+      "url": "https://github.com/AAH20/permissioned-contributor-agent",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "permissioned-contributor-agent/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "phantom-v8",
+      "url": "https://github.com/AAH20/phantom-v8",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "phantom-v8/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "phased-aperture-orchestrator",
+      "url": "https://github.com/AAH20/phased-aperture-orchestrator",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "phased-aperture-orchestrator/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "physical-ai-governor",
+      "url": "https://github.com/AAH20/physical-ai-governor",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "physical-ai-governor/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "play-anything",
+      "url": "https://github.com/AAH20/play-anything",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "play-anything/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "poly-bench",
+      "url": "https://github.com/AAH20/poly-bench",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "poly-bench/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "portfolio-growth-engine",
+      "url": "https://github.com/AAH20/portfolio-growth-engine",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "portfolio-growth-engine/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "pqattest",
+      "url": "https://github.com/AAH20/pqattest",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "pqattest/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "pqc-enclave",
+      "url": "https://github.com/AAH20/pqc-enclave",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "pqc-enclave/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "project-atlas-due-diligence",
+      "url": "https://github.com/AAH20/project-atlas-due-diligence",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "project-atlas-due-diligence/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "puf-ephemeral-zeroize",
+      "url": "https://github.com/AAH20/puf-ephemeral-zeroize",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "puf-ephemeral-zeroize/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "PythonDeFi_Challenge",
+      "url": "https://github.com/AAH20/PythonDeFi_Challenge",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "PythonDeFi_Challenge/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "quantum-pki-fintech-gateway",
+      "url": "https://github.com/AAH20/quantum-pki-fintech-gateway",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "quantum-pki-fintech-gateway/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "real-time-ai-data-platform",
+      "url": "https://github.com/AAH20/real-time-ai-data-platform",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "real-time-ai-data-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "real-time-payment-fraud-platform",
+      "url": "https://github.com/AAH20/real-time-payment-fraud-platform",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "real-time-payment-fraud-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "robot-black-box",
+      "url": "https://github.com/AAH20/robot-black-box",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "robot-black-box/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "rtb-arbitrage",
+      "url": "https://github.com/AAH20/rtb-arbitrage",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "rtb-arbitrage/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "runproof",
+      "url": "https://github.com/AAH20/runproof",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "runproof/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "sap-s4hana-azure-ai-transformation-factory",
+      "url": "https://github.com/AAH20/sap-s4hana-azure-ai-transformation-factory",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "sap-s4hana-azure-ai-transformation-factory/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "self-hosted-ai-agent-infrastructure-platform",
+      "url": "https://github.com/AAH20/self-hosted-ai-agent-infrastructure-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "self-hosted-ai-agent-infrastructure-platform/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "sky-sentinel",
+      "url": "https://github.com/AAH20/sky-sentinel",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "sky-sentinel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "smart-grid-fusion-vpp-kernel",
+      "url": "https://github.com/AAH20/smart-grid-fusion-vpp-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "smart-grid-fusion-vpp-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "sovereign-ai-enclave",
+      "url": "https://github.com/AAH20/sovereign-ai-enclave",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "sovereign-ai-enclave/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "spatial-intelligence-3dgs-kernel",
+      "url": "https://github.com/AAH20/spatial-intelligence-3dgs-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "spatial-intelligence-3dgs-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "spec-to-swarm",
+      "url": "https://github.com/AAH20/spec-to-swarm",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "spec-to-swarm/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "speculative-gui-fork",
+      "url": "https://github.com/AAH20/speculative-gui-fork",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "speculative-gui-fork/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "speculative-swarm",
+      "url": "https://github.com/AAH20/speculative-swarm",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "speculative-swarm/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "strategy-genome",
+      "url": "https://github.com/AAH20/strategy-genome",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "strategy-genome/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "stream-fusion",
+      "url": "https://github.com/AAH20/stream-fusion",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "stream-fusion/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "supply-chain-digital-twin",
+      "url": "https://github.com/AAH20/supply-chain-digital-twin",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "supply-chain-digital-twin/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "surcharge-matrix-sentinel",
+      "url": "https://github.com/AAH20/surcharge-matrix-sentinel",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "surcharge-matrix-sentinel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "swarm-as-mcp",
+      "url": "https://github.com/AAH20/swarm-as-mcp",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "swarm-as-mcp/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "Swarm-Context-Commander",
+      "url": "https://github.com/AAH20/Swarm-Context-Commander",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Swarm-Context-Commander/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "swarm-desktop-os",
+      "url": "https://github.com/AAH20/swarm-desktop-os",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "swarm-desktop-os/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "swarm-eval-harness",
+      "url": "https://github.com/AAH20/swarm-eval-harness",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "swarm-eval-harness/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "swarm-market-wta",
+      "url": "https://github.com/AAH20/swarm-market-wta",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "swarm-market-wta/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "swarm-substrate",
+      "url": "https://github.com/AAH20/swarm-substrate",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "swarm-substrate/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "swarm-sync",
+      "url": "https://github.com/AAH20/swarm-sync",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "swarm-sync/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "swarm-synthetic-lead",
+      "url": "https://github.com/AAH20/swarm-synthetic-lead",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "swarm-synthetic-lead/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "synthetic-identity-radar",
+      "url": "https://github.com/AAH20/synthetic-identity-radar",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "synthetic-identity-radar/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "synthetic-swarm-detonator",
+      "url": "https://github.com/AAH20/synthetic-swarm-detonator",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "synthetic-swarm-detonator/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "tech-balance-sheet",
+      "url": "https://github.com/AAH20/tech-balance-sheet",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "tech-balance-sheet/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "temporal-hypergraph-synthesizer",
+      "url": "https://github.com/AAH20/temporal-hypergraph-synthesizer",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "temporal-hypergraph-synthesizer/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "tensor-forge",
+      "url": "https://github.com/AAH20/tensor-forge",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "tensor-forge/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "tensor-immunity",
+      "url": "https://github.com/AAH20/tensor-immunity",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "tensor-immunity/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "thought-flame",
+      "url": "https://github.com/AAH20/thought-flame",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "thought-flame/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "tier1-isp-np-hard-kernel",
+      "url": "https://github.com/AAH20/tier1-isp-np-hard-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "tier1-isp-np-hard-kernel/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "tool-foundry",
+      "url": "https://github.com/AAH20/tool-foundry",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "tool-foundry/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "topological-vision-guard",
+      "url": "https://github.com/AAH20/topological-vision-guard",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "topological-vision-guard/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "trust-loop",
+      "url": "https://github.com/AAH20/trust-loop",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "trust-loop/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "Trust-Wallet-APK-Analysis",
+      "url": "https://github.com/AAH20/Trust-Wallet-APK-Analysis",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Trust-Wallet-APK-Analysis/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "trusted-community-marketplace",
+      "url": "https://github.com/AAH20/trusted-community-marketplace",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "trusted-community-marketplace/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "vdr-synthesizer",
+      "url": "https://github.com/AAH20/vdr-synthesizer",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "vdr-synthesizer/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "vector-index-sanitizer",
+      "url": "https://github.com/AAH20/vector-index-sanitizer",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "vector-index-sanitizer/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "vendor-assurance",
+      "url": "https://github.com/AAH20/vendor-assurance",
+      "pillar": "Commerce, revenue, and customer operations",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "vendor-assurance/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "verified-effects-runtime",
+      "url": "https://github.com/AAH20/verified-effects-runtime",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "verified-effects-runtime/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "veritas-tee",
+      "url": "https://github.com/AAH20/veritas-tee",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "veritas-tee/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "vibeguard",
+      "url": "https://github.com/AAH20/vibeguard",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "vibeguard/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "video-template-system",
+      "url": "https://github.com/AAH20/video-template-system",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "video-template-system/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "viral-cascade",
+      "url": "https://github.com/AAH20/viral-cascade",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "viral-cascade/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "volumetric-art-gallery-siting",
+      "url": "https://github.com/AAH20/volumetric-art-gallery-siting",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "volumetric-art-gallery-siting/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "voronoi-swarm-morph",
+      "url": "https://github.com/AAH20/voronoi-swarm-morph",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "voronoi-swarm-morph/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "vuln-triage",
+      "url": "https://github.com/AAH20/vuln-triage",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "vuln-triage/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "VulnTruth",
+      "url": "https://github.com/AAH20/VulnTruth",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "VulnTruth/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "wazuh-elastic-sovereign-vciso-control-plane",
+      "url": "https://github.com/AAH20/wazuh-elastic-sovereign-vciso-control-plane",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "wazuh-elastic-sovereign-vciso-control-plane/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "wire-to-mcp",
+      "url": "https://github.com/AAH20/wire-to-mcp",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "wire-to-mcp/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "workflow-twin",
+      "url": "https://github.com/AAH20/workflow-twin",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "workflow-twin/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "worldops",
+      "url": "https://github.com/AAH20/worldops",
+      "pillar": "GPU, model serving, and AI economics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "worldops/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "zero-leak-dlp",
+      "url": "https://github.com/AAH20/zero-leak-dlp",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "zero-leak-dlp/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "zero-shot-bci",
+      "url": "https://github.com/AAH20/zero-shot-bci",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "zero-shot-bci/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "zk-agent-escrow",
+      "url": "https://github.com/AAH20/zk-agent-escrow",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "zk-agent-escrow/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "zk-biometrics",
+      "url": "https://github.com/AAH20/zk-biometrics",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "zk-biometrics/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    },
+    {
+      "name": "zk-cleanroom",
+      "url": "https://github.com/AAH20/zk-cleanroom",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "zk-cleanroom/README.md",
+      "assessment_boundary": "Catalog entry only. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation, maturity, or performance claims."
+    }
+  ],
+  "relationships": [
+    {
+      "from": "ApexGraphSwarm",
+      "to": "graph-rag-np-hard-kernel",
+      "type": "retrieval_adapter",
+      "status": "candidate",
+      "evidence": "README graph and swarm engineering diagram"
+    },
+    {
+      "from": "graph-rag-np-hard-kernel",
+      "to": "agentic-graph-swarm-kernel",
+      "type": "task_context",
+      "status": "candidate",
+      "evidence": "README graph and swarm engineering diagram"
+    },
+    {
+      "from": "agentic-graph-swarm-kernel",
+      "to": "mirofish-swarm-optimizer",
+      "type": "workload_adapter",
+      "status": "candidate",
+      "evidence": "README graph and swarm engineering diagram"
+    },
+    {
+      "from": "agentic-graph-swarm-kernel",
+      "to": "swarm-eval-harness",
+      "type": "evaluation_traces",
+      "status": "candidate",
+      "evidence": "README graph and swarm engineering diagram"
+    }
+  ]
+}
