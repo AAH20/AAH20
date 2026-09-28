@@ -6,49 +6,115 @@ I build distinct software systems where combinatorial optimization meets operati
 
 [Sponsor the work](https://github.com/sponsors/AAH20) · [Maintenance record](MAINTENANCE.md) · [Sponsorship program and ten levels](SPONSORSHIP.md) · [Browse every public original repository](PORTFOLIO.md) · [Benchmark protocols](BENCHMARKS.md) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
 
-## Live GitHub portfolio telemetry
-
-![Live counts of public original repositories, repositories pushed in the past 30 days, stars, and forks](assets/profile/overview.svg)
-
-The cards below refresh daily from GitHub's public repository API. Counts exclude forks and private repositories. A push is repository activity, not a deployment or customer adoption. Stars and forks are GitHub attention, not revenue or independent validation. [Inspect the machine-readable snapshot and definitions](data/profile-metrics.json).
-
 ## What support sustains
 
 The [live GitHub Sponsors page](https://github.com/sponsors/AAH20) offers nine monthly tiers from **$10 to $8,000**, each with a tier-specific welcome message. Levels 1–6 sustain public maintenance, reproducible tests, documentation, issue triage, and independently reported limitations for the three declared focus projects. Levels 7–9 can underwrite a named benchmark, integration, or program pilot from the separate project lanes only after scope, baseline, reviewer, capacity, and acceptance criteria are published. [The dated record](MAINTENANCE.md) shows the core maintenance baseline and records subsequent work. [The program terms](SPONSORSHIP.md) distinguish the core commitment, proof-gated pilots, and a tenth, **$20,000/month** strategic level arranged under a separate agreement because GitHub caps a monthly tier at $12,000. Attribution does not imply ring-fenced accounting; funding never buys benchmark results, a reference-list position, or control of technical conclusions.
 
-## Engineering domains and benchmark axes
+## Project architecture
 
-These are **separate domains**, not one blended product category. Each card links to that domain's original projects. Its two benchmark labels specify what to measure; they are **not claimed results**. The [protocol](BENCHMARKS.md) defines the numerator, denominator, workload, and evidence needed before publishing a score.
+This portfolio is a set of independent projects organized around distinct engineering pillars. The diagram shows how the work can compose; it is **not** a claim that every repository is wired into one platform. Dotted links are candidate reuse or integration paths. Each repository retains its own implementation, benchmark, release cadence, and evidence.
 
-[![Commerce, revenue, and customer operations: live repository statistics and benchmark axes](assets/profile/commerce-revenue-and-customer-operations.svg)](PORTFOLIO.md#commerce-revenue-and-customer-operations)
+```mermaid
+flowchart LR
+  subgraph P1["Optimization and graph methods"]
+    G["Graph engineering and GraphRAG"]
+    K["Deterministic NP-hard kernels"]
+    H["Temporal and higher-order graphs"]
+  end
+  subgraph P2["Agent systems and authority"]
+    S["Swarm and orchestration systems"]
+    I["Identity, permissions, and governance"]
+  end
+  subgraph P3["Operational and domain systems"]
+    C["Cloud, network, and GPU infrastructure"]
+    B["Commerce, finance, and decision systems"]
+    R["Robotics and Physical AI"]
+  end
+  V["Evaluation, reproducibility, and unit economics"]
+  G -. "candidate algorithm reuse" .-> S
+  K -. "candidate optimization reuse" .-> C
+  H -. "candidate relationship model reuse" .-> B
+  S -. "candidate governed execution" .-> I
+  C -. "domain-specific measures" .-> V
+  B -. "domain-specific measures" .-> V
+  R -. "domain-specific measures" .-> V
+  I -. "security and authority tests" .-> V
+```
 
-Commerce systems reconcile product, order, payment, and customer-operation states. Their tests should measure incident precision and human review effort, not equate detected mismatches with recovered revenue. [Commerce Incident Network](https://github.com/AAH20/commerce-incident-network) · [Merchant Profit OS](https://github.com/AAH20/merchant-profit-os).
+### Graph and swarm engineering
 
-[![GPU, model serving, and AI economics: live repository statistics and benchmark axes](assets/profile/gpu-model-serving-and-ai-economics.svg)](PORTFOLIO.md#gpu-model-serving-and-ai-economics)
+The work separates repository understanding, graph selection, orchestration, and evaluation. Candidate links describe where adapters and shared workloads could connect these distinct projects; the diagram does not assert a unified runtime.
 
-Model-serving work is about latency, throughput, capacity, and unit cost under a declared workload. [LLM Inference Benchmark](https://github.com/AAH20/llm-inference-benchmark) · [GPU Cloud Cost Calculator](https://github.com/AAH20/gpu-cloud-cost-calculator).
+```mermaid
+flowchart LR
+  Repo["Repository source and dependencies"]
+  View["ApexGraphSwarm: interactive engineering workspace"]
+  Select["GraphRAG NP-Hard Kernel: bounded graph selection"]
+  Coordinate["Agentic Graph Swarm Kernel: graph reasoning and coordination"]
+  Simulate["MiroFish Swarm Optimizer: simulation optimization"]
+  Evaluate["Swarm Eval Harness: trajectory and consensus tests"]
+  Repo --> View
+  View -. "candidate retrieval adapter" .-> Select
+  Select -. "candidate task context" .-> Coordinate
+  Coordinate -. "candidate workload adapter" .-> Simulate
+  Coordinate -. "candidate evaluation traces" .-> Evaluate
+```
 
-[![Cloud, platform engineering, and reliability: live repository statistics and benchmark axes](assets/profile/cloud-platform-engineering-and-reliability.svg)](PORTFOLIO.md#cloud-platform-engineering-and-reliability)
+The only solid edge represents the repository-understanding input to the ApexGraphSwarm workspace. The dotted edges are integration candidates, not shipped contracts. See the individual project theses below and each repository's own tests and limits.
 
-Cloud and network engineering is evaluated on change safety, blast radius, rollback, and operational reliability. [Multi-Cloud Infrastructure Control Loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) · [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin).
+### Cloud, network, and governed operations
 
-[![Marketing, audiences, and growth: live repository statistics and benchmark axes](assets/profile/marketing-audiences-and-growth.svg)](PORTFOLIO.md#marketing-audiences-and-growth)
+The left path reflects the documented evidence adapter and control-loop relationship. Network change analysis and GRC Claw are separate systems; their dotted paths show potential reviewed integration points.
 
-Marketing systems require causal measurement and decision quality, not impressions or synthetic engagement as a substitute for business outcomes. [AttentionOS Bench](https://github.com/AAH20/attentionos-bench) · [Audience Swarm Lab](https://github.com/AAH20/audience-swarm-lab).
+```mermaid
+flowchart LR
+  Azure["Azure evidence adapter"]
+  AWS["AWS evidence adapter"]
+  GCP["GCP evidence adapter"]
+  Normalize["Normalized cloud observations"]
+  Control["Multi-Cloud Infrastructure Control Loop"]
+  Plan["Policy-checked change proposal"]
+  Human["Human review and approval"]
+  Verify["Verification receipt"]
+  Network["Network Change Intelligence Twin"]
+  GRC["GRC Claw: identity, decisions, and evidence"]
+  Azure --> Normalize
+  AWS --> Normalize
+  GCP --> Normalize
+  Normalize --> Control
+  Control --> Plan
+  Plan --> Human
+  Human --> Verify
+  Network -. "candidate network-impact review" .-> Human
+  GRC -. "candidate authority and evidence adapter" .-> Human
+```
 
-[![Physical AI, robotics, and biometrics: live repository statistics and benchmark axes](assets/profile/physical-ai-robotics-and-biometrics.svg)](PORTFOLIO.md#physical-ai-robotics-and-biometrics)
+The control loop creates reviewable proposals; this profile does not claim production mutation. The cloud evidence adapters produce normalized observations and review-gated synchronization plans for CISO Assistant, which remains the GRC system of record.
 
-Physical AI is evaluated on unsafe-action misses, recorder completeness, reproducibility, and safe failure under defined conditions. [Physical AI Governor](https://github.com/AAH20/physical-ai-governor) · [Robot Black Box](https://github.com/AAH20/robot-black-box).
+### Domain-specific systems and measurement
 
-[![AI agents, security, identity, and governance: live repository statistics and benchmark axes](assets/profile/ai-agents-runtime-security-identity-and-governance.svg)](PORTFOLIO.md#ai-agents-runtime-security-identity-and-governance)
+Projects in a domain keep their own workloads and acceptance criteria. The shared benchmark document defines measurement vocabulary; dotted links here mean “evaluate with an appropriate protocol,” not a common data pipeline or combined score.
 
-Agent systems are evaluated on authorized execution, denied-action escape, false denial, and evidence integrity. [GRC Claw](https://github.com/AAH20/GRC_Claw) · [Agent Trust Fabric](https://github.com/AAH20/agent-trust-fabric).
+```mermaid
+flowchart LR
+  Commerce["Commerce and customer operations"]
+  Cloud["Cloud, network, and reliability"]
+  GPU["GPU and model serving"]
+  Marketing["Marketing and audience experiments"]
+  Physical["Physical AI and robotics"]
+  Agents["Agent security and identity"]
+  Data["Data, simulation, and decisions"]
+  Measure["Domain-specific benchmark protocol"]
+  Commerce -. "precision and review effort" .-> Measure
+  Cloud -. "unsafe changes and rollback" .-> Measure
+  GPU -. "latency and accepted-work cost" .-> Measure
+  Marketing -. "incrementality and uncertainty" .-> Measure
+  Physical -. "missed hazards and evidence loss" .-> Measure
+  Agents -. "unauthorized actions and false denial" .-> Measure
+  Data -. "freshness and decision utility" .-> Measure
+```
 
-[![Data, simulation, and decision systems: live repository statistics and benchmark axes](assets/profile/data-simulation-and-decision-systems.svg)](PORTFOLIO.md#data-simulation-and-decision-systems)
-
-Data and decision systems are evaluated on freshness, correctness, and decision improvement against a fixed baseline. [Decision World](https://github.com/AAH20/decision-world) · [Outcome Fabric](https://github.com/AAH20/outcome-fabric).
-
-The [remaining profile repository](PORTFOLIO.md#other-original-projects) is listed separately. Domain counts are classification metadata, not a ranking of technical maturity.
+[Benchmark definitions and evidence requirements](BENCHMARKS.md) specify workloads, denominators, and limits. The full [public original-project directory](PORTFOLIO.md) is the catalog; this profile highlights engineering theses and proof boundaries rather than repository counts.
 
 ## Distinct systems and individual project theses
 
