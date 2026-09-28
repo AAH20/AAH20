@@ -1,4 +1,4 @@
-# Ahmed Hassan — deterministic kernels, agentic systems, and inspectable infrastructure
+# Ahmed Hassan — Engineering reliable decision systems for complex operations
 
 I build distinct software systems where combinatorial optimization meets operational reality: graph engineering and GraphRAG, agentic swarms and identity, cloud and network control, GPU/model economics, finance, commerce, decision science, and physical AI. Each project keeps its own technical thesis, architecture, evaluation axes, limitations, and evidence boundary. Shared layers connect projects; they do not erase their individual identities.
 
