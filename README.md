@@ -1,6 +1,6 @@
-# Ahmed Hassan — inspectable cloud, network, and AI systems
+# Ahmed Hassan — deterministic kernels, agentic systems, and inspectable infrastructure
 
-I build distinct systems for cloud and network operations, GPU/model economics, agent security and identity, commerce operations, physical AI, data/decision systems, and marketing measurement. Each domain has its own technical objective, benchmark units, and evidence boundary.
+I build distinct software systems where combinatorial optimization meets operational reality: graph engineering and GraphRAG, agentic swarms and identity, cloud and network control, GPU/model economics, finance, commerce, decision science, and physical AI. Each project keeps its own technical thesis, architecture, evaluation axes, limitations, and evidence boundary. Shared layers connect projects; they do not erase their individual identities.
 
 **Current maintenance focus:** [GRC Claw](https://github.com/AAH20/GRC_Claw) · [Multi-Cloud Infrastructure Control Loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) · [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin). This names a bounded stewardship focus; it does not collapse the other domains or claim every repository is maintained at the same cadence.
 
@@ -49,6 +49,53 @@ Agent systems are evaluated on authorized execution, denied-action escape, false
 Data and decision systems are evaluated on freshness, correctness, and decision improvement against a fixed baseline. [Decision World](https://github.com/AAH20/decision-world) · [Outcome Fabric](https://github.com/AAH20/outcome-fabric).
 
 The [remaining profile repository](PORTFOLIO.md#other-original-projects) is listed separately. Domain counts are classification metadata, not a ranking of technical maturity.
+
+## Distinct systems and individual project theses
+
+The portfolio spans more than the three maintenance-focus projects above. The systems below are separate repositories with separate problem statements and release/evidence boundaries. The links lead to each project’s own documentation; this index describes scope, not a blanket claim of production readiness or measured performance.
+
+### Graph engineering, GraphRAG, agentic reasoning, and swarm systems
+
+| Project | Individual technical focus |
+|---|---|
+| [ApexGraphSwarm](https://github.com/AAH20/ApexGraphSwarm) | Local-first engineering workspace for repository intelligence, interactive code graphs, specialist-team design, bounded swarm orchestration, evaluation, and cost-aware delegation. Its README distinguishes working engineering foundations from planned or unconnected integrations. |
+| [Agentic Graph Swarm Kernel](https://github.com/AAH20/agentic-graph-swarm-kernel) | Deterministic standard-library kernel focused on graph reasoning, causal inference, epistemic consensus, and swarm coordination. |
+| [GraphRAG NP-Hard Kernel](https://github.com/AAH20/graph-rag-np-hard-kernel) | Algorithmic work on graph-engineering and GraphRAG bottlenecks such as structured retrieval, graph selection, and summarization under combinatorial constraints. |
+| [Agentic NP-Hard Kernel](https://github.com/AAH20/agentic-np-hard-kernel) | Deterministic solver suite focused on the combinatorial decisions behind agent task allocation, tool choice, and coordination. |
+| [MiroFish Swarm Optimizer](https://github.com/AAH20/mirofish-swarm-optimizer) | Optimization methods for swarm simulation workloads, keeping simulation-scale coordination as its own project. |
+| [Swarm Eval Harness](https://github.com/AAH20/swarm-eval-harness) | Metamorphic and stress-testing workflows for multi-turn agent trajectories and swarm consensus behavior. |
+| [Agent Telepathy Bus](https://github.com/AAH20/agent-telepathy-bus) | A dedicated communication and context-transfer substrate for agent processes, separate from higher-level orchestration. |
+| [Temporal Hypergraph Synthesizer](https://github.com/AAH20/temporal-hypergraph-synthesizer) | Models and synthesizes higher-order relationships that change over time, rather than flattening interactions into static pairwise edges. |
+
+### Domain-specific optimization kernels
+
+| Project | Individual technical focus |
+|---|---|
+| [Hyperscale Data Center NP-Hard Kernel](https://github.com/AAH20/datacenter-np-hard-kernel) | Resource-placement and infrastructure optimization across data-center and cloud capacity constraints. |
+| [Tier-1 ISP NP-Hard Kernel](https://github.com/AAH20/tier1-isp-np-hard-kernel) | Routing, traffic engineering, and backbone economics for large carrier networks. |
+| [Geospatial NP-Hard Kernel](https://github.com/AAH20/geospatial-np-hard-kernel) | Geospatial siting, coverage, labeling, routing, and allocation problems. |
+| [Consular NP-Hard Kernel](https://github.com/AAH20/consular-np-hard-kernel) | Appointment allocation, constrained routing, dossier/resource packing, and related consular workflow optimization. |
+| [HFT Microstructure Kernel](https://github.com/AAH20/hft-microstructure-kernel) | Market-microstructure and order-matching simulation with explicit attention to execution constraints; simulation results are not live trading performance. |
+| [Humanoid Swarm Robotics Kernel](https://github.com/AAH20/humanoid-swarm-robotics-kernel) | Optimization models for humanoid motion, multi-robot coordination, and constrained factory logistics. |
+| [Physical AI Governor](https://github.com/AAH20/physical-ai-governor) | Synthetic assurance testbed for physical-AI governance contracts, trajectory checks, and auditable safety evidence. |
+| [Agentic FinTech Kernel](https://github.com/AAH20/agentic-fintech-kernel) | A distinct payment and settlement architecture exploring agent mandates, rail workflows, and transaction invariants; provider integration and certification status belong to the project evidence, not this profile summary. |
+| [Cross-Border PvP Kernel](https://github.com/AAH20/cross-border-pvp-kernel) | Payment-versus-payment workflow and allocation logic for cross-border settlement scenarios. |
+
+### Agent authority, security, and operating platforms
+
+| Project | Individual technical focus |
+|---|---|
+| [GRC Claw](https://github.com/AAH20/GRC_Claw) | Agent policy and evidence control plane that records identity, delegated authority, decisions, approvals, action receipts, control mappings, and provenance. |
+| [AI Agent Identity and Authorization Security Lab](https://github.com/AAH20/ai-agent-identity-authorization-security) | Open conformance tests for agent identity, authorization, MCP permissions, delegated access, workload identity, and accountable actions. |
+| [Agent JIT IAM](https://github.com/AAH20/agent-jit-iam) | Credentialless, workload-bound authorization that brokers narrowly scoped, time-bounded external operations without exposing reusable provider credentials to the agent. |
+| [MCP Gateway Inference Router Kernel](https://github.com/AAH20/mcp-gateway-inference-router-kernel) | Gateway-side schema/context selection and inference routing under tool, latency, cache, and cost constraints. |
+| [Enterprise MCP Firewall](https://github.com/AAH20/enterprise-mcp-firewall) | Security boundary for inspecting and governing MCP tool traffic. |
+| [Play Anything](https://github.com/AAH20/play-anything) | Turns a code repository into an interactive, game-like exploration and learning experience while keeping code understanding as the core activity. |
+| [M&A VDR Diligence OS](https://github.com/AAH20/ma-vdr-diligence-os) | Technical due-diligence workflows and evidence organization for M&A review. |
+| [AIOps Observability Platform](https://github.com/AAH20/aiops-observability-platform) | Observability and incident-analysis tooling for correlating telemetry with operational decisions. |
+| [AI Factory Revenue Twin](https://github.com/AAH20/ai-factory-revenue-twin) | Capacity and unit-economics modeling for GPU and AI-factory infrastructure. |
+
+The [public original-project directory](PORTFOLIO.md) remains the broad catalog, including projects beyond these highlighted systems. Forks are identified separately in GitHub and are not presented here as original work. Use each repository’s own README, tests, benchmark protocol, and limitations to assess implementation depth.
 
 ## Selected implementations and evidence boundaries
 
