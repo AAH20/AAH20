@@ -4,7 +4,17 @@ I build distinct software systems where combinatorial optimization meets operati
 
 **Current maintenance focus:** [GRC Claw](https://github.com/AAH20/GRC_Claw) · [Multi-Cloud Infrastructure Control Loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) · [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin). This names a bounded stewardship focus; it does not collapse the other domains or claim every repository is maintained at the same cadence.
 
-[Sponsor the work](https://github.com/sponsors/AAH20) · [Maintenance record](MAINTENANCE.md) · [Sponsorship program and ten levels](SPONSORSHIP.md) · [Browse every public original repository](PORTFOLIO.md) · [Benchmark protocols](BENCHMARKS.md) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
+[Sponsor the work](https://github.com/sponsors/AAH20) · [Maintenance record](MAINTENANCE.md) · [Sponsorship program and ten levels](SPONSORSHIP.md) · [Browse every public original repository](PORTFOLIO.md) · [Benchmark protocols](BENCHMARKS.md) · [Mentorship guide](MENTORSHIP.md) · [Portfolio data](data/portfolio-index.json) · [LinkedIn](https://www.linkedin.com/in/ahmed-hassan-f11/)
+
+## Choose your path
+
+| If you are here to… | Start with | Next step |
+|---|---|---|
+| Design agentic graph and swarm systems | [Apex Swarm Orchestrator Kernel](https://github.com/AAH20/apex-swarm-orchestrator-kernel) and [Apex MCP Gateway Kernel](https://github.com/AAH20/apex-mcp-gateway-kernel) | Compare each project’s own design and evaluation boundary; use the [benchmark protocols](BENCHMARKS.md) before comparing results. |
+| Review operational controls and reliability | [Multi-Cloud Infrastructure Control Loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) and [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin) | Follow the evidence chain and stated mutation limits in each project README. |
+| Learn, reproduce, or mentor | [GraphRAG NP-Hard Kernel](https://github.com/AAH20/graph-rag-np-hard-kernel) and [Swarm Eval Harness](https://github.com/AAH20/swarm-eval-harness) | Start with the [contributor and mentorship guide](MENTORSHIP.md), then reproduce a documented test or benchmark. |
+
+This navigation shelf is not a maturity ranking. The [machine-readable portfolio index](data/portfolio-index.json) maps every public original repository to a portfolio pillar while leaving implementation assessment to each project’s evidence.
 
 ## What support sustains
 
