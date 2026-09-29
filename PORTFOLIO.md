@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **344 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-09-28. Forks and private repositories are excluded.
+This directory covers **344 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-09-29. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 

@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-28T11:41:05Z",
+  "generated_at_utc": "2026-09-29T11:21:44Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -8,7 +8,7 @@
     "forks": "Sum of current forks_count across public originals."
   },
   "total": 344,
-  "pushed_30d": 283,
+  "pushed_30d": 281,
   "stars": 36,
   "forks": 2,
   "domains": [
@@ -25,7 +25,7 @@
     {
       "name": "GPU, model serving, and AI economics",
       "count": 23,
-      "pushed_30d": 19,
+      "pushed_30d": 18,
       "stars": 1,
       "kpis": [
         "p95 first-token latency (ms)",
@@ -55,7 +55,7 @@
     {
       "name": "Physical AI, robotics, and biometrics",
       "count": 22,
-      "pushed_30d": 20,
+      "pushed_30d": 19,
       "stars": 2,
       "kpis": [
         "Missed unsafe action rate (%)",
