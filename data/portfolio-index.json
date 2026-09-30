@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-09-29T11:21:44Z",
+  "generated_at_utc": "2026-09-30T11:09:51Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
-    "refreshed_on": "2026-09-29",
+    "refreshed_on": "2026-09-30",
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 344,
+  "portfolio_count": 345,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -973,6 +973,16 @@
         "flagship"
       ],
       "evidence_source": "apex-swarm-orchestrator-kernel/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "Apex_ULL",
+      "url": "https://github.com/AAH20/Apex_ULL",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Apex_ULL/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
