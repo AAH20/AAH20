@@ -1,0 +1,25 @@
+name: Portfolio identity and evidence boundaries
+on: [push, pull_request, workflow_dispatch]
+permissions:
+  contents: read
+jobs:
+  validate:
+    runs-on: ubuntu-24.04
+    steps:
+      - uses: actions/checkout@v4
+      - uses: actions/setup-python@v5
+        with:
+          python-version: '3.11'
+      - run: pip install 'jsonschema>=4.22,<5'
+      - run: python -m unittest discover -s tests -v
+      - name: Validate portfolio schema and generated directory
+        run: |
+          python - <<'PYTHON'
+          import json
+          from jsonschema import Draft202012Validator,FormatChecker
+          schema=json.load(open('data/portfolio-index.schema.json'))
+          record=json.load(open('data/portfolio-index.json'))
+          Draft202012Validator(schema,format_checker=FormatChecker()).validate(record)
+          PYTHON
+          python build_portfolio.py
+          git diff --exit-code -- PORTFOLIO.md

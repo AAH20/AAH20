@@ -211,6 +211,7 @@ Each adapter produces normalized control observations, SHA-256 integrity digests
 
 ## How to evaluate the work
 
+- **Low-latency/silicon:** exact workload and clock boundaries, correctness and loss accounting, reproducible host/RTL evidence, qualified hardware and scoped deployment costs.
 - **Commerce:** adjudicated incident precision, review effort, correction observation, and contribution economics.
 - **GPU/model serving:** latency and throughput at fixed quality, concurrency, model revision, and fully allocated cost.
 - **Cloud/network:** unsafe-change escapes, blast-radius prediction, rollback verification, and recovery time.
