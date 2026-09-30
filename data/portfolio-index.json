@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-09-30T11:09:51Z",
+  "generated_at_utc": "2026-09-30T13:27:03Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
@@ -8,7 +8,7 @@
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 345,
+  "portfolio_count": 347,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -976,9 +976,29 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "Apex_PerfAtlas",
+      "url": "https://github.com/AAH20/Apex_PerfAtlas",
+      "pillar": "Low-latency systems and silicon acceleration",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Apex_PerfAtlas/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "Apex_Tick",
+      "url": "https://github.com/AAH20/Apex_Tick",
+      "pillar": "Low-latency systems and silicon acceleration",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Apex_Tick/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "Apex_ULL",
       "url": "https://github.com/AAH20/Apex_ULL",
-      "pillar": "Other original projects",
+      "pillar": "Low-latency systems and silicon acceleration",
       "portfolio_roles": [
         "catalog"
       ],
@@ -3502,6 +3522,76 @@
       "type": "evaluation_traces",
       "status": "candidate",
       "evidence": "README graph and swarm engineering diagram"
+    },
+    {
+      "from": "Apex_ULL",
+      "to": "Apex_PerfAtlas",
+      "type": "native_run_manifest",
+      "status": "implemented",
+      "evidence": "Apex_ULL/scripts/export_atlas_run.py; Apex_PerfAtlas evidence validation; retained host-software run"
+    },
+    {
+      "from": "Apex_Tick",
+      "to": "Apex_PerfAtlas",
+      "type": "simulation_run_manifest",
+      "status": "implemented",
+      "evidence": "Apex_Tick/verification/emit_evidence.py; Apex_PerfAtlas evidence validation; retained RTL simulation run"
+    },
+    {
+      "from": "Apex_ULL",
+      "to": "Apex_Tick",
+      "type": "host_reference_adapter",
+      "status": "candidate",
+      "evidence": "Independent host reference and RTL core; shared live event adapter is not implemented"
+    },
+    {
+      "from": "apex-quant-whale-kernel",
+      "to": "Apex_Tick",
+      "type": "strategy_workload",
+      "status": "candidate",
+      "evidence": "Strategy-to-bounded-event adapter requires a frozen workload and correctness oracle"
+    },
+    {
+      "from": "agentic-fintech-kernel",
+      "to": "Apex_PerfAtlas",
+      "type": "settlement_evidence",
+      "status": "candidate",
+      "evidence": "Domain-specific settlement denominator and authority adapter required"
+    },
+    {
+      "from": "frontier-ai-compiler-kernel",
+      "to": "Apex_PerfAtlas",
+      "type": "compiler_run_manifest",
+      "status": "candidate",
+      "evidence": "Compiler workload and reproducible build adapter required"
+    },
+    {
+      "from": "swarm-eval-harness",
+      "to": "Apex_PerfAtlas",
+      "type": "evaluation_artifacts",
+      "status": "candidate",
+      "evidence": "Trajectory-specific measurement contract required"
+    },
+    {
+      "from": "network-change-intelligence-twin",
+      "to": "Apex_PerfAtlas",
+      "type": "network_inventory",
+      "status": "candidate",
+      "evidence": "Read-only inventory normalization adapter required"
+    },
+    {
+      "from": "GRC_Claw",
+      "to": "Apex_PerfAtlas",
+      "type": "evidence_authority",
+      "status": "candidate",
+      "evidence": "Authority and custody adapter required; Atlas does not authenticate receipts"
+    },
+    {
+      "from": "multicloud-infrastructure-control-loop",
+      "to": "Apex_PerfAtlas",
+      "type": "lab_platform_inventory",
+      "status": "candidate",
+      "evidence": "Lab environment inventory adapter required"
     }
   ]
 }

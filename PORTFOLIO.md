@@ -1,10 +1,18 @@
 # Public original project directory
 
-This directory covers **345 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-09-30. Forks and private repositories are excluded.
+This directory covers **347 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-09-30. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
 [Profile and live portfolio stats](README.md#live-github-portfolio-telemetry) · [Benchmark protocols](BENCHMARKS.md)
+
+## Low-latency systems and silicon acceleration
+
+**3 repositories.** Host systems, bounded RTL execution, and benchmark evidence for low-latency computing and silicon acceleration.
+
+- [Apex_PerfAtlas](https://github.com/AAH20/Apex_PerfAtlas)
+- [Apex_Tick](https://github.com/AAH20/Apex_Tick)
+- [Apex_ULL](https://github.com/AAH20/Apex_ULL)
 
 ## Commerce, revenue, and customer operations
 
@@ -331,14 +339,13 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Other original projects
 
-**57 repositories.**
+**56 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
 - [abliteration-benchmarks](https://github.com/AAH20/abliteration-benchmarks)
 - [adaptive-throttle](https://github.com/AAH20/adaptive-throttle)
 - [airgap-audit-breaker](https://github.com/AAH20/airgap-audit-breaker)
 - [aml-smurf-radar](https://github.com/AAH20/aml-smurf-radar)
-- [Apex_ULL](https://github.com/AAH20/Apex_ULL)
 - [api-beacon-radar](https://github.com/AAH20/api-beacon-radar)
 - [app-fraud-sentinel](https://github.com/AAH20/app-fraud-sentinel)
 - [ast-cadence](https://github.com/AAH20/ast-cadence)

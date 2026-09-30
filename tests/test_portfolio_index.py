@@ -24,7 +24,17 @@ class PortfolioIndexTests(unittest.TestCase):
         for edge in index["relationships"]:
             self.assertIn(edge["from"].lower(), names)
             self.assertIn(edge["to"].lower(), names)
-            self.assertEqual(edge["status"], "candidate")
+            self.assertIn(edge["status"], {"candidate", "implemented"})
+            self.assertTrue(edge["evidence"])
+
+    def test_apex_links_and_positioning(self):
+        index=json.loads((ROOT/"data/portfolio-index.json").read_text())
+        emitted={edge["from"] for edge in index["relationships"] if edge["status"]=="implemented" and edge["to"]=="Apex_PerfAtlas"}
+        self.assertEqual(emitted,{"Apex_ULL","Apex_Tick"})
+        for entry in index["repositories"]:
+            if entry["name"] in {"Apex_ULL","Apex_Tick","Apex_PerfAtlas"}:
+                self.assertEqual(entry["pillar"],"Low-latency systems and silicon acceleration")
+                self.assertEqual(entry["portfolio_roles"],["catalog"])
 
     def test_schema_reference_and_pillar_metadata(self):
         schema = json.loads((ROOT / "data/portfolio-index.schema.json").read_text())

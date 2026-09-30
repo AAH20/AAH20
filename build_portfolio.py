@@ -15,6 +15,7 @@ METRICS = ROOT / "data" / "profile-metrics.json"
 OUTPUT = ROOT / "PORTFOLIO.md"
 
 GROUPS = [
+    ("Low-latency systems and silicon acceleration", r"^apex_(ull|tick|perfatlas)$", "Host systems, bounded RTL execution, and benchmark evidence for low-latency computing and silicon acceleration."),
     ("Commerce, revenue, and customer operations", r"commerce|merchant|order-to-cash|payment-fraud|resolution|liveops|implementation-exchange|agent-hire|entity-continuity|vendor-assurance|trusted-community|auto.?parts|chatflux", "Shopify and merchant operations, order-to-cash reconciliation, customer support automation, and revenue assurance."),
     ("GPU, model serving, and AI economics", r"gpu|inference|nvidia|vllm|llm|runproof|worldops|tensor|kv-compress|green-inference|scale-ai|stream-fusion|neurospark|data-platform|eval-lake", "LLM inference benchmarking, GPU cost estimation, model serving, AI factory capacity, and deployment economics."),
     ("Cloud, platform engineering, and reliability", r"azure|cloud|infrastructure|kubernetes|network|devops|sre|aiops|multicloud|platform|autoprod|millionready|ghost-fork|vibeguard|otforge|fde-bounty|resilience|sap|m-a-technology", "Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering."),

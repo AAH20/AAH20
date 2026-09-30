@@ -1,0 +1,25 @@
+# Apex ecosystem: low-latency systems and silicon acceleration
+
+This lane connects three distinct projects to Ahmed Hassan's wider engineering portfolio. It does not change the ten flagship identities, three-project maintenance focus, or published sponsorship commitments. Each domain owns its workloads, authority, correctness, and business outcomes.
+
+| Project | Technical thesis | Implemented v0.1 boundary | Next acceptance gate |
+|---|---|---|---|
+| [Apex_ULL](https://github.com/AAH20/Apex_ULL) | Reliable native host building blocks | C/C++ queues, order-book and mock feed paths; native software-clock batch evidence exporter; AGPL-3.0-or-later | Real network backend and externally measured workload; no silent simulation |
+| [Apex_Tick](https://github.com/AAH20/Apex_Tick) | Bounded, deterministic event execution in RTL | Eight-instrument, sixteen-pending-slot synthetic core; independent oracle; seeded RTL differential simulation; Apache-2.0 | Protocol/MAC/PHY adapter, target constraints, timing closure, board tests, calibrated external measurements |
+| [Apex_PerfAtlas](https://github.com/AAH20/Apex_PerfAtlas) | Comparable evidence and defensible deployment economics | Hash-bound artifacts, raw latency verification, traffic and rate accounting, comparison gates, public benchmark catalogue, explicit cost assumptions; Apache-2.0 | Qualified real platform adapters, independent custody/verification, licensed benchmark access |
+
+![Apex architecture](assets/profile/apex-ecosystem.svg)
+
+The ULL-to-Atlas interface emits and validates host-software runs. The Tick-to-Atlas interface emits and validates functional RTL-simulation records. These are data-file interfaces, with no AGPL source copied into the Apache projects. Atlas validation checks consistency; it does not authenticate submitters, execute official STAC workloads, or attest to the identified hardware. Retained records include source/build identity and their limitations; independent replay remains part of reviewer acceptance.
+
+Finance and market-microstructure repositories can supply domain-owned strategy fixtures. Graph, compiler, and swarm repositories can propose offline experiments. GPU/model-serving and AI-factory repositories retain their serving and capacity theses while contributing candidate evidence adapters. Network, infrastructure, and datacenter repositories can supply candidate inventories and deployment scenarios. GRC Claw can supply a separate candidate authority/custody adapter. Commerce, marketing, robotics, and decision-science projects keep their domain metrics and can adopt an appropriate evidence contract only after defining their own denominator and correctness standard. These are candidate relationships, not a unified deployed runtime.
+
+## Partner evaluation
+
+A prospective engagement begins with a named workload, counterpart-approved access, frozen baseline, correctness oracle, exact hardware and toolchain, measurement boundaries, and acceptance criteria. A hardware loan or paid evaluation can then fund a specific missing gate: real packet I/O, FPGA timing closure and line-rate replay, fault recovery, instrument calibration, or a licensed benchmark. Benchmark outcomes remain reportable even when a target is missed. Contract value and access to firms such as Exegy depend on counterpart decisions and demonstrated results; no contract or partnership is implied by the OSS release.
+
+[Atlas's evaluation specification](https://github.com/AAH20/Apex_PerfAtlas/blob/main/docs/partner-evaluation.md) separates functional evidence, instrumented measurement, rights, costs, and commercial acceptance. [Tick's release gates](https://github.com/AAH20/Apex_Tick/blob/main/docs/release-gates.md) distinguish simulation, FPGA deployment, and custom silicon. Exact hardware catalogue entries remain sourced design alternatives until a corresponding run is retained. DUV/EUV describes a fabrication capability, not executable commercial-host performance; eFPGA, hybrid and custom-ASIC estimates require qualified IP, PDK, packaging, verification and vendor quotations.
+
+## Evidence discipline
+
+Use the [domain benchmark protocols](BENCHMARKS.md) and [machine-readable portfolio relationships](data/portfolio-index.json). Targets and estimates are separate from measured records. Unquoted costs remain unknown, not zero. Colocation rack access does not imply exchange membership, market-data entitlement, logical port access, or independent certification. Neither repository counts nor sponsorship levels establish adoption, performance, or revenue.

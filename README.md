@@ -1,6 +1,6 @@
 # Ahmed Hassan — Engineering reliable decision systems for complex operations
 
-I build distinct software systems where combinatorial optimization meets operational reality: graph engineering and GraphRAG, agentic swarms and identity, cloud and network control, GPU/model economics, finance, commerce, decision science, and physical AI. Each project keeps its own technical thesis, architecture, evaluation axes, limitations, and evidence boundary. Shared layers connect projects; they do not erase their individual identities.
+I build distinct software systems where combinatorial optimization meets operational reality: graph engineering and GraphRAG, agentic swarms and identity, cloud and network control, GPU/model economics, finance, low-latency systems and silicon acceleration, commerce, decision science, and physical AI. Each project keeps its own technical thesis, architecture, evaluation axes, limitations, and evidence boundary. Shared layers connect projects; they do not erase their individual identities.
 
 **Current maintenance focus:** [GRC Claw](https://github.com/AAH20/GRC_Claw) · [Multi-Cloud Infrastructure Control Loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) · [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin). This names a bounded stewardship focus; it does not collapse the other domains or claim every repository is maintained at the same cadence.
 
@@ -12,6 +12,7 @@ I build distinct software systems where combinatorial optimization meets operati
 |---|---|---|
 | Design agentic graph and swarm systems | [Apex Swarm Orchestrator Kernel](https://github.com/AAH20/apex-swarm-orchestrator-kernel) and [Apex MCP Gateway Kernel](https://github.com/AAH20/apex-mcp-gateway-kernel) | Compare each project’s own design and evaluation boundary; use the [benchmark protocols](BENCHMARKS.md) before comparing results. |
 | Review operational controls and reliability | [Multi-Cloud Infrastructure Control Loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) and [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin) | Follow the evidence chain and stated mutation limits in each project README. |
+| Evaluate low-latency systems and silicon acceleration | [Apex_ULL](https://github.com/AAH20/Apex_ULL), [Apex_Tick](https://github.com/AAH20/Apex_Tick), and [Apex_PerfAtlas](https://github.com/AAH20/Apex_PerfAtlas) | Inspect the [Apex ecosystem evidence and hardware gates](APEX_ECOSYSTEM.md), then reproduce the host or RTL-simulation evidence. |
 | Learn, reproduce, or mentor | [GraphRAG NP-Hard Kernel](https://github.com/AAH20/graph-rag-np-hard-kernel) and [Swarm Eval Harness](https://github.com/AAH20/swarm-eval-harness) | Start with the [contributor and mentorship guide](MENTORSHIP.md), then reproduce a documented test or benchmark. |
 
 This navigation shelf is not a maturity ranking. The [machine-readable portfolio index](data/portfolio-index.json) maps every public original repository to a portfolio pillar while leaving implementation assessment to each project’s evidence.
@@ -115,9 +116,17 @@ flowchart LR
 
 [Benchmark definitions and evidence requirements](BENCHMARKS.md) specify workloads, denominators, and limits. The full [public original-project directory](PORTFOLIO.md) is the catalog; this profile highlights engineering theses and proof boundaries rather than repository counts.
 
+### Low-latency systems and silicon acceleration
+
+These three projects form a dedicated engineering lane while retaining separate responsibilities and licenses. Apex_ULL supplies host foundations and a native evidence emitter; Apex_Tick supplies a bounded synthetic-event RTL core and independent oracle; Apex_PerfAtlas checks retained run evidence and evaluates explicit hardware and cost scenarios. Their two file-based evidence interfaces are implemented. Physical FPGA adapters, exchange integrations, official STAC runs, and ASIC qualification remain separate release gates.
+
+![Apex ecosystem: dark architecture cards](assets/profile/apex-ecosystem.svg)
+
+[Project boundaries, reproducible evidence, and partner evaluation](APEX_ECOSYSTEM.md) · [Editable Mermaid architecture](assets/profile/apex-ecosystem.mmd)
+
 ## Ten flagship systems
 
-These ten projects are the prioritized showcase from the 554-repository inventory. “Flagship” means portfolio priority, not a verified performance ranking, production deployment, or certification. Each keeps its own technical thesis and evidence boundary.
+These ten projects retain their prioritized showcase identities within the [dated public-original inventory](data/public-original-repositories.json). “Flagship” means portfolio priority, not a verified performance ranking, production deployment, or certification. Each keeps its own technical thesis and evidence boundary.
 
 | Project | Distinct problem and technical thesis |
 |---|---|

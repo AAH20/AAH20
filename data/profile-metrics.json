@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-30T11:09:51Z",
+  "generated_at_utc": "2026-09-30T13:27:03Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,11 +7,21 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 345,
-  "pushed_30d": 276,
-  "stars": 37,
+  "total": 347,
+  "pushed_30d": 278,
+  "stars": 38,
   "forks": 2,
   "domains": [
+    {
+      "name": "Low-latency systems and silicon acceleration",
+      "count": 3,
+      "pushed_30d": 3,
+      "stars": 1,
+      "kpis": [
+        "Boundary-defined latency (ns)",
+        "Completed accepted work / second"
+      ]
+    },
     {
       "name": "Commerce, revenue, and customer operations",
       "count": 16,
@@ -84,8 +94,8 @@
     },
     {
       "name": "Other original projects",
-      "count": 57,
-      "pushed_30d": 57,
+      "count": 56,
+      "pushed_30d": 56,
       "stars": 2,
       "kpis": [
         "Project-specific protocol",

@@ -20,6 +20,7 @@ ROOT = Path(__file__).resolve().parents[1]
 ASSETS = ROOT / "assets" / "profile"
 API = "https://api.github.com/users/AAH20/repos?type=owner&per_page=100&page={}"
 DOMAIN_KPIS = {
+    "Low-latency systems and silicon acceleration": ("Boundary-defined latency (ns)", "Completed accepted work / second"),
     "Commerce, revenue, and customer operations": ("Incident precision (%)", "Reviewer minutes / 100 SKUs"),
     "Cloud, platform engineering, and reliability": ("Unsafe-change escape rate (%)", "Verified rollback time (min)"),
     "GPU, model serving, and AI economics": ("p95 first-token latency (ms)", "Cost / 1M accepted tokens (USD)"),
@@ -114,6 +115,19 @@ RELATIONSHIPS = [
     ("agentic-graph-swarm-kernel", "swarm-eval-harness", "evaluation_traces"),
 ]
 
+APEX_RELATIONSHIPS = [
+    ("Apex_ULL", "Apex_PerfAtlas", "native_run_manifest", "implemented", "Apex_ULL/scripts/export_atlas_run.py; Apex_PerfAtlas evidence validation; retained host-software run"),
+    ("Apex_Tick", "Apex_PerfAtlas", "simulation_run_manifest", "implemented", "Apex_Tick/verification/emit_evidence.py; Apex_PerfAtlas evidence validation; retained RTL simulation run"),
+    ("Apex_ULL", "Apex_Tick", "host_reference_adapter", "candidate", "Independent host reference and RTL core; shared live event adapter is not implemented"),
+    ("apex-quant-whale-kernel", "Apex_Tick", "strategy_workload", "candidate", "Strategy-to-bounded-event adapter requires a frozen workload and correctness oracle"),
+    ("agentic-fintech-kernel", "Apex_PerfAtlas", "settlement_evidence", "candidate", "Domain-specific settlement denominator and authority adapter required"),
+    ("frontier-ai-compiler-kernel", "Apex_PerfAtlas", "compiler_run_manifest", "candidate", "Compiler workload and reproducible build adapter required"),
+    ("swarm-eval-harness", "Apex_PerfAtlas", "evaluation_artifacts", "candidate", "Trajectory-specific measurement contract required"),
+    ("network-change-intelligence-twin", "Apex_PerfAtlas", "network_inventory", "candidate", "Read-only inventory normalization adapter required"),
+    ("GRC_Claw", "Apex_PerfAtlas", "evidence_authority", "candidate", "Authority and custody adapter required; Atlas does not authenticate receipts"),
+    ("multicloud-infrastructure-control-loop", "Apex_PerfAtlas", "lab_platform_inventory", "candidate", "Lab environment inventory adapter required"),
+]
+
 
 def portfolio_index(repos: list[dict], summary: dict) -> dict:
     entries = []
@@ -145,6 +159,10 @@ def portfolio_index(repos: list[dict], summary: dict) -> dict:
             "status": "candidate",
             "evidence": "README graph and swarm engineering diagram",
         })
+    for source, target, relation, status, evidence in APEX_RELATIONSHIPS:
+        if source.lower() not in names or target.lower() not in names:
+            raise ValueError(f"Unknown Apex relationship endpoint: {source} -> {target}")
+        links.append({"from": source, "to": target, "type": relation, "status": status, "evidence": evidence})
     return {
         "schema_version": "1.0.0",
         "generated_at_utc": summary["generated_at_utc"],

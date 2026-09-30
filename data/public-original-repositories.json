@@ -480,6 +480,16 @@
     "fork": false
   },
   {
+    "name": "Apex_PerfAtlas",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "Apex_Tick",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "Apex_ULL",
     "public": true,
     "fork": false
