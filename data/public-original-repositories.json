@@ -450,6 +450,21 @@
     "fork": false
   },
   {
+    "name": "apex-critical-infra",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-fintech-markets",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-harness",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-infrastructure-killswitch-kernel",
     "public": true,
     "fork": false
@@ -485,12 +500,42 @@
     "fork": false
   },
   {
+    "name": "Apex_Cyber_Sentinel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "Apex_ISR",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "Apex_JADC2",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "Apex_Omega",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "Apex_Orbital_Sentinel",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "Apex_PerfAtlas",
     "public": true,
     "fork": false
   },
   {
     "name": "Apex_QuantFabric",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "Apex_Resilience_Grid",
     "public": true,
     "fork": false
   },

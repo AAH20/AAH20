@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-10-01T02:13:36Z",
+  "generated_at_utc": "2026-10-01T11:36:58Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
@@ -8,7 +8,7 @@
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 349,
+  "portfolio_count": 358,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -912,6 +912,36 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "apex-critical-infra",
+      "url": "https://github.com/AAH20/apex-critical-infra",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-critical-infra/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-fintech-markets",
+      "url": "https://github.com/AAH20/apex-fintech-markets",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-fintech-markets/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-harness",
+      "url": "https://github.com/AAH20/apex-harness",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-harness/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "apex-infrastructure-killswitch-kernel",
       "url": "https://github.com/AAH20/apex-infrastructure-killswitch-kernel",
       "pillar": "Cloud, platform engineering, and reliability",
@@ -986,6 +1016,56 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "Apex_Cyber_Sentinel",
+      "url": "https://github.com/AAH20/Apex_Cyber_Sentinel",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Apex_Cyber_Sentinel/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "Apex_ISR",
+      "url": "https://github.com/AAH20/Apex_ISR",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Apex_ISR/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "Apex_JADC2",
+      "url": "https://github.com/AAH20/Apex_JADC2",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Apex_JADC2/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "Apex_Omega",
+      "url": "https://github.com/AAH20/Apex_Omega",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Apex_Omega/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "Apex_Orbital_Sentinel",
+      "url": "https://github.com/AAH20/Apex_Orbital_Sentinel",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Apex_Orbital_Sentinel/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "Apex_PerfAtlas",
       "url": "https://github.com/AAH20/Apex_PerfAtlas",
       "pillar": "Low-latency systems and silicon acceleration",
@@ -1003,6 +1083,16 @@
         "catalog"
       ],
       "evidence_source": "Apex_QuantFabric/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "Apex_Resilience_Grid",
+      "url": "https://github.com/AAH20/Apex_Resilience_Grid",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Apex_Resilience_Grid/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {

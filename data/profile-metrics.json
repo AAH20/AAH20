@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01T02:13:36Z",
+  "generated_at_utc": "2026-10-01T11:36:58Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,16 +7,16 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 349,
-  "pushed_30d": 270,
-  "stars": 41,
-  "forks": 2,
+  "total": 358,
+  "pushed_30d": 278,
+  "stars": 51,
+  "forks": 3,
   "domains": [
     {
       "name": "Low-latency systems and silicon acceleration",
       "count": 5,
       "pushed_30d": 5,
-      "stars": 4,
+      "stars": 5,
       "kpis": [
         "Boundary-defined latency (ns)",
         "Completed accepted work / second"
@@ -44,9 +44,9 @@
     },
     {
       "name": "Cloud, platform engineering, and reliability",
-      "count": 55,
+      "count": 56,
       "pushed_30d": 35,
-      "stars": 4,
+      "stars": 5,
       "kpis": [
         "Unsafe-change escape rate (%)",
         "Verified rollback time (min)"
@@ -94,9 +94,9 @@
     },
     {
       "name": "Other original projects",
-      "count": 56,
-      "pushed_30d": 56,
-      "stars": 2,
+      "count": 64,
+      "pushed_30d": 64,
+      "stars": 10,
       "kpis": [
         "Project-specific protocol",
         "Linked source evidence"

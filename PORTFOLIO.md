@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **349 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-01. Forks and private repositories are excluded.
+This directory covers **358 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-01. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -67,7 +67,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Cloud, platform engineering, and reliability
 
-**55 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
+**56 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
 
 - [agentic-ai-infrastructure-data-engine](https://github.com/AAH20/agentic-ai-infrastructure-data-engine)
 - [agentic-cloud-solution-engineering-factory](https://github.com/AAH20/agentic-cloud-solution-engineering-factory)
@@ -84,6 +84,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [ai-native-internal-developer-platform](https://github.com/AAH20/ai-native-internal-developer-platform)
 - [aiops-observability-platform](https://github.com/AAH20/aiops-observability-platform)
 - [apex-infrastructure-killswitch-kernel](https://github.com/AAH20/apex-infrastructure-killswitch-kernel)
+- [Apex_Resilience_Grid](https://github.com/AAH20/Apex_Resilience_Grid)
 - [autonomous-cloud-modernization-factory](https://github.com/AAH20/autonomous-cloud-modernization-factory)
 - [autoprod](https://github.com/AAH20/autoprod)
 - [az104-enterprise-azure-operations-lab](https://github.com/AAH20/az104-enterprise-azure-operations-lab)
@@ -341,13 +342,21 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Other original projects
 
-**56 repositories.**
+**64 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
 - [abliteration-benchmarks](https://github.com/AAH20/abliteration-benchmarks)
 - [adaptive-throttle](https://github.com/AAH20/adaptive-throttle)
 - [airgap-audit-breaker](https://github.com/AAH20/airgap-audit-breaker)
 - [aml-smurf-radar](https://github.com/AAH20/aml-smurf-radar)
+- [apex-critical-infra](https://github.com/AAH20/apex-critical-infra)
+- [apex-fintech-markets](https://github.com/AAH20/apex-fintech-markets)
+- [apex-harness](https://github.com/AAH20/apex-harness)
+- [Apex_Cyber_Sentinel](https://github.com/AAH20/Apex_Cyber_Sentinel)
+- [Apex_ISR](https://github.com/AAH20/Apex_ISR)
+- [Apex_JADC2](https://github.com/AAH20/Apex_JADC2)
+- [Apex_Omega](https://github.com/AAH20/Apex_Omega)
+- [Apex_Orbital_Sentinel](https://github.com/AAH20/Apex_Orbital_Sentinel)
 - [api-beacon-radar](https://github.com/AAH20/api-beacon-radar)
 - [app-fraud-sentinel](https://github.com/AAH20/app-fraud-sentinel)
 - [ast-cadence](https://github.com/AAH20/ast-cadence)
