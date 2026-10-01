@@ -116,6 +116,11 @@ RELATIONSHIPS = [
 ]
 
 APEX_RELATIONSHIPS = [
+    ("Apex_Tick", "Apex_ContractForge", "pinned_independent_reference", "implemented", "Apex_ContractForge/src/apex_forge/reference/provenance.json; pinned Apache-2.0 Tick oracle and RTL checked against generated backends"),
+    ("Apex_ContractForge", "Apex_PerfAtlas", "compiler_simulation_run_manifest", "implemented", "Apex_ContractForge/src/apex_forge/evidence.py; count-only functional simulation export validated by PerfAtlas"),
+    ("frontier-ai-compiler-kernel", "Apex_ContractForge", "optimization_method", "candidate", "Optimization-method adapter requires explicit legality obligations; no general search integration is implemented"),
+    ("ApexGraphSwarm", "Apex_ContractForge", "search_lineage_view", "candidate", "Decision-graph adapter is proposed; current ContractForge emits local manifests and counterexamples"),
+    ("GRC_Claw", "Apex_ContractForge", "release_authority", "candidate", "Off-path release authorization/custody adapter is proposed; no deployed critical-path integration"),
     ("Apex_ULL", "Apex_PerfAtlas", "native_run_manifest", "implemented", "Apex_ULL/scripts/export_atlas_run.py; Apex_PerfAtlas evidence validation; retained host-software run"),
     ("Apex_Tick", "Apex_PerfAtlas", "simulation_run_manifest", "implemented", "Apex_Tick/verification/emit_evidence.py; Apex_PerfAtlas evidence validation; retained RTL simulation run"),
     ("Apex_ULL", "Apex_Tick", "host_reference_adapter", "candidate", "Independent host reference and RTL core; shared live event adapter is not implemented"),

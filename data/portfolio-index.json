@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-09-30T13:27:03Z",
+  "generated_at_utc": "2026-10-01T00:32:52Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
-    "refreshed_on": "2026-09-30",
+    "refreshed_on": "2026-10-01",
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 347,
+  "portfolio_count": 348,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -973,6 +973,16 @@
         "flagship"
       ],
       "evidence_source": "apex-swarm-orchestrator-kernel/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "Apex_ContractForge",
+      "url": "https://github.com/AAH20/Apex_ContractForge",
+      "pillar": "Low-latency systems and silicon acceleration",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Apex_ContractForge/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -3522,6 +3532,41 @@
       "type": "evaluation_traces",
       "status": "candidate",
       "evidence": "README graph and swarm engineering diagram"
+    },
+    {
+      "from": "Apex_Tick",
+      "to": "Apex_ContractForge",
+      "type": "pinned_independent_reference",
+      "status": "implemented",
+      "evidence": "Apex_ContractForge/src/apex_forge/reference/provenance.json; pinned Apache-2.0 Tick oracle and RTL checked against generated backends"
+    },
+    {
+      "from": "Apex_ContractForge",
+      "to": "Apex_PerfAtlas",
+      "type": "compiler_simulation_run_manifest",
+      "status": "implemented",
+      "evidence": "Apex_ContractForge/src/apex_forge/evidence.py; count-only functional simulation export validated by PerfAtlas"
+    },
+    {
+      "from": "frontier-ai-compiler-kernel",
+      "to": "Apex_ContractForge",
+      "type": "optimization_method",
+      "status": "candidate",
+      "evidence": "Optimization-method adapter requires explicit legality obligations; no general search integration is implemented"
+    },
+    {
+      "from": "ApexGraphSwarm",
+      "to": "Apex_ContractForge",
+      "type": "search_lineage_view",
+      "status": "candidate",
+      "evidence": "Decision-graph adapter is proposed; current ContractForge emits local manifests and counterexamples"
+    },
+    {
+      "from": "GRC_Claw",
+      "to": "Apex_ContractForge",
+      "type": "release_authority",
+      "status": "candidate",
+      "evidence": "Off-path release authorization/custody adapter is proposed; no deployed critical-path integration"
     },
     {
       "from": "Apex_ULL",

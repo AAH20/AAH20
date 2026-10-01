@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-09-30T13:27:03Z",
+  "generated_at_utc": "2026-10-01T00:32:52Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,16 +7,16 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 347,
-  "pushed_30d": 278,
-  "stars": 38,
+  "total": 348,
+  "pushed_30d": 272,
+  "stars": 40,
   "forks": 2,
   "domains": [
     {
       "name": "Low-latency systems and silicon acceleration",
-      "count": 3,
-      "pushed_30d": 3,
-      "stars": 1,
+      "count": 4,
+      "pushed_30d": 4,
+      "stars": 3,
       "kpis": [
         "Boundary-defined latency (ns)",
         "Completed accepted work / second"
@@ -25,7 +25,7 @@
     {
       "name": "Commerce, revenue, and customer operations",
       "count": 16,
-      "pushed_30d": 14,
+      "pushed_30d": 13,
       "stars": 0,
       "kpis": [
         "Incident precision (%)",
@@ -35,7 +35,7 @@
     {
       "name": "GPU, model serving, and AI economics",
       "count": 23,
-      "pushed_30d": 15,
+      "pushed_30d": 14,
       "stars": 1,
       "kpis": [
         "p95 first-token latency (ms)",
@@ -45,7 +45,7 @@
     {
       "name": "Cloud, platform engineering, and reliability",
       "count": 55,
-      "pushed_30d": 42,
+      "pushed_30d": 38,
       "stars": 4,
       "kpis": [
         "Unsafe-change escape rate (%)",
@@ -65,7 +65,7 @@
     {
       "name": "Physical AI, robotics, and biometrics",
       "count": 22,
-      "pushed_30d": 19,
+      "pushed_30d": 18,
       "stars": 2,
       "kpis": [
         "Missed unsafe action rate (%)",

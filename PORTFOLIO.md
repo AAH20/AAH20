@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **347 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-09-30. Forks and private repositories are excluded.
+This directory covers **348 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-01. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -8,8 +8,9 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Low-latency systems and silicon acceleration
 
-**3 repositories.** Host systems, bounded RTL execution, and benchmark evidence for low-latency computing and silicon acceleration.
+**4 repositories.** Host systems, bounded RTL execution, contract-driven compilation, and benchmark evidence for low-latency computing and silicon acceleration.
 
+- [Apex_ContractForge](https://github.com/AAH20/Apex_ContractForge)
 - [Apex_PerfAtlas](https://github.com/AAH20/Apex_PerfAtlas)
 - [Apex_Tick](https://github.com/AAH20/Apex_Tick)
 - [Apex_ULL](https://github.com/AAH20/Apex_ULL)

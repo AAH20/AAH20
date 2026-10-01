@@ -12,7 +12,7 @@ I build distinct software systems where combinatorial optimization meets operati
 |---|---|---|
 | Design agentic graph and swarm systems | [Apex Swarm Orchestrator Kernel](https://github.com/AAH20/apex-swarm-orchestrator-kernel) and [Apex MCP Gateway Kernel](https://github.com/AAH20/apex-mcp-gateway-kernel) | Compare each project’s own design and evaluation boundary; use the [benchmark protocols](BENCHMARKS.md) before comparing results. |
 | Review operational controls and reliability | [Multi-Cloud Infrastructure Control Loop](https://github.com/AAH20/multicloud-infrastructure-control-loop) and [Network Change Intelligence Twin](https://github.com/AAH20/network-change-intelligence-twin) | Follow the evidence chain and stated mutation limits in each project README. |
-| Evaluate low-latency systems and silicon acceleration | [Apex_ULL](https://github.com/AAH20/Apex_ULL), [Apex_Tick](https://github.com/AAH20/Apex_Tick), and [Apex_PerfAtlas](https://github.com/AAH20/Apex_PerfAtlas) | Inspect the [Apex ecosystem evidence and hardware gates](APEX_ECOSYSTEM.md), then reproduce the host or RTL-simulation evidence. |
+| Evaluate low-latency systems and silicon acceleration | [Apex_ContractForge](https://github.com/AAH20/Apex_ContractForge), [Apex_ULL](https://github.com/AAH20/Apex_ULL), [Apex_Tick](https://github.com/AAH20/Apex_Tick), and [Apex_PerfAtlas](https://github.com/AAH20/Apex_PerfAtlas) | Inspect the [Apex ecosystem evidence and hardware gates](APEX_ECOSYSTEM.md), then reproduce the compiler qualification, host, or RTL-simulation evidence. |
 | Learn, reproduce, or mentor | [GraphRAG NP-Hard Kernel](https://github.com/AAH20/graph-rag-np-hard-kernel) and [Swarm Eval Harness](https://github.com/AAH20/swarm-eval-harness) | Start with the [contributor and mentorship guide](MENTORSHIP.md), then reproduce a documented test or benchmark. |
 
 This navigation shelf is not a maturity ranking. The [machine-readable portfolio index](data/portfolio-index.json) maps every public original repository to a portfolio pillar while leaving implementation assessment to each project’s evidence.
@@ -118,7 +118,7 @@ flowchart LR
 
 ### Low-latency systems and silicon acceleration
 
-These three projects form a dedicated engineering lane while retaining separate responsibilities and licenses. Apex_ULL supplies host foundations and a native evidence emitter; Apex_Tick supplies a bounded synthetic-event RTL core and independent oracle; Apex_PerfAtlas checks retained run evidence and evaluates explicit hardware and cost scenarios. Their two file-based evidence interfaces are implemented. Physical FPGA adapters, exchange integrations, official STAC runs, and ASIC qualification remain separate release gates.
+These four projects form a dedicated engineering lane while retaining separate responsibilities and licenses. Apex_ContractForge generates and qualifies a frozen Tick-profile C++/RTL implementation with local counter SMT obligations and unsafe-mutation checks; Apex_ULL supplies host foundations and a native evidence emitter; Apex_Tick supplies a bounded synthetic-event RTL core and independent oracle; Apex_PerfAtlas checks retained run evidence and evaluates explicit hardware and cost scenarios. Their three file-based evidence interfaces are implemented. Physical FPGA adapters, exchange integrations, official STAC runs, and ASIC qualification remain separate release gates.
 
 ![Apex ecosystem: dark architecture cards](assets/profile/apex-ecosystem.svg)
 

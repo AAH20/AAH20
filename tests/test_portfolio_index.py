@@ -30,9 +30,9 @@ class PortfolioIndexTests(unittest.TestCase):
     def test_apex_links_and_positioning(self):
         index=json.loads((ROOT/"data/portfolio-index.json").read_text())
         emitted={edge["from"] for edge in index["relationships"] if edge["status"]=="implemented" and edge["to"]=="Apex_PerfAtlas"}
-        self.assertEqual(emitted,{"Apex_ULL","Apex_Tick"})
+        self.assertEqual(emitted,{"Apex_ULL","Apex_Tick","Apex_ContractForge"})
         for entry in index["repositories"]:
-            if entry["name"] in {"Apex_ULL","Apex_Tick","Apex_PerfAtlas"}:
+            if entry["name"] in {"Apex_ULL","Apex_Tick","Apex_PerfAtlas","Apex_ContractForge"}:
                 self.assertEqual(entry["pillar"],"Low-latency systems and silicon acceleration")
                 self.assertEqual(entry["portfolio_roles"],["catalog"])
 

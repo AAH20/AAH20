@@ -480,6 +480,11 @@
     "fork": false
   },
   {
+    "name": "Apex_ContractForge",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "Apex_PerfAtlas",
     "public": true,
     "fork": false
