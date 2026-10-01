@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01T00:32:52Z",
+  "generated_at_utc": "2026-10-01T02:13:36Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,16 +7,16 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 348,
-  "pushed_30d": 272,
-  "stars": 40,
+  "total": 349,
+  "pushed_30d": 270,
+  "stars": 41,
   "forks": 2,
   "domains": [
     {
       "name": "Low-latency systems and silicon acceleration",
-      "count": 4,
-      "pushed_30d": 4,
-      "stars": 3,
+      "count": 5,
+      "pushed_30d": 5,
+      "stars": 4,
       "kpis": [
         "Boundary-defined latency (ns)",
         "Completed accepted work / second"
@@ -45,7 +45,7 @@
     {
       "name": "Cloud, platform engineering, and reliability",
       "count": 55,
-      "pushed_30d": 38,
+      "pushed_30d": 35,
       "stars": 4,
       "kpis": [
         "Unsafe-change escape rate (%)",

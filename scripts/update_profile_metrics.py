@@ -116,6 +116,15 @@ RELATIONSHIPS = [
 ]
 
 APEX_RELATIONSHIPS = [
+    ("apex-quant-whale-kernel", "Apex_QuantFabric", "financial_workload", "candidate", "New domain-owned point-in-time workload adapter; current QuantFabric uses synthetic toy arithmetic"),
+    ("Apex_ContractForge", "Apex_QuantFabric", "bounded_implementation_method", "candidate", "Methodological relationship; no source/proof integration or inherited qualification"),
+    ("Apex_Tick", "Apex_QuantFabric", "streaming_target", "candidate", "New separately qualified RTL profile required; no physical FPGA integration"),
+    ("Apex_ULL", "Apex_QuantFabric", "host_transport", "candidate", "Transport contract and AGPL rights review required; no ULL source bundled"),
+    ("Apex_QuantFabric", "Apex_PerfAtlas", "quant_release_evidence", "candidate", "Compatible numerical, freshness, state and measurement schema adapter required"),
+    ("GRC_Claw", "Apex_QuantFabric", "release_authority", "candidate", "Off-path authorization/receipt adapter required; no per-event agent authority"),
+    ("multicloud-infrastructure-control-loop", "Apex_QuantFabric", "qualification_environment_inventory", "candidate", "Read-only environment identity adapter required"),
+    ("network-change-intelligence-twin", "Apex_QuantFabric", "dependency_change_scenario", "candidate", "Path/topology scenario adapter required; no live NIC qualification"),
+    ("ai-factory-revenue-twin", "Apex_QuantFabric", "allocated_cost_scenario", "candidate", "Measured cost/capacity adapter required; synthetic assumptions are not customer savings"),
     ("Apex_Tick", "Apex_ContractForge", "pinned_independent_reference", "implemented", "Apex_ContractForge/src/apex_forge/reference/provenance.json; pinned Apache-2.0 Tick oracle and RTL checked against generated backends"),
     ("Apex_ContractForge", "Apex_PerfAtlas", "compiler_simulation_run_manifest", "implemented", "Apex_ContractForge/src/apex_forge/evidence.py; count-only functional simulation export validated by PerfAtlas"),
     ("frontier-ai-compiler-kernel", "Apex_ContractForge", "optimization_method", "candidate", "Optimization-method adapter requires explicit legality obligations; no general search integration is implemented"),

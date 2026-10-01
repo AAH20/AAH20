@@ -1,6 +1,6 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-10-01T00:32:52Z",
+  "generated_at_utc": "2026-10-01T02:13:36Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
@@ -8,7 +8,7 @@
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 348,
+  "portfolio_count": 349,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -993,6 +993,16 @@
         "catalog"
       ],
       "evidence_source": "Apex_PerfAtlas/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "Apex_QuantFabric",
+      "url": "https://github.com/AAH20/Apex_QuantFabric",
+      "pillar": "Low-latency systems and silicon acceleration",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Apex_QuantFabric/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -3532,6 +3542,69 @@
       "type": "evaluation_traces",
       "status": "candidate",
       "evidence": "README graph and swarm engineering diagram"
+    },
+    {
+      "from": "apex-quant-whale-kernel",
+      "to": "Apex_QuantFabric",
+      "type": "financial_workload",
+      "status": "candidate",
+      "evidence": "New domain-owned point-in-time workload adapter; current QuantFabric uses synthetic toy arithmetic"
+    },
+    {
+      "from": "Apex_ContractForge",
+      "to": "Apex_QuantFabric",
+      "type": "bounded_implementation_method",
+      "status": "candidate",
+      "evidence": "Methodological relationship; no source/proof integration or inherited qualification"
+    },
+    {
+      "from": "Apex_Tick",
+      "to": "Apex_QuantFabric",
+      "type": "streaming_target",
+      "status": "candidate",
+      "evidence": "New separately qualified RTL profile required; no physical FPGA integration"
+    },
+    {
+      "from": "Apex_ULL",
+      "to": "Apex_QuantFabric",
+      "type": "host_transport",
+      "status": "candidate",
+      "evidence": "Transport contract and AGPL rights review required; no ULL source bundled"
+    },
+    {
+      "from": "Apex_QuantFabric",
+      "to": "Apex_PerfAtlas",
+      "type": "quant_release_evidence",
+      "status": "candidate",
+      "evidence": "Compatible numerical, freshness, state and measurement schema adapter required"
+    },
+    {
+      "from": "GRC_Claw",
+      "to": "Apex_QuantFabric",
+      "type": "release_authority",
+      "status": "candidate",
+      "evidence": "Off-path authorization/receipt adapter required; no per-event agent authority"
+    },
+    {
+      "from": "multicloud-infrastructure-control-loop",
+      "to": "Apex_QuantFabric",
+      "type": "qualification_environment_inventory",
+      "status": "candidate",
+      "evidence": "Read-only environment identity adapter required"
+    },
+    {
+      "from": "network-change-intelligence-twin",
+      "to": "Apex_QuantFabric",
+      "type": "dependency_change_scenario",
+      "status": "candidate",
+      "evidence": "Path/topology scenario adapter required; no live NIC qualification"
+    },
+    {
+      "from": "ai-factory-revenue-twin",
+      "to": "Apex_QuantFabric",
+      "type": "allocated_cost_scenario",
+      "status": "candidate",
+      "evidence": "Measured cost/capacity adapter required; synthetic assumptions are not customer savings"
     },
     {
       "from": "Apex_Tick",
