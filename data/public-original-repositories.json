@@ -485,6 +485,16 @@
     "fork": false
   },
   {
+    "name": "apex-os-business-platform",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-os-iam-pam",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-quant-whale-kernel",
     "public": true,
     "fork": false

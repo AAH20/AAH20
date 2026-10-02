@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-01T11:36:58Z",
+  "generated_at_utc": "2026-10-02T11:06:08Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,9 +7,9 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 358,
-  "pushed_30d": 278,
-  "stars": 51,
+  "total": 360,
+  "pushed_30d": 277,
+  "stars": 56,
   "forks": 3,
   "domains": [
     {
@@ -35,7 +35,7 @@
     {
       "name": "GPU, model serving, and AI economics",
       "count": 23,
-      "pushed_30d": 14,
+      "pushed_30d": 13,
       "stars": 1,
       "kpis": [
         "p95 first-token latency (ms)",
@@ -44,9 +44,9 @@
     },
     {
       "name": "Cloud, platform engineering, and reliability",
-      "count": 56,
-      "pushed_30d": 35,
-      "stars": 5,
+      "count": 57,
+      "pushed_30d": 34,
+      "stars": 6,
       "kpis": [
         "Unsafe-change escape rate (%)",
         "Verified rollback time (min)"
@@ -86,7 +86,7 @@
       "name": "Data, simulation, and decision systems",
       "count": 29,
       "pushed_30d": 22,
-      "stars": 7,
+      "stars": 8,
       "kpis": [
         "Data freshness lag p95 (s)",
         "Decision regret vs baseline (%)"
@@ -94,9 +94,9 @@
     },
     {
       "name": "Other original projects",
-      "count": 64,
-      "pushed_30d": 64,
-      "stars": 10,
+      "count": 65,
+      "pushed_30d": 65,
+      "stars": 13,
       "kpis": [
         "Project-specific protocol",
         "Linked source evidence"
