@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-10-02T11:06:08Z",
+  "generated_at_utc": "2026-10-03T10:24:32Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
-    "refreshed_on": "2026-10-02",
+    "refreshed_on": "2026-10-03",
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 360,
+  "portfolio_count": 363,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -2078,6 +2078,16 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "gated-communities",
+      "url": "https://github.com/AAH20/gated-communities",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "gated-communities/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "generative-plg",
       "url": "https://github.com/AAH20/generative-plg",
       "pillar": "Marketing, audiences, and growth",
@@ -3044,6 +3054,16 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "recruitment-platform",
+      "url": "https://github.com/AAH20/recruitment-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "recruitment-platform/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "robot-black-box",
       "url": "https://github.com/AAH20/robot-black-box",
       "pillar": "Physical AI, robotics, and biometrics",
@@ -3411,6 +3431,16 @@
         "catalog"
       ],
       "evidence_source": "trusted-community-marketplace/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "ugc-marketplace",
+      "url": "https://github.com/AAH20/ugc-marketplace",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "ugc-marketplace/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {

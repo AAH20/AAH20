@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **360 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-02. Forks and private repositories are excluded.
+This directory covers **363 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-03. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -67,7 +67,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Cloud, platform engineering, and reliability
 
-**57 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
+**58 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
 
 - [agentic-ai-infrastructure-data-engine](https://github.com/AAH20/agentic-ai-infrastructure-data-engine)
 - [agentic-cloud-solution-engineering-factory](https://github.com/AAH20/agentic-cloud-solution-engineering-factory)
@@ -123,6 +123,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [network-change-intelligence-twin](https://github.com/AAH20/network-change-intelligence-twin)
 - [opentelemetry-infrastructure-graph-collector](https://github.com/AAH20/opentelemetry-infrastructure-graph-collector)
 - [otforge](https://github.com/AAH20/otforge)
+- [recruitment-platform](https://github.com/AAH20/recruitment-platform)
 - [sap-s4hana-azure-ai-transformation-factory](https://github.com/AAH20/sap-s4hana-azure-ai-transformation-factory)
 - [self-hosted-ai-agent-infrastructure-platform](https://github.com/AAH20/self-hosted-ai-agent-infrastructure-platform)
 - [vibeguard](https://github.com/AAH20/vibeguard)
@@ -343,7 +344,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Other original projects
 
-**65 repositories.**
+**67 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
 - [abliteration-benchmarks](https://github.com/AAH20/abliteration-benchmarks)
@@ -383,6 +384,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [durbin-rail-optimizer](https://github.com/AAH20/durbin-rail-optimizer)
 - [fintech-c2-matrix](https://github.com/AAH20/fintech-c2-matrix)
 - [formal-guard](https://github.com/AAH20/formal-guard)
+- [gated-communities](https://github.com/AAH20/gated-communities)
 - [ghost-desktop](https://github.com/AAH20/ghost-desktop)
 - [ghost-grounding](https://github.com/AAH20/ghost-grounding)
 - [ghost-witness](https://github.com/AAH20/ghost-witness)
@@ -408,5 +410,6 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [thought-flame](https://github.com/AAH20/thought-flame)
 - [tool-foundry](https://github.com/AAH20/tool-foundry)
 - [topological-vision-guard](https://github.com/AAH20/topological-vision-guard)
+- [ugc-marketplace](https://github.com/AAH20/ugc-marketplace)
 - [volumetric-art-gallery-siting](https://github.com/AAH20/volumetric-art-gallery-siting)
 - [workflow-twin](https://github.com/AAH20/workflow-twin)

@@ -1030,6 +1030,11 @@
     "fork": false
   },
   {
+    "name": "gated-communities",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "generative-plg",
     "public": true,
     "fork": false
@@ -1510,6 +1515,11 @@
     "fork": false
   },
   {
+    "name": "recruitment-platform",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "robot-black-box",
     "public": true,
     "fork": false
@@ -1691,6 +1701,11 @@
   },
   {
     "name": "trusted-community-marketplace",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "ugc-marketplace",
     "public": true,
     "fork": false
   },
