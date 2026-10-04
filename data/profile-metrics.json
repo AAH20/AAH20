@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-03T10:24:32Z",
+  "generated_at_utc": "2026-10-04T11:06:18Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,9 +7,9 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 363,
-  "pushed_30d": 279,
-  "stars": 57,
+  "total": 366,
+  "pushed_30d": 345,
+  "stars": 67,
   "forks": 3,
   "domains": [
     {
@@ -25,7 +25,7 @@
     {
       "name": "Commerce, revenue, and customer operations",
       "count": 16,
-      "pushed_30d": 13,
+      "pushed_30d": 16,
       "stars": 0,
       "kpis": [
         "Incident precision (%)",
@@ -35,7 +35,7 @@
     {
       "name": "GPU, model serving, and AI economics",
       "count": 23,
-      "pushed_30d": 13,
+      "pushed_30d": 21,
       "stars": 1,
       "kpis": [
         "p95 first-token latency (ms)",
@@ -45,8 +45,8 @@
     {
       "name": "Cloud, platform engineering, and reliability",
       "count": 58,
-      "pushed_30d": 34,
-      "stars": 6,
+      "pushed_30d": 52,
+      "stars": 7,
       "kpis": [
         "Unsafe-change escape rate (%)",
         "Verified rollback time (min)"
@@ -65,8 +65,8 @@
     {
       "name": "Physical AI, robotics, and biometrics",
       "count": 22,
-      "pushed_30d": 18,
-      "stars": 2,
+      "pushed_30d": 21,
+      "stars": 4,
       "kpis": [
         "Missed unsafe action rate (%)",
         "Evidence loss rate (%)"
@@ -75,8 +75,8 @@
     {
       "name": "AI agents: runtime, security, identity, and governance",
       "count": 121,
-      "pushed_30d": 85,
-      "stars": 22,
+      "pushed_30d": 109,
+      "stars": 23,
       "kpis": [
         "Unauthorized action pass rate (%)",
         "False-denial rate (%)"
@@ -85,8 +85,8 @@
     {
       "name": "Data, simulation, and decision systems",
       "count": 29,
-      "pushed_30d": 22,
-      "stars": 8,
+      "pushed_30d": 29,
+      "stars": 9,
       "kpis": [
         "Data freshness lag p95 (s)",
         "Decision regret vs baseline (%)"
@@ -94,9 +94,9 @@
     },
     {
       "name": "Other original projects",
-      "count": 67,
-      "pushed_30d": 67,
-      "stars": 13,
+      "count": 70,
+      "pushed_30d": 70,
+      "stars": 18,
       "kpis": [
         "Project-specific protocol",
         "Linked source evidence"

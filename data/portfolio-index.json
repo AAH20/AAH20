@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-10-03T10:24:32Z",
+  "generated_at_utc": "2026-10-04T11:06:18Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
-    "refreshed_on": "2026-10-03",
+    "refreshed_on": "2026-10-04",
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 363,
+  "portfolio_count": 366,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -692,6 +692,16 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "agtech-unified",
+      "url": "https://github.com/AAH20/agtech-unified",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "agtech-unified/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "ai-agent-identity-authorization-security",
       "url": "https://github.com/AAH20/ai-agent-identity-authorization-security",
       "pillar": "AI agents: runtime, security, identity, and governance",
@@ -909,6 +919,16 @@
         "catalog"
       ],
       "evidence_source": "aml-smurf-radar/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-autopilot-optimization",
+      "url": "https://github.com/AAH20/apex-autopilot-optimization",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-autopilot-optimization/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -2991,6 +3011,16 @@
         "catalog"
       ],
       "evidence_source": "pqc-enclave/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "precision-health-os",
+      "url": "https://github.com/AAH20/precision-health-os",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "precision-health-os/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {

@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **363 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-03. Forks and private repositories are excluded.
+This directory covers **366 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-04. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -344,13 +344,15 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Other original projects
 
-**67 repositories.**
+**70 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
 - [abliteration-benchmarks](https://github.com/AAH20/abliteration-benchmarks)
 - [adaptive-throttle](https://github.com/AAH20/adaptive-throttle)
+- [agtech-unified](https://github.com/AAH20/agtech-unified)
 - [airgap-audit-breaker](https://github.com/AAH20/airgap-audit-breaker)
 - [aml-smurf-radar](https://github.com/AAH20/aml-smurf-radar)
+- [apex-autopilot-optimization](https://github.com/AAH20/apex-autopilot-optimization)
 - [apex-critical-infra](https://github.com/AAH20/apex-critical-infra)
 - [apex-fintech-markets](https://github.com/AAH20/apex-fintech-markets)
 - [apex-harness](https://github.com/AAH20/apex-harness)
@@ -401,6 +403,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [phased-aperture-orchestrator](https://github.com/AAH20/phased-aperture-orchestrator)
 - [play-anything](https://github.com/AAH20/play-anything)
 - [poly-bench](https://github.com/AAH20/poly-bench)
+- [precision-health-os](https://github.com/AAH20/precision-health-os)
 - [puf-ephemeral-zeroize](https://github.com/AAH20/puf-ephemeral-zeroize)
 - [quantum-pki-fintech-gateway](https://github.com/AAH20/quantum-pki-fintech-gateway)
 - [sovereign-ai-enclave](https://github.com/AAH20/sovereign-ai-enclave)

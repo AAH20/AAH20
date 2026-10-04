@@ -340,6 +340,11 @@
     "fork": false
   },
   {
+    "name": "agtech-unified",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "ai-agent-identity-authorization-security",
     "public": true,
     "fork": false
@@ -446,6 +451,11 @@
   },
   {
     "name": "aml-smurf-radar",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-autopilot-optimization",
     "public": true,
     "fork": false
   },
@@ -1481,6 +1491,11 @@
   },
   {
     "name": "pqc-enclave",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "precision-health-os",
     "public": true,
     "fork": false
   },
