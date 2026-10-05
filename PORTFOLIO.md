@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **366 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-04. Forks and private repositories are excluded.
+This directory covers **368 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-05. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -67,8 +67,9 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Cloud, platform engineering, and reliability
 
-**58 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
+**60 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
 
+- [acquisition-platform-research](https://github.com/AAH20/acquisition-platform-research)
 - [agentic-ai-infrastructure-data-engine](https://github.com/AAH20/agentic-ai-infrastructure-data-engine)
 - [agentic-cloud-solution-engineering-factory](https://github.com/AAH20/agentic-cloud-solution-engineering-factory)
 - [agentic-devops-sre-skill-registry](https://github.com/AAH20/agentic-devops-sre-skill-registry)
@@ -111,6 +112,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [enterprise-ai-integration-platform](https://github.com/AAH20/enterprise-ai-integration-platform)
 - [enterprise-ai-production-control-plane](https://github.com/AAH20/enterprise-ai-production-control-plane)
 - [fde-bounty-snr](https://github.com/AAH20/fde-bounty-snr)
+- [genetic-engineering-platform](https://github.com/AAH20/genetic-engineering-platform)
 - [ghost-fork](https://github.com/AAH20/ghost-fork)
 - [grc-automation-cyber-risk-quantification-platform](https://github.com/AAH20/grc-automation-cyber-risk-quantification-platform)
 - [kubernetes-ai-agent-operator](https://github.com/AAH20/kubernetes-ai-agent-operator)

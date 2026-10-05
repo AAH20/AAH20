@@ -50,6 +50,11 @@
     "fork": false
   },
   {
+    "name": "acquisition-platform-research",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "adaptive-throttle",
     "public": true,
     "fork": false
@@ -1046,6 +1051,11 @@
   },
   {
     "name": "generative-plg",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "genetic-engineering-platform",
     "public": true,
     "fork": false
   },
