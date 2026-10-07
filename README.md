@@ -9,7 +9,7 @@
   <a href="https://a2zsoc.com"><img src="https://img.shields.io/badge/Website-a2zsoc.com-000000?style=flat-square&logo=google-chrome&logoColor=white" alt="Website" /></a>
   <a href="https://www.linkedin.com/in/ahmed-hassan-f11/"><img src="https://img.shields.io/badge/LinkedIn-Ahmed%20Hassan-0A66C2?style=flat-square&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
   <a href="https://github.com/sponsors/AAH20"><img src="https://img.shields.io/badge/Sponsor-GitHub%20Sponsors-EA4AAA?style=flat-square&logo=githubsponsors&logoColor=white" alt="Sponsor" /></a>
-  <a href="mailto:ahmed@a2zsoc.com"><img src="https://img.shields.io/badge/Email-ahmed%40a2zsoc.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
+  <a href="mailto:aah@a2zsoc.com"><img src="https://img.shields.io/badge/Email-aah%40a2zsoc.com-D14836?style=flat-square&logo=gmail&logoColor=white" alt="Email" /></a>
 </p>
 
 ---
@@ -17,7 +17,7 @@
 ### 🌐 Live Portfolio Telemetry
 
 <p align="center">
-  <img src="assets/profile/overview.svg" alt="Public Original Repositories Overview" width="100%" />
+  <img src="https://raw.githubusercontent.com/AAH20/AAH20/main/assets/profile/overview.svg" alt="Public Original Repositories Overview" width="100%" />
 </p>
 
 <p align="center">
@@ -27,10 +27,6 @@
 
 <p align="center">
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=AAH20&theme=tokyonight&hide_border=true" width="98%" alt="Streak Stats" />
-</p>
-
-<p align="center">
-  <img src="https://raw.githubusercontent.com/AAH20/AAH20/output/github-contribution-grid-snake.svg" alt="GitHub Contribution Grid Snake" width="98%" />
 </p>
 
 ---
