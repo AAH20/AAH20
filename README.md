@@ -80,7 +80,7 @@ A comprehensive fleet of institutional financial systems, ultra-low latency trad
 
 ---
 
-## 🧮 Combinatorial NP-Hard Solvers & Mathematical Kernels
+## Combinatorial NP-Hard Solvers & Mathematical Kernels
 
 Zero-dependency, pure Python standard library solvers and mathematical operating kernels executing in microsecond and sub-millisecond latencies:
 
