@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **368 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-06. Forks and private repositories are excluded.
+This directory covers **371 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-07. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -67,7 +67,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Cloud, platform engineering, and reliability
 
-**60 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
+**62 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
 
 - [acquisition-platform-research](https://github.com/AAH20/acquisition-platform-research)
 - [agentic-ai-infrastructure-data-engine](https://github.com/AAH20/agentic-ai-infrastructure-data-engine)
@@ -84,6 +84,8 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [ai-infrastructure-pull-request-reviewer](https://github.com/AAH20/ai-infrastructure-pull-request-reviewer)
 - [ai-native-internal-developer-platform](https://github.com/AAH20/ai-native-internal-developer-platform)
 - [aiops-observability-platform](https://github.com/AAH20/aiops-observability-platform)
+- [apex-autonomous-logistics-platform](https://github.com/AAH20/apex-autonomous-logistics-platform)
+- [apex-fintech-platform](https://github.com/AAH20/apex-fintech-platform)
 - [apex-infrastructure-killswitch-kernel](https://github.com/AAH20/apex-infrastructure-killswitch-kernel)
 - [apex-os-business-platform](https://github.com/AAH20/apex-os-business-platform)
 - [Apex_Resilience_Grid](https://github.com/AAH20/Apex_Resilience_Grid)
@@ -132,8 +134,9 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Marketing, audiences, and growth
 
-**22 repositories.** Marketing measurement, incrementality testing, synthetic audiences, recommendations, customer retention, and growth experiments.
+**23 repositories.** Marketing measurement, incrementality testing, synthetic audiences, recommendations, customer retention, and growth experiments.
 
+- [apex-audience-engine](https://github.com/AAH20/apex-audience-engine)
 - [attentionos-bench](https://github.com/AAH20/attentionos-bench)
 - [audience-swarm-lab](https://github.com/AAH20/audience-swarm-lab)
 - [audience-twin](https://github.com/AAH20/audience-twin)

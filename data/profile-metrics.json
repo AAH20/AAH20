@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-06T12:01:22Z",
+  "generated_at_utc": "2026-10-07T11:46:51Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,9 +7,9 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 368,
-  "pushed_30d": 347,
-  "stars": 71,
+  "total": 371,
+  "pushed_30d": 350,
+  "stars": 76,
   "forks": 4,
   "domains": [
     {
@@ -44,9 +44,9 @@
     },
     {
       "name": "Cloud, platform engineering, and reliability",
-      "count": 60,
-      "pushed_30d": 54,
-      "stars": 11,
+      "count": 62,
+      "pushed_30d": 56,
+      "stars": 13,
       "kpis": [
         "Unsafe-change escape rate (%)",
         "Verified rollback time (min)"
@@ -54,9 +54,9 @@
     },
     {
       "name": "Marketing, audiences, and growth",
-      "count": 22,
-      "pushed_30d": 22,
-      "stars": 0,
+      "count": 23,
+      "pushed_30d": 23,
+      "stars": 1,
       "kpis": [
         "Incremental contribution / $ spent",
         "Experiment CI width (pp)"
@@ -86,7 +86,7 @@
       "name": "Data, simulation, and decision systems",
       "count": 29,
       "pushed_30d": 29,
-      "stars": 9,
+      "stars": 11,
       "kpis": [
         "Data freshness lag p95 (s)",
         "Decision regret vs baseline (%)"

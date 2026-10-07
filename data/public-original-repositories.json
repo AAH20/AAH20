@@ -460,6 +460,16 @@
     "fork": false
   },
   {
+    "name": "apex-audience-engine",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-autonomous-logistics-platform",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-autopilot-optimization",
     "public": true,
     "fork": false
@@ -471,6 +481,11 @@
   },
   {
     "name": "apex-fintech-markets",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-fintech-platform",
     "public": true,
     "fork": false
   },

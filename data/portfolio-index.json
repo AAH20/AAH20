@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-10-06T12:01:22Z",
+  "generated_at_utc": "2026-10-07T11:46:51Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
-    "refreshed_on": "2026-10-06",
+    "refreshed_on": "2026-10-07",
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 368,
+  "portfolio_count": 371,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -932,6 +932,26 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "apex-audience-engine",
+      "url": "https://github.com/AAH20/apex-audience-engine",
+      "pillar": "Marketing, audiences, and growth",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-audience-engine/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-autonomous-logistics-platform",
+      "url": "https://github.com/AAH20/apex-autonomous-logistics-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-autonomous-logistics-platform/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "apex-autopilot-optimization",
       "url": "https://github.com/AAH20/apex-autopilot-optimization",
       "pillar": "Other original projects",
@@ -959,6 +979,16 @@
         "catalog"
       ],
       "evidence_source": "apex-fintech-markets/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-fintech-platform",
+      "url": "https://github.com/AAH20/apex-fintech-platform",
+      "pillar": "Cloud, platform engineering, and reliability",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-fintech-platform/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
