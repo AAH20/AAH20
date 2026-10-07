@@ -46,17 +46,69 @@ The six core systems highlighted below represent deep-tech infrastructure, comma
 
 ---
 
-### ⚡ Sub-Millisecond & Zero-Dependency Fast-Path Kernels
+## 💳 Sovereign FinTech, Banking Rails & Ultra-Low Latency (ULL)
 
-Pure Python 3.10+ standard library kernels operating with zero runtime dependencies:
+A comprehensive fleet of institutional financial systems, ultra-low latency trading cores, ISO 20022 messaging engines, and automated regulatory compliance kernels:
 
-| Fast-Path Kernel | Problem Solved | p50 Latency | Reduction / Metric |
-| :--- | :--- | :---: | :--- |
-| **[apex-token-slasher](https://github.com/AAH20/apex-token-slasher)** | Deterministic Context Compression & Call-Graph Pruner | **1.98 ms** | **75–85% prompt token bill reduction** |
-| **[apex-industrial-solver](https://github.com/AAH20/apex-industrial-solver)** | Operations Research: Two-Phase Simplex, MILP, VRPTW, Job-Shop | **9.67 µs** | **Exact Bland anti-cycling; sub-10µs LP** |
-| **[apex-zero-loop](https://github.com/AAH20/apex-zero-loop)** | Hoare Logic Agent Verification & Infinite Loop Guardrails | **35.45 µs** | **Sub-500µs SAT $\mathrm{wp}(C,Q)$ proof** |
-| **[agent-jailbreak-firewall](https://github.com/AAH20/agent-jailbreak-firewall)** | Semantic WAF & Cognitive Drift Circuit Breaker | **< 1.0 ms** | **OWASP LLM01/07/08 runtime defense** |
-| **[apex-sovereign-launchpad](https://github.com/AAH20/apex-sovereign-launchpad)** | Portfolio Backlink Mesh & 4-Gate Spin-Out Hurdle Engine | **1.22 µs** | **370-node graph cross-pollination** |
+### 1. Ultra-Low Latency (ULL) & Quantitative Systems
+* **[Apex_ULL](https://github.com/AAH20/Apex_ULL)**: Ultra-Low Latency Infrastructure across 106 components (C++20 + Rust), 3,260 tests, sub-microsecond lock-free ring buffers, and zero-copy IPC.
+* **[Apex_Tick](https://github.com/AAH20/Apex_Tick)**: Bounded RTL trading core with independent differential verification and deterministic cycle accounting.
+* **[Apex_QuantFabric](https://github.com/AAH20/Apex_QuantFabric)**: Native financial signal and reservation qualification with independent oracle verification and clock boundary enforcement.
+* **[Apex_Omega](https://github.com/AAH20/Apex_Omega)**: FinTech OS featuring FIX protocol venue handlers, ultra-fast matching engine, and real-time risk controls.
+* **[Apex_ContractForge](https://github.com/AAH20/Apex_ContractForge)**: Bounded tick-profile CPU and RTL compiler with local SMT formal obligations.
+* **[Apex_PerfAtlas](https://github.com/AAH20/Apex_PerfAtlas)**: Performance evidence validation, benchmark-family feasibility, and hardware deployment economics.
+* **[apex-quant-whale-kernel](https://github.com/AAH20/apex-quant-whale-kernel)**: Quantitative Market Maker & Institutional Whale Execution Kernel solving Almgren-Chriss optimal TWAP/VWAP execution.
+* **[hft-microstructure-kernel](https://github.com/AAH20/hft-microstructure-kernel)**: Algorithmic solvers for quantitative high-frequency market making, queue position estimation, and microstructure arbitrage.
+
+### 2. Sovereign Banking, Multi-Rail Settlement & Regulatory Kernels
+* **[agentic-fintech-kernel](https://github.com/AAH20/agentic-fintech-kernel)**: Universal multi-rail execution engine across Visa Direct, Mastercard Send, Stripe, PayPal, Fawry, and ISO 20022 with PCI DSS 4.0 isolation.
+* **[cross-border-pvp-kernel](https://github.com/AAH20/cross-border-pvp-kernel)**: Atomic multi-currency two-phase settlement & BIS Project Nexus ISO 20022 gateway (`camt.050` / `pacs.008`).
+* **[intraday-liquidity-orchestrator](https://github.com/AAH20/intraday-liquidity-orchestrator)**: 24/7/365 real-time rail treasury balancing engine & ISO 20022 cash pooling liquidity sweeper.
+* **[agentic-pci-dss](https://github.com/AAH20/agentic-pci-dss)**: Autonomous continuous compliance & real-time QSA verification engine for PCI DSS v4.0.1.
+* **[durbin-rail-optimizer](https://github.com/AAH20/durbin-rail-optimizer)**: Sub-millisecond least-cost PIN-less debit & interchange router under Federal Reserve Regulation II.
+* **[cfpb-1033-fdx-gateway](https://github.com/AAH20/cfpb-1033-fdx-gateway)**: Open Banking Financial Data Exchange (FDX) API gateway enforcing CFPB 1033 regulatory mandates.
+* **[mica-stablecoin-reserve-auditor](https://github.com/AAH20/mica-stablecoin-reserve-auditor)**: Real-time proof-of-reserve & JIT liquidity stress tester enforcing EU MiCA regulations.
+* **[app-fraud-sentinel](https://github.com/AAH20/app-fraud-sentinel)**: Real-time Confirmation of Payee (CoP) phonetic pairing, mule velocity detection, and APP scam interceptor.
+* **[ofac-sanctions-graph-sentinel](https://github.com/AAH20/ofac-sanctions-graph-sentinel)**: Sub-millisecond ISO 20022 sanctions & PEP resolver eliminating 99.2% of false positives.
+* **[cross-rail-contagion-sentinel](https://github.com/AAH20/cross-rail-contagion-sentinel)**: Real-time cross-rail liquidity drain correlation engine (ACH float to FedNow/RTP).
+* **[nacha-return-risk-oracle](https://github.com/AAH20/nacha-return-risk-oracle)**: Sub-second ACH return (`R01`/`R10`) predictor & micro-deposit risk oracle.
+* **[autonomous-spend-guard](https://github.com/AAH20/autonomous-spend-guard)**: JIT programmatic virtual card issuing & cryptographic intent-bounded spend policy kernel.
+* **[instant-ewa-liquidity-kernel](https://github.com/AAH20/instant-ewa-liquidity-kernel)**: Real-time Earned Wage Access (EWA) gross-to-net payroll streamer & liquidity sizing engine.
+* **[surcharge-matrix-sentinel](https://github.com/AAH20/surcharge-matrix-sentinel)**: Sub-millisecond debit/credit surcharge & dual-pricing legal compliance arbiter.
+* **[quantum-pki-fintech-gateway](https://github.com/AAH20/quantum-pki-fintech-gateway)**: Post-quantum cryptographic payment gateway & 128-byte POS buffer compactor.
+* **[agent-escrow](https://github.com/AAH20/agent-escrow)**: Multi-signature programmable conditional escrow with cryptographic receipt arbitration.
+
+---
+
+## 🧮 Combinatorial NP-Hard Solvers & Mathematical Kernels
+
+Zero-dependency, pure Python standard library solvers and mathematical operating kernels executing in microsecond and sub-millisecond latencies:
+
+### 1. Industrial Operations Research & Exact Solvers
+* **[apex-industrial-solver](https://github.com/AAH20/apex-industrial-solver)**: Zero-dependency Operations Research suite: Two-Phase Simplex (**9.67 µs**), Branch-and-Bound MILP (**98.68 µs**), VRPTW, Job-Shop Scheduling, and 3D Bin Packing.
+* **[geospatial-np-hard-kernel](https://github.com/AAH20/geospatial-np-hard-kernel)**: Solvers for GIS & logistics: Capacitated Vehicle Routing (CVRP), $p$-Median facility siting, and Euclidean TSP.
+* **[datacenter-np-hard-kernel](https://github.com/AAH20/datacenter-np-hard-kernel)**: Combinatorial solvers for distributed data centers: thermal-aware multi-dimensional VM bin packing and power allocation.
+* **[tier1-isp-np-hard-kernel](https://github.com/AAH20/tier1-isp-np-hard-kernel)**: Solvers for Tier-1 ISPs: optical spectrum allocation, max-flow multi-commodity BGP traffic engineering.
+* **[leo-satellite-constellation-kernel](https://github.com/AAH20/leo-satellite-constellation-kernel)**: LEO megaconstellation laser cross-link (ISL) topology optimization and multi-hop Doppler routing.
+* **[graph-rag-np-hard-kernel](https://github.com/AAH20/graph-rag-np-hard-kernel)**: Mathematical substrate for GraphRAG: submodular knowledge coverage, maximum vertex cut, and multi-hop retrieval.
+* **[consular-np-hard-kernel](https://github.com/AAH20/consular-np-hard-kernel)**: Consular visa appointment allocation via bipartite stable marriage with strict jurisdictional quotas.
+* **[smart-grid-fusion-vpp-kernel](https://github.com/AAH20/smart-grid-fusion-vpp-kernel)**: Virtual Power Plant (VPP) N-1 security-constrained unit commitment (SCUC) and optimal power flow.
+* **[autonomous-cyber-defense-kernel](https://github.com/AAH20/autonomous-cyber-defense-kernel)**: Minimum multi-cut network isolation and lateral movement containment on attack graphs.
+* **[distributed-track-fusion-kernel](https://github.com/AAH20/distributed-track-fusion-kernel)**: Dual-use decentralized Covariance Intersection (CI) & collaborative multi-sensor target tracking.
+* **[combinatorial-salvo-allocator](https://github.com/AAH20/combinatorial-salvo-allocator)**: Dual-use Dynamic Weapon-Target Assignment (D-WTA) and industrial SMT pick-and-place optimization.
+* **[agentic-np-hard-kernel](https://github.com/AAH20/agentic-np-hard-kernel)**: Deterministic operating engine for the 10 apex NP-hard bottlenecks in agentic workflows.
+
+### 2. Frontier AI, Compilers & Swarm Optimization Kernels
+* **[apex-token-slasher](https://github.com/AAH20/apex-token-slasher)**: Submodular knapsack prompt optimization under token ceilings and AST dependency pruning (**1.98 ms**, **75–85% token reduction**).
+* **[apex-zero-loop](https://github.com/AAH20/apex-zero-loop)**: Hoare logic weakest precondition $\mathrm{wp}(C,Q)$ SAT calculus and Tarjan SCC cycle breaker (**35.45 µs**).
+* **[apex-infrastructure-killswitch-kernel](https://github.com/AAH20/apex-infrastructure-killswitch-kernel)**: Kill-switch orchestrator solving dependency cascade isolation cuts across infrastructure DAGs.
+* **[apex-mcp-gateway-kernel](https://github.com/AAH20/apex-mcp-gateway-kernel)**: Radix prefix-cache routing & multi-tenant context packing knapsack for Model Context Protocol (MCP).
+* **[spatial-intelligence-3dgs-kernel](https://github.com/AAH20/spatial-intelligence-3dgs-kernel)**: 3D Gaussian Splatting trajectory planning and visibility coverage optimization.
+* **[frontier-ai-compiler-kernel](https://github.com/AAH20/frontier-ai-compiler-kernel)**: Polyhedral compilers and Megatron-LM 4D parallelism (TP/PP/DP/EP) tensor slicing optimization.
+* **[humanoid-swarm-robotics-kernel](https://github.com/AAH20/humanoid-swarm-robotics-kernel)**: Whole-body kinematics, centroidal momentum balance, and Quadratic Programming (QP).
+* **[gigawatt-ride-through-amm-kernel](https://github.com/AAH20/gigawatt-ride-through-amm-kernel)**: Datacenter ride-through automated market maker (AMM) & thermal energy storage arbitrage.
+* **[mirofish-swarm-optimizer](https://github.com/AAH20/mirofish-swarm-optimizer)**: Agentic Monte Carlo convergence solvers and swarm intelligence optimization.
+* **[agent-dag-lock](https://github.com/AAH20/agent-dag-lock)**: Sub-millisecond deterministic topological cycle breaker & distributed deadlock resolver.
 
 ---
 
