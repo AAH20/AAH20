@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-10-07T11:46:51Z",
+  "generated_at_utc": "2026-10-08T12:01:30Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
-    "refreshed_on": "2026-10-07",
+    "refreshed_on": "2026-10-08",
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 371,
+  "portfolio_count": 378,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -972,6 +972,16 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "apex-deepagents-matrix",
+      "url": "https://github.com/AAH20/apex-deepagents-matrix",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-deepagents-matrix/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "apex-fintech-markets",
       "url": "https://github.com/AAH20/apex-fintech-markets",
       "pillar": "Other original projects",
@@ -999,6 +1009,16 @@
         "catalog"
       ],
       "evidence_source": "apex-harness/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-industrial-solver",
+      "url": "https://github.com/AAH20/apex-industrial-solver",
+      "pillar": "Physical AI, robotics, and biometrics",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-industrial-solver/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -1075,6 +1095,16 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "apex-sovereign-launchpad",
+      "url": "https://github.com/AAH20/apex-sovereign-launchpad",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-sovereign-launchpad/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "apex-swarm-orchestrator-kernel",
       "url": "https://github.com/AAH20/apex-swarm-orchestrator-kernel",
       "pillar": "AI agents: runtime, security, identity, and governance",
@@ -1083,6 +1113,26 @@
         "flagship"
       ],
       "evidence_source": "apex-swarm-orchestrator-kernel/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-token-slasher",
+      "url": "https://github.com/AAH20/apex-token-slasher",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-token-slasher/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-zero-loop",
+      "url": "https://github.com/AAH20/apex-zero-loop",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-zero-loop/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -1103,6 +1153,16 @@
         "catalog"
       ],
       "evidence_source": "Apex_Cyber_Sentinel/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "Apex_FDE_Matrix",
+      "url": "https://github.com/AAH20/Apex_FDE_Matrix",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "Apex_FDE_Matrix/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -2367,6 +2427,16 @@
         "catalog"
       ],
       "evidence_source": "growth-syndicate/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "hermes-matrix-adapter",
+      "url": "https://github.com/AAH20/hermes-matrix-adapter",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "hermes-matrix-adapter/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {

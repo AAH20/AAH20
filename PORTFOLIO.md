@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **371 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-07. Forks and private repositories are excluded.
+This directory covers **378 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-08. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -162,12 +162,13 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Physical AI, robotics, and biometrics
 
-**22 repositories.** Robot evaluation, physical AI black boxes, digital twins, biometric privacy, and industrial simulation.
+**23 repositories.** Robot evaluation, physical AI black boxes, digital twins, biometric privacy, and industrial simulation.
 
 - [aegis-fleet](https://github.com/AAH20/aegis-fleet)
 - [Aegis-IEEE11073-Scanner](https://github.com/AAH20/Aegis-IEEE11073-Scanner)
 - [Aegis-Neuro-Biometric-Simulator](https://github.com/AAH20/Aegis-Neuro-Biometric-Simulator)
 - [agentic-industrial-delivery-fabric](https://github.com/AAH20/agentic-industrial-delivery-fabric)
+- [apex-industrial-solver](https://github.com/AAH20/apex-industrial-solver)
 - [biophysical-assurance-commons](https://github.com/AAH20/biophysical-assurance-commons)
 - [chrono-twin](https://github.com/AAH20/chrono-twin)
 - [cyborg-bench](https://github.com/AAH20/cyborg-bench)
@@ -189,7 +190,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## AI agents: runtime, security, identity, and governance
 
-**121 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
+**122 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
 
 - [a2z-agent-app-factory](https://github.com/AAH20/a2z-agent-app-factory)
 - [AAH_PostQuantum_Cryptography](https://github.com/AAH20/AAH_PostQuantum_Cryptography)
@@ -248,6 +249,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [ai-governance-evidence-graph](https://github.com/AAH20/ai-governance-evidence-graph)
 - [ai-grc-automation-benchmark](https://github.com/AAH20/ai-grc-automation-benchmark)
 - [ai-security-posture-management](https://github.com/AAH20/ai-security-posture-management)
+- [apex-deepagents-matrix](https://github.com/AAH20/apex-deepagents-matrix)
 - [apex-kernel-mesh](https://github.com/AAH20/apex-kernel-mesh)
 - [apex-mcp-foundry](https://github.com/AAH20/apex-mcp-foundry)
 - [apex-mcp-gateway-kernel](https://github.com/AAH20/apex-mcp-gateway-kernel)
@@ -349,7 +351,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Other original projects
 
-**70 repositories.**
+**75 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
 - [abliteration-benchmarks](https://github.com/AAH20/abliteration-benchmarks)
@@ -362,7 +364,11 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [apex-fintech-markets](https://github.com/AAH20/apex-fintech-markets)
 - [apex-harness](https://github.com/AAH20/apex-harness)
 - [apex-os-iam-pam](https://github.com/AAH20/apex-os-iam-pam)
+- [apex-sovereign-launchpad](https://github.com/AAH20/apex-sovereign-launchpad)
+- [apex-token-slasher](https://github.com/AAH20/apex-token-slasher)
+- [apex-zero-loop](https://github.com/AAH20/apex-zero-loop)
 - [Apex_Cyber_Sentinel](https://github.com/AAH20/Apex_Cyber_Sentinel)
+- [Apex_FDE_Matrix](https://github.com/AAH20/Apex_FDE_Matrix)
 - [Apex_ISR](https://github.com/AAH20/Apex_ISR)
 - [Apex_JADC2](https://github.com/AAH20/Apex_JADC2)
 - [Apex_Omega](https://github.com/AAH20/Apex_Omega)
@@ -396,6 +402,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [ghost-grounding](https://github.com/AAH20/ghost-grounding)
 - [ghost-witness](https://github.com/AAH20/ghost-witness)
 - [git-arbiter](https://github.com/AAH20/git-arbiter)
+- [hermes-matrix-adapter](https://github.com/AAH20/hermes-matrix-adapter)
 - [intraday-liquidity-orchestrator](https://github.com/AAH20/intraday-liquidity-orchestrator)
 - [mem-quarantine](https://github.com/AAH20/mem-quarantine)
 - [meta-synthesizer](https://github.com/AAH20/meta-synthesizer)

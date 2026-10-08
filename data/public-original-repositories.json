@@ -480,6 +480,11 @@
     "fork": false
   },
   {
+    "name": "apex-deepagents-matrix",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-fintech-markets",
     "public": true,
     "fork": false
@@ -491,6 +496,11 @@
   },
   {
     "name": "apex-harness",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-industrial-solver",
     "public": true,
     "fork": false
   },
@@ -530,7 +540,22 @@
     "fork": false
   },
   {
+    "name": "apex-sovereign-launchpad",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-swarm-orchestrator-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-token-slasher",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-zero-loop",
     "public": true,
     "fork": false
   },
@@ -541,6 +566,11 @@
   },
   {
     "name": "Apex_Cyber_Sentinel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "Apex_FDE_Matrix",
     "public": true,
     "fork": false
   },
@@ -1171,6 +1201,11 @@
   },
   {
     "name": "growth-syndicate",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "hermes-matrix-adapter",
     "public": true,
     "fork": false
   },
