@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-10-08T12:01:30Z",
+  "generated_at_utc": "2026-10-09T11:53:31Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
-    "refreshed_on": "2026-10-08",
+    "refreshed_on": "2026-10-09",
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 378,
+  "portfolio_count": 384,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -31,6 +31,26 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "a2z-agent-top",
+      "url": "https://github.com/AAH20/a2z-agent-top",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "a2z-agent-top/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "a2z-agentic-hypervisor",
+      "url": "https://github.com/AAH20/a2z-agentic-hypervisor",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "a2z-agentic-hypervisor/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "a2z-commerce-cash-control",
       "url": "https://github.com/AAH20/a2z-commerce-cash-control",
       "pillar": "Commerce, revenue, and customer operations",
@@ -38,6 +58,16 @@
         "catalog"
       ],
       "evidence_source": "a2z-commerce-cash-control/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "a2z-ghost-kernel",
+      "url": "https://github.com/AAH20/a2z-ghost-kernel",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "a2z-ghost-kernel/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -1012,6 +1042,16 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "apex-hivemind",
+      "url": "https://github.com/AAH20/apex-hivemind",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-hivemind/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "apex-industrial-solver",
       "url": "https://github.com/AAH20/apex-industrial-solver",
       "pillar": "Physical AI, robotics, and biometrics",
@@ -1061,6 +1101,16 @@
         "flagship"
       ],
       "evidence_source": "apex-mcp-gateway-kernel/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-omniswarm",
+      "url": "https://github.com/AAH20/apex-omniswarm",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-omniswarm/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -1123,6 +1173,16 @@
         "catalog"
       ],
       "evidence_source": "apex-token-slasher/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-vdr-swarm",
+      "url": "https://github.com/AAH20/apex-vdr-swarm",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-vdr-swarm/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {

@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **378 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-08. Forks and private repositories are excluded.
+This directory covers **384 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-09. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -190,9 +190,12 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## AI agents: runtime, security, identity, and governance
 
-**122 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
+**126 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
 
 - [a2z-agent-app-factory](https://github.com/AAH20/a2z-agent-app-factory)
+- [a2z-agent-top](https://github.com/AAH20/a2z-agent-top)
+- [a2z-agentic-hypervisor](https://github.com/AAH20/a2z-agentic-hypervisor)
+- [a2z-ghost-kernel](https://github.com/AAH20/a2z-ghost-kernel)
 - [AAH_PostQuantum_Cryptography](https://github.com/AAH20/AAH_PostQuantum_Cryptography)
 - [adversarial-nexus](https://github.com/AAH20/adversarial-nexus)
 - [aegis-decision-fabric](https://github.com/AAH20/aegis-decision-fabric)
@@ -255,6 +258,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [apex-mcp-gateway-kernel](https://github.com/AAH20/apex-mcp-gateway-kernel)
 - [apex-quant-whale-kernel](https://github.com/AAH20/apex-quant-whale-kernel)
 - [apex-swarm-orchestrator-kernel](https://github.com/AAH20/apex-swarm-orchestrator-kernel)
+- [apex-vdr-swarm](https://github.com/AAH20/apex-vdr-swarm)
 - [arena-redteam](https://github.com/AAH20/arena-redteam)
 - [autonomous-cyber-defense-kernel](https://github.com/AAH20/autonomous-cyber-defense-kernel)
 - [bft-agent-consensus](https://github.com/AAH20/bft-agent-consensus)
@@ -317,8 +321,9 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Data, simulation, and decision systems
 
-**29 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
+**30 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
 
+- [apex-omniswarm](https://github.com/AAH20/apex-omniswarm)
 - [ApexGraphSwarm](https://github.com/AAH20/ApexGraphSwarm)
 - [ax-context-gateway](https://github.com/AAH20/ax-context-gateway)
 - [byzantine-swarm-sentinel](https://github.com/AAH20/byzantine-swarm-sentinel)
@@ -351,7 +356,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Other original projects
 
-**75 repositories.**
+**76 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
 - [abliteration-benchmarks](https://github.com/AAH20/abliteration-benchmarks)
@@ -363,6 +368,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [apex-critical-infra](https://github.com/AAH20/apex-critical-infra)
 - [apex-fintech-markets](https://github.com/AAH20/apex-fintech-markets)
 - [apex-harness](https://github.com/AAH20/apex-harness)
+- [apex-hivemind](https://github.com/AAH20/apex-hivemind)
 - [apex-os-iam-pam](https://github.com/AAH20/apex-os-iam-pam)
 - [apex-sovereign-launchpad](https://github.com/AAH20/apex-sovereign-launchpad)
 - [apex-token-slasher](https://github.com/AAH20/apex-token-slasher)

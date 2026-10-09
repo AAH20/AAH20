@@ -10,7 +10,22 @@
     "fork": false
   },
   {
+    "name": "a2z-agent-top",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "a2z-agentic-hypervisor",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "a2z-commerce-cash-control",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "a2z-ghost-kernel",
     "public": true,
     "fork": false
   },
@@ -500,6 +515,11 @@
     "fork": false
   },
   {
+    "name": "apex-hivemind",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-industrial-solver",
     "public": true,
     "fork": false
@@ -521,6 +541,11 @@
   },
   {
     "name": "apex-mcp-gateway-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-omniswarm",
     "public": true,
     "fork": false
   },
@@ -551,6 +576,11 @@
   },
   {
     "name": "apex-token-slasher",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-vdr-swarm",
     "public": true,
     "fork": false
   },
