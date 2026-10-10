@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **384 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-09. Forks and private repositories are excluded.
+This directory covers **386 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-10. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -190,7 +190,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## AI agents: runtime, security, identity, and governance
 
-**126 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
+**127 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
 
 - [a2z-agent-app-factory](https://github.com/AAH20/a2z-agent-app-factory)
 - [a2z-agent-top](https://github.com/AAH20/a2z-agent-top)
@@ -252,6 +252,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [ai-governance-evidence-graph](https://github.com/AAH20/ai-governance-evidence-graph)
 - [ai-grc-automation-benchmark](https://github.com/AAH20/ai-grc-automation-benchmark)
 - [ai-security-posture-management](https://github.com/AAH20/ai-security-posture-management)
+- [apex-agentic-memory](https://github.com/AAH20/apex-agentic-memory)
 - [apex-deepagents-matrix](https://github.com/AAH20/apex-deepagents-matrix)
 - [apex-kernel-mesh](https://github.com/AAH20/apex-kernel-mesh)
 - [apex-mcp-foundry](https://github.com/AAH20/apex-mcp-foundry)
@@ -321,8 +322,9 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Data, simulation, and decision systems
 
-**30 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
+**31 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
 
+- [apex-decisioncore](https://github.com/AAH20/apex-decisioncore)
 - [apex-omniswarm](https://github.com/AAH20/apex-omniswarm)
 - [ApexGraphSwarm](https://github.com/AAH20/ApexGraphSwarm)
 - [ax-context-gateway](https://github.com/AAH20/ax-context-gateway)

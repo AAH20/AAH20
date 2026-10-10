@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-09T11:53:31Z",
+  "generated_at_utc": "2026-10-10T11:10:28Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,10 +7,10 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 384,
-  "pushed_30d": 374,
-  "stars": 91,
-  "forks": 4,
+  "total": 386,
+  "pushed_30d": 376,
+  "stars": 96,
+  "forks": 5,
   "domains": [
     {
       "name": "Low-latency systems and silicon acceleration",
@@ -46,7 +46,7 @@
       "name": "Cloud, platform engineering, and reliability",
       "count": 62,
       "pushed_30d": 57,
-      "stars": 13,
+      "stars": 14,
       "kpis": [
         "Unsafe-change escape rate (%)",
         "Verified rollback time (min)"
@@ -66,7 +66,7 @@
       "name": "Physical AI, robotics, and biometrics",
       "count": 23,
       "pushed_30d": 22,
-      "stars": 5,
+      "stars": 7,
       "kpis": [
         "Missed unsafe action rate (%)",
         "Evidence loss rate (%)"
@@ -74,9 +74,9 @@
     },
     {
       "name": "AI agents: runtime, security, identity, and governance",
-      "count": 126,
-      "pushed_30d": 124,
-      "stars": 29,
+      "count": 127,
+      "pushed_30d": 125,
+      "stars": 30,
       "kpis": [
         "Unauthorized action pass rate (%)",
         "False-denial rate (%)"
@@ -84,9 +84,9 @@
     },
     {
       "name": "Data, simulation, and decision systems",
-      "count": 30,
-      "pushed_30d": 30,
-      "stars": 13,
+      "count": 31,
+      "pushed_30d": 31,
+      "stars": 14,
       "kpis": [
         "Data freshness lag p95 (s)",
         "Decision regret vs baseline (%)"

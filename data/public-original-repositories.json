@@ -475,6 +475,11 @@
     "fork": false
   },
   {
+    "name": "apex-agentic-memory",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-audience-engine",
     "public": true,
     "fork": false
@@ -491,6 +496,11 @@
   },
   {
     "name": "apex-critical-infra",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-decisioncore",
     "public": true,
     "fork": false
   },
