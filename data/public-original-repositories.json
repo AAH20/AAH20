@@ -495,6 +495,16 @@
     "fork": false
   },
   {
+    "name": "apex-capitalmatrix",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-contextfabric",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-critical-infra",
     "public": true,
     "fork": false
@@ -520,12 +530,22 @@
     "fork": false
   },
   {
+    "name": "apex-firmware",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-harness",
     "public": true,
     "fork": false
   },
   {
     "name": "apex-hivemind",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-hypergate",
     "public": true,
     "fork": false
   },
@@ -575,7 +595,22 @@
     "fork": false
   },
   {
+    "name": "apex-rig",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-sovereign-launchpad",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-specagent",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-specmoe",
     "public": true,
     "fork": false
   },
@@ -586,6 +621,11 @@
   },
   {
     "name": "apex-token-slasher",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-treecompute",
     "public": true,
     "fork": false
   },

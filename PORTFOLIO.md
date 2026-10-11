@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **386 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-10. Forks and private repositories are excluded.
+This directory covers **394 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-11. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -190,7 +190,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## AI agents: runtime, security, identity, and governance
 
-**127 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
+**128 repositories.** AI agent security, MCP testing, authorization, observability, evaluation, identity, and governance evidence.
 
 - [a2z-agent-app-factory](https://github.com/AAH20/a2z-agent-app-factory)
 - [a2z-agent-top](https://github.com/AAH20/a2z-agent-top)
@@ -258,6 +258,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [apex-mcp-foundry](https://github.com/AAH20/apex-mcp-foundry)
 - [apex-mcp-gateway-kernel](https://github.com/AAH20/apex-mcp-gateway-kernel)
 - [apex-quant-whale-kernel](https://github.com/AAH20/apex-quant-whale-kernel)
+- [apex-specagent](https://github.com/AAH20/apex-specagent)
 - [apex-swarm-orchestrator-kernel](https://github.com/AAH20/apex-swarm-orchestrator-kernel)
 - [apex-vdr-swarm](https://github.com/AAH20/apex-vdr-swarm)
 - [arena-redteam](https://github.com/AAH20/arena-redteam)
@@ -322,9 +323,11 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Data, simulation, and decision systems
 
-**31 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
+**33 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
 
+- [apex-contextfabric](https://github.com/AAH20/apex-contextfabric)
 - [apex-decisioncore](https://github.com/AAH20/apex-decisioncore)
+- [apex-hypergate](https://github.com/AAH20/apex-hypergate)
 - [apex-omniswarm](https://github.com/AAH20/apex-omniswarm)
 - [ApexGraphSwarm](https://github.com/AAH20/ApexGraphSwarm)
 - [ax-context-gateway](https://github.com/AAH20/ax-context-gateway)
@@ -358,7 +361,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Other original projects
 
-**76 repositories.**
+**81 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
 - [abliteration-benchmarks](https://github.com/AAH20/abliteration-benchmarks)
@@ -367,13 +370,18 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [airgap-audit-breaker](https://github.com/AAH20/airgap-audit-breaker)
 - [aml-smurf-radar](https://github.com/AAH20/aml-smurf-radar)
 - [apex-autopilot-optimization](https://github.com/AAH20/apex-autopilot-optimization)
+- [apex-capitalmatrix](https://github.com/AAH20/apex-capitalmatrix)
 - [apex-critical-infra](https://github.com/AAH20/apex-critical-infra)
 - [apex-fintech-markets](https://github.com/AAH20/apex-fintech-markets)
+- [apex-firmware](https://github.com/AAH20/apex-firmware)
 - [apex-harness](https://github.com/AAH20/apex-harness)
 - [apex-hivemind](https://github.com/AAH20/apex-hivemind)
 - [apex-os-iam-pam](https://github.com/AAH20/apex-os-iam-pam)
+- [apex-rig](https://github.com/AAH20/apex-rig)
 - [apex-sovereign-launchpad](https://github.com/AAH20/apex-sovereign-launchpad)
+- [apex-specmoe](https://github.com/AAH20/apex-specmoe)
 - [apex-token-slasher](https://github.com/AAH20/apex-token-slasher)
+- [apex-treecompute](https://github.com/AAH20/apex-treecompute)
 - [apex-zero-loop](https://github.com/AAH20/apex-zero-loop)
 - [Apex_Cyber_Sentinel](https://github.com/AAH20/Apex_Cyber_Sentinel)
 - [Apex_FDE_Matrix](https://github.com/AAH20/Apex_FDE_Matrix)

@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-10T11:10:28Z",
+  "generated_at_utc": "2026-10-11T11:23:52Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,9 +7,9 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 386,
-  "pushed_30d": 376,
-  "stars": 96,
+  "total": 394,
+  "pushed_30d": 384,
+  "stars": 110,
   "forks": 5,
   "domains": [
     {
@@ -46,7 +46,7 @@
       "name": "Cloud, platform engineering, and reliability",
       "count": 62,
       "pushed_30d": 57,
-      "stars": 14,
+      "stars": 15,
       "kpis": [
         "Unsafe-change escape rate (%)",
         "Verified rollback time (min)"
@@ -66,7 +66,7 @@
       "name": "Physical AI, robotics, and biometrics",
       "count": 23,
       "pushed_30d": 22,
-      "stars": 7,
+      "stars": 10,
       "kpis": [
         "Missed unsafe action rate (%)",
         "Evidence loss rate (%)"
@@ -74,9 +74,9 @@
     },
     {
       "name": "AI agents: runtime, security, identity, and governance",
-      "count": 127,
-      "pushed_30d": 125,
-      "stars": 30,
+      "count": 128,
+      "pushed_30d": 126,
+      "stars": 32,
       "kpis": [
         "Unauthorized action pass rate (%)",
         "False-denial rate (%)"
@@ -84,9 +84,9 @@
     },
     {
       "name": "Data, simulation, and decision systems",
-      "count": 31,
-      "pushed_30d": 31,
-      "stars": 14,
+      "count": 33,
+      "pushed_30d": 33,
+      "stars": 17,
       "kpis": [
         "Data freshness lag p95 (s)",
         "Decision regret vs baseline (%)"
@@ -94,9 +94,9 @@
     },
     {
       "name": "Other original projects",
-      "count": 76,
-      "pushed_30d": 76,
-      "stars": 24,
+      "count": 81,
+      "pushed_30d": 81,
+      "stars": 29,
       "kpis": [
         "Project-specific protocol",
         "Linked source evidence"

@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-10-10T11:10:28Z",
+  "generated_at_utc": "2026-10-11T11:23:52Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
-    "refreshed_on": "2026-10-10",
+    "refreshed_on": "2026-10-11",
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 386,
+  "portfolio_count": 394,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -1002,6 +1002,26 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "apex-capitalmatrix",
+      "url": "https://github.com/AAH20/apex-capitalmatrix",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-capitalmatrix/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-contextfabric",
+      "url": "https://github.com/AAH20/apex-contextfabric",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-contextfabric/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "apex-critical-infra",
       "url": "https://github.com/AAH20/apex-critical-infra",
       "pillar": "Other original projects",
@@ -1052,6 +1072,16 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "apex-firmware",
+      "url": "https://github.com/AAH20/apex-firmware",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-firmware/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "apex-harness",
       "url": "https://github.com/AAH20/apex-harness",
       "pillar": "Other original projects",
@@ -1069,6 +1099,16 @@
         "catalog"
       ],
       "evidence_source": "apex-hivemind/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-hypergate",
+      "url": "https://github.com/AAH20/apex-hypergate",
+      "pillar": "Data, simulation, and decision systems",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-hypergate/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -1165,6 +1205,16 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "apex-rig",
+      "url": "https://github.com/AAH20/apex-rig",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-rig/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "apex-sovereign-launchpad",
       "url": "https://github.com/AAH20/apex-sovereign-launchpad",
       "pillar": "Other original projects",
@@ -1172,6 +1222,26 @@
         "catalog"
       ],
       "evidence_source": "apex-sovereign-launchpad/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-specagent",
+      "url": "https://github.com/AAH20/apex-specagent",
+      "pillar": "AI agents: runtime, security, identity, and governance",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-specagent/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-specmoe",
+      "url": "https://github.com/AAH20/apex-specmoe",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-specmoe/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -1193,6 +1263,16 @@
         "catalog"
       ],
       "evidence_source": "apex-token-slasher/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-treecompute",
+      "url": "https://github.com/AAH20/apex-treecompute",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-treecompute/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
