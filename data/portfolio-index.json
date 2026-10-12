@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-10-11T11:23:52Z",
+  "generated_at_utc": "2026-10-12T13:09:21Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
-    "refreshed_on": "2026-10-11",
+    "refreshed_on": "2026-10-12",
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 394,
+  "portfolio_count": 400,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -982,6 +982,16 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "apex-aura",
+      "url": "https://github.com/AAH20/apex-aura",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-aura/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "apex-autonomous-logistics-platform",
       "url": "https://github.com/AAH20/apex-autonomous-logistics-platform",
       "pillar": "Cloud, platform engineering, and reliability",
@@ -1029,6 +1039,16 @@
         "catalog"
       ],
       "evidence_source": "apex-critical-infra/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-cua",
+      "url": "https://github.com/AAH20/apex-cua",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-cua/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -1133,6 +1153,16 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
+      "name": "apex-jarvis",
+      "url": "https://github.com/AAH20/apex-jarvis",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-jarvis/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
       "name": "apex-kernel-mesh",
       "url": "https://github.com/AAH20/apex-kernel-mesh",
       "pillar": "AI agents: runtime, security, identity, and governance",
@@ -1140,6 +1170,16 @@
         "catalog"
       ],
       "evidence_source": "apex-kernel-mesh/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-kinetix",
+      "url": "https://github.com/AAH20/apex-kinetix",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-kinetix/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -1161,6 +1201,16 @@
         "flagship"
       ],
       "evidence_source": "apex-mcp-gateway-kernel/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-omni-swe",
+      "url": "https://github.com/AAH20/apex-omni-swe",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-omni-swe/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -1253,6 +1303,16 @@
         "flagship"
       ],
       "evidence_source": "apex-swarm-orchestrator-kernel/README.md",
+      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
+    },
+    {
+      "name": "apex-synapse",
+      "url": "https://github.com/AAH20/apex-synapse",
+      "pillar": "Other original projects",
+      "portfolio_roles": [
+        "catalog"
+      ],
+      "evidence_source": "apex-synapse/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {

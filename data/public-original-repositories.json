@@ -485,6 +485,11 @@
     "fork": false
   },
   {
+    "name": "apex-aura",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-autonomous-logistics-platform",
     "public": true,
     "fork": false
@@ -506,6 +511,11 @@
   },
   {
     "name": "apex-critical-infra",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-cua",
     "public": true,
     "fork": false
   },
@@ -560,7 +570,17 @@
     "fork": false
   },
   {
+    "name": "apex-jarvis",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-kernel-mesh",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-kinetix",
     "public": true,
     "fork": false
   },
@@ -571,6 +591,11 @@
   },
   {
     "name": "apex-mcp-gateway-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-omni-swe",
     "public": true,
     "fork": false
   },
@@ -616,6 +641,11 @@
   },
   {
     "name": "apex-swarm-orchestrator-kernel",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "apex-synapse",
     "public": true,
     "fork": false
   },

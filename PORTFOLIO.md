@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **394 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-11. Forks and private repositories are excluded.
+This directory covers **400 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-12. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -361,7 +361,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Other original projects
 
-**81 repositories.**
+**87 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
 - [abliteration-benchmarks](https://github.com/AAH20/abliteration-benchmarks)
@@ -369,17 +369,23 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [agtech-unified](https://github.com/AAH20/agtech-unified)
 - [airgap-audit-breaker](https://github.com/AAH20/airgap-audit-breaker)
 - [aml-smurf-radar](https://github.com/AAH20/aml-smurf-radar)
+- [apex-aura](https://github.com/AAH20/apex-aura)
 - [apex-autopilot-optimization](https://github.com/AAH20/apex-autopilot-optimization)
 - [apex-capitalmatrix](https://github.com/AAH20/apex-capitalmatrix)
 - [apex-critical-infra](https://github.com/AAH20/apex-critical-infra)
+- [apex-cua](https://github.com/AAH20/apex-cua)
 - [apex-fintech-markets](https://github.com/AAH20/apex-fintech-markets)
 - [apex-firmware](https://github.com/AAH20/apex-firmware)
 - [apex-harness](https://github.com/AAH20/apex-harness)
 - [apex-hivemind](https://github.com/AAH20/apex-hivemind)
+- [apex-jarvis](https://github.com/AAH20/apex-jarvis)
+- [apex-kinetix](https://github.com/AAH20/apex-kinetix)
+- [apex-omni-swe](https://github.com/AAH20/apex-omni-swe)
 - [apex-os-iam-pam](https://github.com/AAH20/apex-os-iam-pam)
 - [apex-rig](https://github.com/AAH20/apex-rig)
 - [apex-sovereign-launchpad](https://github.com/AAH20/apex-sovereign-launchpad)
 - [apex-specmoe](https://github.com/AAH20/apex-specmoe)
+- [apex-synapse](https://github.com/AAH20/apex-synapse)
 - [apex-token-slasher](https://github.com/AAH20/apex-token-slasher)
 - [apex-treecompute](https://github.com/AAH20/apex-treecompute)
 - [apex-zero-loop](https://github.com/AAH20/apex-zero-loop)

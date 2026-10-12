@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-11T11:23:52Z",
+  "generated_at_utc": "2026-10-12T13:09:21Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,10 +7,10 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 394,
-  "pushed_30d": 384,
-  "stars": 110,
-  "forks": 5,
+  "total": 400,
+  "pushed_30d": 390,
+  "stars": 121,
+  "forks": 6,
   "domains": [
     {
       "name": "Low-latency systems and silicon acceleration",
@@ -66,7 +66,7 @@
       "name": "Physical AI, robotics, and biometrics",
       "count": 23,
       "pushed_30d": 22,
-      "stars": 10,
+      "stars": 11,
       "kpis": [
         "Missed unsafe action rate (%)",
         "Evidence loss rate (%)"
@@ -76,7 +76,7 @@
       "name": "AI agents: runtime, security, identity, and governance",
       "count": 128,
       "pushed_30d": 126,
-      "stars": 32,
+      "stars": 36,
       "kpis": [
         "Unauthorized action pass rate (%)",
         "False-denial rate (%)"
@@ -94,9 +94,9 @@
     },
     {
       "name": "Other original projects",
-      "count": 81,
-      "pushed_30d": 81,
-      "stars": 29,
+      "count": 87,
+      "pushed_30d": 87,
+      "stars": 35,
       "kpis": [
         "Project-specific protocol",
         "Linked source evidence"
