@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-14T10:11:27Z",
+  "generated_at_utc": "2026-10-15T09:53:40Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -9,7 +9,7 @@
   },
   "total": 400,
   "pushed_30d": 390,
-  "stars": 123,
+  "stars": 125,
   "forks": 6,
   "domains": [
     {
@@ -66,7 +66,7 @@
       "name": "Physical AI, robotics, and biometrics",
       "count": 23,
       "pushed_30d": 22,
-      "stars": 11,
+      "stars": 12,
       "kpis": [
         "Missed unsafe action rate (%)",
         "Evidence loss rate (%)"
@@ -76,7 +76,7 @@
       "name": "AI agents: runtime, security, identity, and governance",
       "count": 128,
       "pushed_30d": 126,
-      "stars": 36,
+      "stars": 37,
       "kpis": [
         "Unauthorized action pass rate (%)",
         "False-denial rate (%)"
