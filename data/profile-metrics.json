@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-15T09:53:40Z",
+  "generated_at_utc": "2026-10-16T09:47:53Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -9,7 +9,7 @@
   },
   "total": 400,
   "pushed_30d": 390,
-  "stars": 125,
+  "stars": 126,
   "forks": 6,
   "domains": [
     {
@@ -86,7 +86,7 @@
       "name": "Data, simulation, and decision systems",
       "count": 33,
       "pushed_30d": 33,
-      "stars": 17,
+      "stars": 18,
       "kpis": [
         "Data freshness lag p95 (s)",
         "Decision regret vs baseline (%)"
