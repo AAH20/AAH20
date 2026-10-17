@@ -1,10 +1,10 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-10-16T09:47:53Z",
+  "generated_at_utc": "2026-10-17T09:20:01Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
-    "refreshed_on": "2026-10-16",
+    "refreshed_on": "2026-10-17",
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
