@@ -105,7 +105,6 @@ FLAGSHIP_REPOSITORIES = {
     "agentic-fintech-kernel",
     "autonomous-cyber-defense-kernel",
     "humanoid-swarm-robotics-kernel",
-    "microsecond-kill-chain-dag",
 }
 MAINTENANCE_FOCUS = {"grc_claw", "multicloud-infrastructure-control-loop", "network-change-intelligence-twin"}
 RELATIONSHIPS = [

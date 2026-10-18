@@ -1,14 +1,14 @@
 {
   "schema_version": "1.0.0",
-  "generated_at_utc": "2026-10-17T09:20:01Z",
+  "generated_at_utc": "2026-10-18T12:21:07Z",
   "schema": "data/portfolio-index.schema.json",
   "source_inventory": {
     "path": "data/public-original-repositories.json",
-    "refreshed_on": "2026-10-17",
+    "refreshed_on": "2026-10-18",
     "selection_rule": "Public repositories owned by AAH20 with fork=false; private repositories and forks excluded."
   },
   "catalog_policy": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Follow evidence_source and validate claims in that repository.",
-  "portfolio_count": 400,
+  "portfolio_count": 384,
   "repositories": [
     {
       "name": "a2z-agent-app-factory",
@@ -1112,16 +1112,6 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
-      "name": "apex-hivemind",
-      "url": "https://github.com/AAH20/apex-hivemind",
-      "pillar": "Other original projects",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "apex-hivemind/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
       "name": "apex-hypergate",
       "url": "https://github.com/AAH20/apex-hypergate",
       "pillar": "Data, simulation, and decision systems",
@@ -1393,16 +1383,6 @@
         "catalog"
       ],
       "evidence_source": "Apex_ISR/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
-      "name": "Apex_JADC2",
-      "url": "https://github.com/AAH20/Apex_JADC2",
-      "pillar": "Other original projects",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "Apex_JADC2/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -1887,16 +1867,6 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
-      "name": "byzantine-swarm-sentinel",
-      "url": "https://github.com/AAH20/byzantine-swarm-sentinel",
-      "pillar": "Data, simulation, and decision systems",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "byzantine-swarm-sentinel/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
       "name": "cache-forge",
       "url": "https://github.com/AAH20/cache-forge",
       "pillar": "Other original projects",
@@ -2077,26 +2047,6 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
-      "name": "cognitive-spectrum-stackelberg",
-      "url": "https://github.com/AAH20/cognitive-spectrum-stackelberg",
-      "pillar": "Other original projects",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "cognitive-spectrum-stackelberg/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
-      "name": "combinatorial-salvo-allocator",
-      "url": "https://github.com/AAH20/combinatorial-salvo-allocator",
-      "pillar": "Other original projects",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "combinatorial-salvo-allocator/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
       "name": "commerce-incident-network",
       "url": "https://github.com/AAH20/commerce-incident-network",
       "pillar": "Commerce, revenue, and customer operations",
@@ -2254,16 +2204,6 @@
         "catalog"
       ],
       "evidence_source": "dispute-evidence-engine/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
-      "name": "distributed-covariance-fusion",
-      "url": "https://github.com/AAH20/distributed-covariance-fusion",
-      "pillar": "Other original projects",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "distributed-covariance-fusion/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -2771,16 +2711,6 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
-      "name": "kinematic-4d-swarm-deconfliction",
-      "url": "https://github.com/AAH20/kinematic-4d-swarm-deconfliction",
-      "pillar": "Data, simulation, and decision systems",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "kinematic-4d-swarm-deconfliction/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
       "name": "kinetic-guard",
       "url": "https://github.com/AAH20/kinetic-guard",
       "pillar": "Physical AI, robotics, and biometrics",
@@ -2788,16 +2718,6 @@
         "catalog"
       ],
       "evidence_source": "kinetic-guard/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
-      "name": "kinetic-swarm-consensus",
-      "url": "https://github.com/AAH20/kinetic-swarm-consensus",
-      "pillar": "Physical AI, robotics, and biometrics",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "kinetic-swarm-consensus/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -3008,17 +2928,6 @@
         "catalog"
       ],
       "evidence_source": "mica-stablecoin-reserve-auditor/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
-      "name": "microsecond-kill-chain-dag",
-      "url": "https://github.com/AAH20/microsecond-kill-chain-dag",
-      "pillar": "Other original projects",
-      "portfolio_roles": [
-        "catalog",
-        "flagship"
-      ],
-      "evidence_source": "microsecond-kill-chain-dag/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -3284,16 +3193,6 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
-      "name": "phased-aperture-orchestrator",
-      "url": "https://github.com/AAH20/phased-aperture-orchestrator",
-      "pillar": "Other original projects",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "phased-aperture-orchestrator/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
       "name": "physical-ai-governor",
       "url": "https://github.com/AAH20/physical-ai-governor",
       "pillar": "Physical AI, robotics, and biometrics",
@@ -3371,16 +3270,6 @@
         "catalog"
       ],
       "evidence_source": "project-atlas-due-diligence/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
-      "name": "puf-ephemeral-zeroize",
-      "url": "https://github.com/AAH20/puf-ephemeral-zeroize",
-      "pillar": "Other original projects",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "puf-ephemeral-zeroize/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -3481,16 +3370,6 @@
         "catalog"
       ],
       "evidence_source": "self-hosted-ai-agent-infrastructure-platform/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
-      "name": "sky-sentinel",
-      "url": "https://github.com/AAH20/sky-sentinel",
-      "pillar": "Physical AI, robotics, and biometrics",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "sky-sentinel/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -3634,16 +3513,6 @@
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
-      "name": "swarm-market-wta",
-      "url": "https://github.com/AAH20/swarm-market-wta",
-      "pillar": "Data, simulation, and decision systems",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "swarm-market-wta/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
       "name": "swarm-substrate",
       "url": "https://github.com/AAH20/swarm-substrate",
       "pillar": "Data, simulation, and decision systems",
@@ -3701,16 +3570,6 @@
         "catalog"
       ],
       "evidence_source": "tech-balance-sheet/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
-      "name": "temporal-hypergraph-synthesizer",
-      "url": "https://github.com/AAH20/temporal-hypergraph-synthesizer",
-      "pillar": "Data, simulation, and decision systems",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "temporal-hypergraph-synthesizer/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {
@@ -3891,26 +3750,6 @@
         "catalog"
       ],
       "evidence_source": "viral-cascade/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
-      "name": "volumetric-art-gallery-siting",
-      "url": "https://github.com/AAH20/volumetric-art-gallery-siting",
-      "pillar": "Other original projects",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "volumetric-art-gallery-siting/README.md",
-      "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
-    },
-    {
-      "name": "voronoi-swarm-morph",
-      "url": "https://github.com/AAH20/voronoi-swarm-morph",
-      "pillar": "Data, simulation, and decision systems",
-      "portfolio_roles": [
-        "catalog"
-      ],
-      "evidence_source": "voronoi-swarm-morph/README.md",
       "assessment_boundary": "A catalog entry is not a maturity, production-readiness, or benchmark claim. Inspect the repository README, tests, benchmark protocol, and limitations before making implementation claims."
     },
     {

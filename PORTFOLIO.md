@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **400 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-17. Forks and private repositories are excluded.
+This directory covers **384 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-18. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -162,7 +162,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Physical AI, robotics, and biometrics
 
-**23 repositories.** Robot evaluation, physical AI black boxes, digital twins, biometric privacy, and industrial simulation.
+**21 repositories.** Robot evaluation, physical AI black boxes, digital twins, biometric privacy, and industrial simulation.
 
 - [aegis-fleet](https://github.com/AAH20/aegis-fleet)
 - [Aegis-IEEE11073-Scanner](https://github.com/AAH20/Aegis-IEEE11073-Scanner)
@@ -176,14 +176,12 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [edge-vision-mesh](https://github.com/AAH20/edge-vision-mesh)
 - [humanoid-swarm-robotics-kernel](https://github.com/AAH20/humanoid-swarm-robotics-kernel)
 - [kinetic-guard](https://github.com/AAH20/kinetic-guard)
-- [kinetic-swarm-consensus](https://github.com/AAH20/kinetic-swarm-consensus)
 - [neuro-debugger](https://github.com/AAH20/neuro-debugger)
 - [neuro-manifold](https://github.com/AAH20/neuro-manifold)
 - [neuro-spatial](https://github.com/AAH20/neuro-spatial)
 - [neuromuscular-pll](https://github.com/AAH20/neuromuscular-pll)
 - [physical-ai-governor](https://github.com/AAH20/physical-ai-governor)
 - [robot-black-box](https://github.com/AAH20/robot-black-box)
-- [sky-sentinel](https://github.com/AAH20/sky-sentinel)
 - [supply-chain-digital-twin](https://github.com/AAH20/supply-chain-digital-twin)
 - [zero-shot-bci](https://github.com/AAH20/zero-shot-bci)
 - [zk-biometrics](https://github.com/AAH20/zk-biometrics)
@@ -323,7 +321,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Data, simulation, and decision systems
 
-**33 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
+**28 repositories.** Data engineering, simulation, decision support, business outcomes, and technical research.
 
 - [apex-contextfabric](https://github.com/AAH20/apex-contextfabric)
 - [apex-decisioncore](https://github.com/AAH20/apex-decisioncore)
@@ -331,14 +329,12 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [apex-omniswarm](https://github.com/AAH20/apex-omniswarm)
 - [ApexGraphSwarm](https://github.com/AAH20/ApexGraphSwarm)
 - [ax-context-gateway](https://github.com/AAH20/ax-context-gateway)
-- [byzantine-swarm-sentinel](https://github.com/AAH20/byzantine-swarm-sentinel)
 - [CakeWallet-Analysis](https://github.com/AAH20/CakeWallet-Analysis)
 - [context-checkpoint](https://github.com/AAH20/context-checkpoint)
 - [context-graph-compact](https://github.com/AAH20/context-graph-compact)
 - [data-center-commander](https://github.com/AAH20/data-center-commander)
 - [decision-world](https://github.com/AAH20/decision-world)
 - [hyper-mesh](https://github.com/AAH20/hyper-mesh)
-- [kinematic-4d-swarm-deconfliction](https://github.com/AAH20/kinematic-4d-swarm-deconfliction)
 - [MetaMask-APK-Analysis](https://github.com/AAH20/MetaMask-APK-Analysis)
 - [mirofish-swarm-optimizer](https://github.com/AAH20/mirofish-swarm-optimizer)
 - [opentelemetry-ai-valueops-collector](https://github.com/AAH20/opentelemetry-ai-valueops-collector)
@@ -350,18 +346,15 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [Swarm-Context-Commander](https://github.com/AAH20/Swarm-Context-Commander)
 - [swarm-desktop-os](https://github.com/AAH20/swarm-desktop-os)
 - [swarm-eval-harness](https://github.com/AAH20/swarm-eval-harness)
-- [swarm-market-wta](https://github.com/AAH20/swarm-market-wta)
 - [swarm-substrate](https://github.com/AAH20/swarm-substrate)
 - [swarm-sync](https://github.com/AAH20/swarm-sync)
 - [swarm-synthetic-lead](https://github.com/AAH20/swarm-synthetic-lead)
 - [synthetic-swarm-detonator](https://github.com/AAH20/synthetic-swarm-detonator)
-- [temporal-hypergraph-synthesizer](https://github.com/AAH20/temporal-hypergraph-synthesizer)
 - [video-template-system](https://github.com/AAH20/video-template-system)
-- [voronoi-swarm-morph](https://github.com/AAH20/voronoi-swarm-morph)
 
 ## Other original projects
 
-**87 repositories.**
+**78 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
 - [abliteration-benchmarks](https://github.com/AAH20/abliteration-benchmarks)
@@ -377,7 +370,6 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [apex-fintech-markets](https://github.com/AAH20/apex-fintech-markets)
 - [apex-firmware](https://github.com/AAH20/apex-firmware)
 - [apex-harness](https://github.com/AAH20/apex-harness)
-- [apex-hivemind](https://github.com/AAH20/apex-hivemind)
 - [apex-jarvis](https://github.com/AAH20/apex-jarvis)
 - [apex-kinetix](https://github.com/AAH20/apex-kinetix)
 - [apex-omni-swe](https://github.com/AAH20/apex-omni-swe)
@@ -392,7 +384,6 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [Apex_Cyber_Sentinel](https://github.com/AAH20/Apex_Cyber_Sentinel)
 - [Apex_FDE_Matrix](https://github.com/AAH20/Apex_FDE_Matrix)
 - [Apex_ISR](https://github.com/AAH20/Apex_ISR)
-- [Apex_JADC2](https://github.com/AAH20/Apex_JADC2)
 - [Apex_Omega](https://github.com/AAH20/Apex_Omega)
 - [Apex_Orbital_Sentinel](https://github.com/AAH20/Apex_Orbital_Sentinel)
 - [api-beacon-radar](https://github.com/AAH20/api-beacon-radar)
@@ -410,12 +401,9 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [byzantine-mesh-arbiter](https://github.com/AAH20/byzantine-mesh-arbiter)
 - [cache-forge](https://github.com/AAH20/cache-forge)
 - [cfpb-1033-fdx-gateway](https://github.com/AAH20/cfpb-1033-fdx-gateway)
-- [cognitive-spectrum-stackelberg](https://github.com/AAH20/cognitive-spectrum-stackelberg)
-- [combinatorial-salvo-allocator](https://github.com/AAH20/combinatorial-salvo-allocator)
 - [crash-replay](https://github.com/AAH20/crash-replay)
 - [cross-rail-contagion-sentinel](https://github.com/AAH20/cross-rail-contagion-sentinel)
 - [deterministic-avionic-scheduler](https://github.com/AAH20/deterministic-avionic-scheduler)
-- [distributed-covariance-fusion](https://github.com/AAH20/distributed-covariance-fusion)
 - [durbin-rail-optimizer](https://github.com/AAH20/durbin-rail-optimizer)
 - [fintech-c2-matrix](https://github.com/AAH20/fintech-c2-matrix)
 - [formal-guard](https://github.com/AAH20/formal-guard)
@@ -429,16 +417,13 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [mem-quarantine](https://github.com/AAH20/mem-quarantine)
 - [meta-synthesizer](https://github.com/AAH20/meta-synthesizer)
 - [mica-stablecoin-reserve-auditor](https://github.com/AAH20/mica-stablecoin-reserve-auditor)
-- [microsecond-kill-chain-dag](https://github.com/AAH20/microsecond-kill-chain-dag)
 - [mutation-sentinel](https://github.com/AAH20/mutation-sentinel)
 - [nacha-return-risk-oracle](https://github.com/AAH20/nacha-return-risk-oracle)
 - [ofac-sanctions-graph-sentinel](https://github.com/AAH20/ofac-sanctions-graph-sentinel)
 - [phantom-v8](https://github.com/AAH20/phantom-v8)
-- [phased-aperture-orchestrator](https://github.com/AAH20/phased-aperture-orchestrator)
 - [play-anything](https://github.com/AAH20/play-anything)
 - [poly-bench](https://github.com/AAH20/poly-bench)
 - [precision-health-os](https://github.com/AAH20/precision-health-os)
-- [puf-ephemeral-zeroize](https://github.com/AAH20/puf-ephemeral-zeroize)
 - [quantum-pki-fintech-gateway](https://github.com/AAH20/quantum-pki-fintech-gateway)
 - [sovereign-ai-enclave](https://github.com/AAH20/sovereign-ai-enclave)
 - [speculative-gui-fork](https://github.com/AAH20/speculative-gui-fork)
@@ -448,5 +433,4 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [tool-foundry](https://github.com/AAH20/tool-foundry)
 - [topological-vision-guard](https://github.com/AAH20/topological-vision-guard)
 - [ugc-marketplace](https://github.com/AAH20/ugc-marketplace)
-- [volumetric-art-gallery-siting](https://github.com/AAH20/volumetric-art-gallery-siting)
 - [workflow-twin](https://github.com/AAH20/workflow-twin)

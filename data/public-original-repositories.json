@@ -550,11 +550,6 @@
     "fork": false
   },
   {
-    "name": "apex-hivemind",
-    "public": true,
-    "fork": false
-  },
-  {
     "name": "apex-hypergate",
     "public": true,
     "fork": false
@@ -686,11 +681,6 @@
   },
   {
     "name": "Apex_ISR",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "Apex_JADC2",
     "public": true,
     "fork": false
   },
@@ -935,11 +925,6 @@
     "fork": false
   },
   {
-    "name": "byzantine-swarm-sentinel",
-    "public": true,
-    "fork": false
-  },
-  {
     "name": "cache-forge",
     "public": true,
     "fork": false
@@ -1030,16 +1015,6 @@
     "fork": false
   },
   {
-    "name": "cognitive-spectrum-stackelberg",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "combinatorial-salvo-allocator",
-    "public": true,
-    "fork": false
-  },
-  {
     "name": "commerce-incident-network",
     "public": true,
     "fork": false
@@ -1116,11 +1091,6 @@
   },
   {
     "name": "dispute-evidence-engine",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "distributed-covariance-fusion",
     "public": true,
     "fork": false
   },
@@ -1375,17 +1345,7 @@
     "fork": false
   },
   {
-    "name": "kinematic-4d-swarm-deconfliction",
-    "public": true,
-    "fork": false
-  },
-  {
     "name": "kinetic-guard",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "kinetic-swarm-consensus",
     "public": true,
     "fork": false
   },
@@ -1491,11 +1451,6 @@
   },
   {
     "name": "mica-stablecoin-reserve-auditor",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "microsecond-kill-chain-dag",
     "public": true,
     "fork": false
   },
@@ -1630,11 +1585,6 @@
     "fork": false
   },
   {
-    "name": "phased-aperture-orchestrator",
-    "public": true,
-    "fork": false
-  },
-  {
     "name": "physical-ai-governor",
     "public": true,
     "fork": false
@@ -1671,11 +1621,6 @@
   },
   {
     "name": "project-atlas-due-diligence",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "puf-ephemeral-zeroize",
     "public": true,
     "fork": false
   },
@@ -1726,11 +1671,6 @@
   },
   {
     "name": "self-hosted-ai-agent-infrastructure-platform",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "sky-sentinel",
     "public": true,
     "fork": false
   },
@@ -1805,11 +1745,6 @@
     "fork": false
   },
   {
-    "name": "swarm-market-wta",
-    "public": true,
-    "fork": false
-  },
-  {
     "name": "swarm-substrate",
     "public": true,
     "fork": false
@@ -1836,11 +1771,6 @@
   },
   {
     "name": "tech-balance-sheet",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "temporal-hypergraph-synthesizer",
     "public": true,
     "fork": false
   },
@@ -1931,16 +1861,6 @@
   },
   {
     "name": "viral-cascade",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "volumetric-art-gallery-siting",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "voronoi-swarm-morph",
     "public": true,
     "fork": false
   },

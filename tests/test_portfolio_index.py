@@ -1,4 +1,9 @@
 import json
+import sys
+from pathlib import Path as _Path
+
+sys.path.insert(0, str(_Path(__file__).resolve().parents[1] / "scripts"))
+from update_profile_metrics import FLAGSHIP_REPOSITORIES
 import unittest
 from pathlib import Path
 
@@ -19,7 +24,23 @@ class PortfolioIndexTests(unittest.TestCase):
         index = json.loads((ROOT / "data/portfolio-index.json").read_text())
         names = {item["name"].lower() for item in index["repositories"]}
 
-        self.assertEqual(sum("flagship" in r["portfolio_roles"] for r in index["repositories"]), 10)
+        # Derived, not hardcoded. This previously asserted exactly 10, so when a
+        # flagship repository was deliberately withdrawn from public view (export
+        # control) the scheduled run failed with "AssertionError: 9 != 10" and the
+        # message named no cause. The invariant that actually matters is: the
+        # flagship role is exactly the declared flagship set, restricted to the
+        # repositories that are publicly present. Adding a flagship without tagging
+        # it still fails; withdrawing one no longer does.
+        declared = {name.lower() for name in FLAGSHIP_REPOSITORIES}
+        indexed = {r["name"].lower() for r in index["repositories"]}
+        tagged = {r["name"].lower() for r in index["repositories"] if "flagship" in r["portfolio_roles"]}
+        self.assertEqual(
+            tagged,
+            declared & indexed,
+            "flagship roles in the index must equal the declared set restricted to "
+            "publicly present repositories; a declared flagship is either missing its "
+            "role or a non-flagship is tagged",
+        )
         self.assertEqual(sum("maintenance_focus" in r["portfolio_roles"] for r in index["repositories"]), 3)
         for edge in index["relationships"]:
             self.assertIn(edge["from"].lower(), names)
