@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-18T12:22:06Z",
+  "generated_at_utc": "2026-10-19T10:45:51Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -8,7 +8,7 @@
     "forks": "Sum of current forks_count across public originals."
   },
   "total": 384,
-  "pushed_30d": 374,
+  "pushed_30d": 351,
   "stars": 116,
   "forks": 5,
   "domains": [
@@ -25,7 +25,7 @@
     {
       "name": "Commerce, revenue, and customer operations",
       "count": 16,
-      "pushed_30d": 16,
+      "pushed_30d": 15,
       "stars": 0,
       "kpis": [
         "Incident precision (%)",
@@ -35,7 +35,7 @@
     {
       "name": "GPU, model serving, and AI economics",
       "count": 23,
-      "pushed_30d": 21,
+      "pushed_30d": 20,
       "stars": 1,
       "kpis": [
         "p95 first-token latency (ms)",
@@ -55,7 +55,7 @@
     {
       "name": "Marketing, audiences, and growth",
       "count": 23,
-      "pushed_30d": 23,
+      "pushed_30d": 5,
       "stars": 1,
       "kpis": [
         "Incremental contribution / $ spent",
@@ -75,7 +75,7 @@
     {
       "name": "AI agents: runtime, security, identity, and governance",
       "count": 128,
-      "pushed_30d": 126,
+      "pushed_30d": 123,
       "stars": 37,
       "kpis": [
         "Unauthorized action pass rate (%)",
