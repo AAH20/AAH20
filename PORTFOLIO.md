@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **384 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-19. Forks and private repositories are excluded.
+This directory covers **385 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-20. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -67,7 +67,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Cloud, platform engineering, and reliability
 
-**62 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
+**63 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
 
 - [acquisition-platform-research](https://github.com/AAH20/acquisition-platform-research)
 - [agentic-ai-infrastructure-data-engine](https://github.com/AAH20/agentic-ai-infrastructure-data-engine)
@@ -104,6 +104,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [azure-private-link-doctor](https://github.com/AAH20/azure-private-link-doctor)
 - [azure-trustops](https://github.com/AAH20/azure-trustops)
 - [azure-well-architected-ai-reviewer](https://github.com/AAH20/azure-well-architected-ai-reviewer)
+- [c-uas-platform](https://github.com/AAH20/c-uas-platform)
 - [ciso-assistant-azure-compliance-automation](https://github.com/AAH20/ciso-assistant-azure-compliance-automation)
 - [cloud-cost-optimization-github-action](https://github.com/AAH20/cloud-cost-optimization-github-action)
 - [cloud-grc-harvester](https://github.com/AAH20/cloud-grc-harvester)

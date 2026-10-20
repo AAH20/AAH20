@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-19T10:45:51Z",
+  "generated_at_utc": "2026-10-20T10:03:10Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,9 +7,9 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 384,
-  "pushed_30d": 351,
-  "stars": 116,
+  "total": 385,
+  "pushed_30d": 352,
+  "stars": 118,
   "forks": 5,
   "domains": [
     {
@@ -44,9 +44,9 @@
     },
     {
       "name": "Cloud, platform engineering, and reliability",
-      "count": 62,
-      "pushed_30d": 57,
-      "stars": 17,
+      "count": 63,
+      "pushed_30d": 58,
+      "stars": 18,
       "kpis": [
         "Unsafe-change escape rate (%)",
         "Verified rollback time (min)"
@@ -86,7 +86,7 @@
       "name": "Data, simulation, and decision systems",
       "count": 28,
       "pushed_30d": 28,
-      "stars": 15,
+      "stars": 16,
       "kpis": [
         "Data freshness lag p95 (s)",
         "Decision regret vs baseline (%)"

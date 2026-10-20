@@ -925,6 +925,11 @@
     "fork": false
   },
   {
+    "name": "c-uas-platform",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "cache-forge",
     "public": true,
     "fork": false
