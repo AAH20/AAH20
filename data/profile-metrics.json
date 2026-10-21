@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-20T10:03:10Z",
+  "generated_at_utc": "2026-10-21T10:07:21Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,9 +7,9 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 385,
-  "pushed_30d": 352,
-  "stars": 118,
+  "total": 386,
+  "pushed_30d": 353,
+  "stars": 120,
   "forks": 5,
   "domains": [
     {
@@ -44,9 +44,9 @@
     },
     {
       "name": "Cloud, platform engineering, and reliability",
-      "count": 63,
-      "pushed_30d": 58,
-      "stars": 18,
+      "count": 62,
+      "pushed_30d": 57,
+      "stars": 17,
       "kpis": [
         "Unsafe-change escape rate (%)",
         "Verified rollback time (min)"
@@ -66,7 +66,7 @@
       "name": "Physical AI, robotics, and biometrics",
       "count": 21,
       "pushed_30d": 20,
-      "stars": 7,
+      "stars": 8,
       "kpis": [
         "Missed unsafe action rate (%)",
         "Evidence loss rate (%)"
@@ -94,9 +94,9 @@
     },
     {
       "name": "Other original projects",
-      "count": 78,
-      "pushed_30d": 78,
-      "stars": 33,
+      "count": 80,
+      "pushed_30d": 80,
+      "stars": 35,
       "kpis": [
         "Project-specific protocol",
         "Linked source evidence"

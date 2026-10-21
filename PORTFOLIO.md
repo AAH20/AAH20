@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **385 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-20. Forks and private repositories are excluded.
+This directory covers **386 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-21. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -67,7 +67,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Cloud, platform engineering, and reliability
 
-**63 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
+**62 repositories.** Azure migration, Kubernetes operations, Infrastructure as Code, cloud reliability, FinOps, and platform engineering.
 
 - [acquisition-platform-research](https://github.com/AAH20/acquisition-platform-research)
 - [agentic-ai-infrastructure-data-engine](https://github.com/AAH20/agentic-ai-infrastructure-data-engine)
@@ -104,7 +104,6 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [azure-private-link-doctor](https://github.com/AAH20/azure-private-link-doctor)
 - [azure-trustops](https://github.com/AAH20/azure-trustops)
 - [azure-well-architected-ai-reviewer](https://github.com/AAH20/azure-well-architected-ai-reviewer)
-- [c-uas-platform](https://github.com/AAH20/c-uas-platform)
 - [ciso-assistant-azure-compliance-automation](https://github.com/AAH20/ciso-assistant-azure-compliance-automation)
 - [cloud-cost-optimization-github-action](https://github.com/AAH20/cloud-cost-optimization-github-action)
 - [cloud-grc-harvester](https://github.com/AAH20/cloud-grc-harvester)
@@ -355,7 +354,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Other original projects
 
-**78 repositories.**
+**80 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
 - [abliteration-benchmarks](https://github.com/AAH20/abliteration-benchmarks)
@@ -376,12 +375,14 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [apex-omni-swe](https://github.com/AAH20/apex-omni-swe)
 - [apex-os-iam-pam](https://github.com/AAH20/apex-os-iam-pam)
 - [apex-rig](https://github.com/AAH20/apex-rig)
+- [apex-soc-connectors](https://github.com/AAH20/apex-soc-connectors)
 - [apex-sovereign-launchpad](https://github.com/AAH20/apex-sovereign-launchpad)
 - [apex-specmoe](https://github.com/AAH20/apex-specmoe)
 - [apex-synapse](https://github.com/AAH20/apex-synapse)
 - [apex-token-slasher](https://github.com/AAH20/apex-token-slasher)
 - [apex-treecompute](https://github.com/AAH20/apex-treecompute)
 - [apex-zero-loop](https://github.com/AAH20/apex-zero-loop)
+- [Apex_C-UAS](https://github.com/AAH20/Apex_C-UAS)
 - [Apex_Cyber_Sentinel](https://github.com/AAH20/Apex_Cyber_Sentinel)
 - [Apex_FDE_Matrix](https://github.com/AAH20/Apex_FDE_Matrix)
 - [Apex_ISR](https://github.com/AAH20/Apex_ISR)

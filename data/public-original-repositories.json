@@ -620,6 +620,11 @@
     "fork": false
   },
   {
+    "name": "apex-soc-connectors",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-sovereign-launchpad",
     "public": true,
     "fork": false
@@ -661,6 +666,11 @@
   },
   {
     "name": "apex-zero-loop",
+    "public": true,
+    "fork": false
+  },
+  {
+    "name": "Apex_C-UAS",
     "public": true,
     "fork": false
   },
@@ -921,11 +931,6 @@
   },
   {
     "name": "byzantine-mesh-arbiter",
-    "public": true,
-    "fork": false
-  },
-  {
-    "name": "c-uas-platform",
     "public": true,
     "fork": false
   },
