@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-21T10:07:21Z",
+  "generated_at_utc": "2026-10-22T10:09:56Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -9,7 +9,7 @@
   },
   "total": 386,
   "pushed_30d": 353,
-  "stars": 120,
+  "stars": 122,
   "forks": 5,
   "domains": [
     {
@@ -56,7 +56,7 @@
       "name": "Marketing, audiences, and growth",
       "count": 23,
       "pushed_30d": 5,
-      "stars": 1,
+      "stars": 3,
       "kpis": [
         "Incremental contribution / $ spent",
         "Experiment CI width (pp)"
