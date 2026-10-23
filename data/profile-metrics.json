@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-22T10:09:56Z",
+  "generated_at_utc": "2026-10-23T10:02:33Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -7,9 +7,9 @@
     "stars": "Sum of current stargazers_count across public originals; not unique people or product users.",
     "forks": "Sum of current forks_count across public originals."
   },
-  "total": 386,
-  "pushed_30d": 353,
-  "stars": 122,
+  "total": 387,
+  "pushed_30d": 354,
+  "stars": 123,
   "forks": 5,
   "domains": [
     {
@@ -76,7 +76,7 @@
       "name": "AI agents: runtime, security, identity, and governance",
       "count": 128,
       "pushed_30d": 123,
-      "stars": 37,
+      "stars": 38,
       "kpis": [
         "Unauthorized action pass rate (%)",
         "False-denial rate (%)"
@@ -94,8 +94,8 @@
     },
     {
       "name": "Other original projects",
-      "count": 80,
-      "pushed_30d": 80,
+      "count": 81,
+      "pushed_30d": 81,
       "stars": 35,
       "kpis": [
         "Project-specific protocol",

@@ -1,6 +1,6 @@
 # Public original project directory
 
-This directory covers **386 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-22. Forks and private repositories are excluded.
+This directory covers **387 public repositories created under AAH20** in the GitHub inventory refreshed on 2026-10-23. Forks and private repositories are excluded.
 
 Browse by the problem you are trying to solve. Repository pages state their own implementation and evidence limits; a listing here is not a production-readiness claim. The category labels are navigation aids, not measured search-volume claims.
 
@@ -354,7 +354,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 
 ## Other original projects
 
-**80 repositories.**
+**81 repositories.**
 
 - [AAH20](https://github.com/AAH20/AAH20)
 - [abliteration-benchmarks](https://github.com/AAH20/abliteration-benchmarks)
@@ -365,6 +365,7 @@ Browse by the problem you are trying to solve. Repository pages state their own 
 - [apex-aura](https://github.com/AAH20/apex-aura)
 - [apex-autopilot-optimization](https://github.com/AAH20/apex-autopilot-optimization)
 - [apex-capitalmatrix](https://github.com/AAH20/apex-capitalmatrix)
+- [apex-compute-energy-futures](https://github.com/AAH20/apex-compute-energy-futures)
 - [apex-critical-infra](https://github.com/AAH20/apex-critical-infra)
 - [apex-cua](https://github.com/AAH20/apex-cua)
 - [apex-fintech-markets](https://github.com/AAH20/apex-fintech-markets)

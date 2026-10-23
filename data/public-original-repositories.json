@@ -505,6 +505,11 @@
     "fork": false
   },
   {
+    "name": "apex-compute-energy-futures",
+    "public": true,
+    "fork": false
+  },
+  {
     "name": "apex-contextfabric",
     "public": true,
     "fork": false
