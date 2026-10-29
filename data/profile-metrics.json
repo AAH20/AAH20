@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-28T11:19:45Z",
+  "generated_at_utc": "2026-10-29T11:30:53Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -9,7 +9,7 @@
   },
   "total": 387,
   "pushed_30d": 352,
-  "stars": 126,
+  "stars": 133,
   "forks": 5,
   "domains": [
     {
@@ -46,7 +46,7 @@
       "name": "Cloud, platform engineering, and reliability",
       "count": 62,
       "pushed_30d": 57,
-      "stars": 17,
+      "stars": 19,
       "kpis": [
         "Unsafe-change escape rate (%)",
         "Verified rollback time (min)"
@@ -76,7 +76,7 @@
       "name": "AI agents: runtime, security, identity, and governance",
       "count": 128,
       "pushed_30d": 121,
-      "stars": 39,
+      "stars": 44,
       "kpis": [
         "Unauthorized action pass rate (%)",
         "False-denial rate (%)"
