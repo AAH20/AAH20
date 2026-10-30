@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-29T11:30:53Z",
+  "generated_at_utc": "2026-10-30T11:22:43Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -9,7 +9,7 @@
   },
   "total": 387,
   "pushed_30d": 352,
-  "stars": 133,
+  "stars": 135,
   "forks": 5,
   "domains": [
     {
@@ -46,7 +46,7 @@
       "name": "Cloud, platform engineering, and reliability",
       "count": 62,
       "pushed_30d": 57,
-      "stars": 19,
+      "stars": 20,
       "kpis": [
         "Unsafe-change escape rate (%)",
         "Verified rollback time (min)"
@@ -96,7 +96,7 @@
       "name": "Other original projects",
       "count": 81,
       "pushed_30d": 81,
-      "stars": 37,
+      "stars": 38,
       "kpis": [
         "Project-specific protocol",
         "Linked source evidence"
