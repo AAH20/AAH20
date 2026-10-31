@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-10-30T11:22:43Z",
+  "generated_at_utc": "2026-10-31T10:55:00Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -8,7 +8,7 @@
     "forks": "Sum of current forks_count across public originals."
   },
   "total": 387,
-  "pushed_30d": 352,
+  "pushed_30d": 304,
   "stars": 135,
   "forks": 5,
   "domains": [
@@ -25,7 +25,7 @@
     {
       "name": "Commerce, revenue, and customer operations",
       "count": 16,
-      "pushed_30d": 15,
+      "pushed_30d": 14,
       "stars": 0,
       "kpis": [
         "Incident precision (%)",
@@ -35,7 +35,7 @@
     {
       "name": "GPU, model serving, and AI economics",
       "count": 23,
-      "pushed_30d": 20,
+      "pushed_30d": 19,
       "stars": 1,
       "kpis": [
         "p95 first-token latency (ms)",
@@ -45,7 +45,7 @@
     {
       "name": "Cloud, platform engineering, and reliability",
       "count": 62,
-      "pushed_30d": 57,
+      "pushed_30d": 56,
       "stars": 20,
       "kpis": [
         "Unsafe-change escape rate (%)",
@@ -65,7 +65,7 @@
     {
       "name": "Physical AI, robotics, and biometrics",
       "count": 21,
-      "pushed_30d": 20,
+      "pushed_30d": 16,
       "stars": 8,
       "kpis": [
         "Missed unsafe action rate (%)",
@@ -75,7 +75,7 @@
     {
       "name": "AI agents: runtime, security, identity, and governance",
       "count": 128,
-      "pushed_30d": 121,
+      "pushed_30d": 104,
       "stars": 44,
       "kpis": [
         "Unauthorized action pass rate (%)",
@@ -85,7 +85,7 @@
     {
       "name": "Data, simulation, and decision systems",
       "count": 28,
-      "pushed_30d": 28,
+      "pushed_30d": 26,
       "stars": 16,
       "kpis": [
         "Data freshness lag p95 (s)",
@@ -95,7 +95,7 @@
     {
       "name": "Other original projects",
       "count": 81,
-      "pushed_30d": 81,
+      "pushed_30d": 59,
       "stars": 38,
       "kpis": [
         "Project-specific protocol",
