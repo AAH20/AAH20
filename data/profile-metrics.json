@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-07T11:42:40Z",
+  "generated_at_utc": "2026-11-08T11:55:35Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -8,9 +8,9 @@
     "forks": "Sum of current forks_count across public originals."
   },
   "total": 387,
-  "pushed_30d": 45,
-  "stars": 136,
-  "forks": 6,
+  "pushed_30d": 41,
+  "stars": 137,
+  "forks": 7,
   "domains": [
     {
       "name": "Low-latency systems and silicon acceleration",
@@ -75,8 +75,8 @@
     {
       "name": "AI agents: runtime, security, identity, and governance",
       "count": 128,
-      "pushed_30d": 11,
-      "stars": 44,
+      "pushed_30d": 8,
+      "stars": 45,
       "kpis": [
         "Unauthorized action pass rate (%)",
         "False-denial rate (%)"
@@ -95,7 +95,7 @@
     {
       "name": "Other original projects",
       "count": 81,
-      "pushed_30d": 25,
+      "pushed_30d": 24,
       "stars": 38,
       "kpis": [
         "Project-specific protocol",
