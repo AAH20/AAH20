@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-09T13:53:01Z",
+  "generated_at_utc": "2026-11-10T13:27:28Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -8,8 +8,8 @@
     "forks": "Sum of current forks_count across public originals."
   },
   "total": 387,
-  "pushed_30d": 38,
-  "stars": 138,
+  "pushed_30d": 21,
+  "stars": 139,
   "forks": 7,
   "domains": [
     {
@@ -75,8 +75,8 @@
     {
       "name": "AI agents: runtime, security, identity, and governance",
       "count": 128,
-      "pushed_30d": 6,
-      "stars": 45,
+      "pushed_30d": 1,
+      "stars": 46,
       "kpis": [
         "Unauthorized action pass rate (%)",
         "False-denial rate (%)"
@@ -85,7 +85,7 @@
     {
       "name": "Data, simulation, and decision systems",
       "count": 28,
-      "pushed_30d": 6,
+      "pushed_30d": 2,
       "stars": 16,
       "kpis": [
         "Data freshness lag p95 (s)",
@@ -95,7 +95,7 @@
     {
       "name": "Other original projects",
       "count": 81,
-      "pushed_30d": 23,
+      "pushed_30d": 15,
       "stars": 38,
       "kpis": [
         "Project-specific protocol",
