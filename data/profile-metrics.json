@@ -1,5 +1,5 @@
 {
-  "generated_at_utc": "2026-11-19T14:25:17Z",
+  "generated_at_utc": "2026-11-20T13:59:45Z",
   "source": "https://api.github.com/users/AAH20/repos",
   "definitions": {
     "public_original": "Public repository owned by AAH20 with fork=false; archived repositories remain included.",
@@ -8,7 +8,7 @@
     "forks": "Sum of current forks_count across public originals."
   },
   "total": 387,
-  "pushed_30d": 11,
+  "pushed_30d": 10,
   "stars": 139,
   "forks": 7,
   "domains": [
@@ -95,7 +95,7 @@
     {
       "name": "Other original projects",
       "count": 81,
-      "pushed_30d": 7,
+      "pushed_30d": 6,
       "stars": 38,
       "kpis": [
         "Project-specific protocol",
